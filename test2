@@ -1,6 +1,364 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CvQCnwZ.png" group-title="INFO",* Fluxus IPTV
-http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+#EXTINF:0 group-title="(FR) France",CANAL SERIES | HD (FR)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/468.m3u8
 
+#EXTINF:0 group-title="(FR) France",SEASONS | HD (FR)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/2340.m3u8
 
+#EXTINF:0 group-title="(DE) Germany",TNT SERIE | HD (DE)
+http://sw.fannan.se:8000/live/zizo18040/54544452/8078.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",TNT SERIE | HD (DE)
+http://54.36.168.168:8000/live/zizo18040/54544452/8078.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",TNT SERIE | SD (DE)
+http://sw.fannan.se:8000/live/zizo18040/54544452/8077.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",TNT SERIE | SD (DE)
+http://54.36.168.168:8000/live/zizo18040/54544452/8077.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL-NAHAR-CINEMA | SD (AR)
+http://54.36.168.168:8000/live/zizo18040/54544452/7028.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",ART CINEMA | SD (AR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/7129.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",ART CINEMA | SD (AR)
+http://54.36.168.168:8000/live/zizo18040/54544452/7129.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",BEIN MOVIES 1 | HD (AR)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10846.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",CAIRO-CINEMA | SD (AR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/6998.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",CINEMA 720 | SD (AR)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10674.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",CINEMA2 | HD (AR)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10675.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",MOGA CINEMA | SD (AR)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10667.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",NAHAR CINEMA | SD (AR)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10671.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN MOVIE ACTION | SD (AR)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10604.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",ROTANA CINEMA LIBANON | SD (AR)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15336.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",ROTANA-CINEMA | SD (AR)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10693.m3u8
+
+#EXTINF:0 group-title="(FR) France",CANAL CINEMA | HD (FR)
+http://188.93.238.184:8000/live/ryan/ryan/3317.m3u8
+
+#EXTINF:0 group-title="(FR) France",CANAL CINEMA | HD (FR)
+http://izgemma.ddns.net:8000/live/test/test/3317.m3u8
+
+#EXTINF:0 group-title="(FR) France",CANAL CINEMA | HD (FR)
+http://izgemma.ddns.net:8000/live/test/test/8102.m3u8
+
+#EXTINF:0 group-title="(FR) France",CANAL CINEMA | HD (FR)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/467.m3u8
+
+#EXTINF:0 group-title="(FR) France",CINE | SD (FR)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/464.m3u8
+
+#EXTINF:0 group-title="(FR) France",CINE CLASSIC | SD (FR)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/463.m3u8
+
+#EXTINF:0 group-title="(FR) France",CINE EMOTION | HD (FR)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/462.m3u8
+
+#EXTINF:0 group-title="(FR) France",CINE FAMIZ | HD (FR)
+http://163.172.62.63:8000/live/fazeel/fazeel/1757.m3u8
+
+#EXTINF:0 group-title="(FR) France",CINE FAMIZ | HD (FR)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/461.m3u8
+
+#EXTINF:0 group-title="(FR) France",CINE FRISSON | HD (FR)
+http://163.172.62.63:8000/live/fazeel/fazeel/1768.m3u8
+
+#EXTINF:0 group-title="(FR) France",CINE FRISSON | HD (FR)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/460.m3u8
+
+#EXTINF:0 group-title="(FR) France",CINE FX | SD (FR)
+http://163.172.62.63:8000/live/fazeel/fazeel/1642.m3u8
+
+#EXTINF:0 group-title="(FR) France",CINE POLAR | SD (FR)
+http://188.93.238.184:8000/live/ryan/ryan/3310.m3u8
+
+#EXTINF:0 group-title="(FR) France",CINE POLAR | SD (FR)
+http://izgemma.ddns.net:8000/live/test/test/3310.m3u8
+
+#EXTINF:0 group-title="(FR) France",CINE PREMIER | HD (FR)
+http://163.172.62.63:8000/live/fazeel/fazeel/1777.m3u8
+
+#EXTINF:0 group-title="(FR) France",CINE PREMIER | HD (FR)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/457.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA | HD (DE)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/467.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA 24 | HD (DE)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/468.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA 24 | SD (DE)
+http://sw.fannan.se:8000/live/zizo18040/54544452/8042.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY CINEMA 24 | SD (DE)
+http://54.36.168.168:8000/live/zizo18040/54544452/8042.m3u8
+
+#EXTINF:0 group-title="(IN) India",UTV MOVIES | SD (IN)
+http://188.93.238.184:8000/live/ryan/ryan/290.m3u8
+
+#EXTINF:0 group-title="(IN) India",UTV MOVIES | SD (IN)
+http://izgemma.ddns.net:8000/live/test/test/290.m3u8
+
+#EXTINF:0 group-title="(IN) India",ZEE CINEMA | HD (IN)
+http://izgemma.ddns.net:8000/live/test/test/264.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",CINEMA COMEDY | SD (IT)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/252.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",PREMIUM CINEMA | HD (IT)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10515.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",PREMIUM CINEMA 2 | HD (IT)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2990.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",PREMIUM CINEMA 2 | HD (IT)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/607.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",PREMIUM CINEMA COMEDY | SD (IT)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3032.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",RAI MOVIE | SD (IT)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3045.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA | HD (IT)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/526.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA 1 | HD (IT)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/524.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA 1 | SD (IT)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/488.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA 24 | HD (IT)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3002.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA CLASSIC | HD (IT)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/487.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA CLASSIC 2 | HD (IT)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3007.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA COMEDY | HD (IT)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3003.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA COMEDY | HD (IT)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/486.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA COMEDY 2 | HD (IT)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3008.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA CULT | HD (IT)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3009.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA CULT | HD (IT)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/485.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA FAMILY | HD (IT)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/484.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA HITS | HD (IT)
+http://163.172.62.63:8000/live/fazeel/fazeel/1600.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA HITS | HD (IT)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/483.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA MAX | HD (IT)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3004.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA MAX | SD (IT)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/251.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA MAX 1 | HD (IT)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3005.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA MAX 1 | SD (IT)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/481.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA PASSION | HD (IT)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/482.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CINEMA PASSION | SD (IT)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3000.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",TVCINE 3 | HD (PT)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2321.m3u8
+
+#EXTINF:0 group-title="(RU) Russia",PARAMOUNT COMEDY | SD (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18445.m3u8
+
+#EXTINF:0 group-title="(EX-YU) Slovenia",PINK MOVIES 1 | SD (EX-YU)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3409.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",CANAL DCINE | SD (SP)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3620.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR CINE ESPANOL | SD (SP)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3149.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR DCINE | HD (SP)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3136.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",PARAMOUNT CHANNEL | SD (SP)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3124.m3u8
+
+#EXTINF:0 group-title="(CH) Switzerland",XIN MOVIE CHANNEL | SD (CH)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22232.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",CINE 5 | SD (TR)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19918.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",CINE 5 | SD (TR)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19918.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",B4U MOVIES | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/283.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",B4U MOVIES | SD (UK)
+http://izgemma.ddns.net:8000/live/test/test/283.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",MOVIES 24 | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/26571.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",MOVIES 24 | SD (UK)
+http://izgemma.ddns.net:8000/live/test/test/26571.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",MOVIES 4 MEN | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11869.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",MOVIES 4 MEN | SD (UK)
+http://izgemma.ddns.net:8000/live/test/test/11869.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",MOVIES 4 MEN 1 | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/31321.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",MOVIES 4 MEN 1 | SD (UK)
+http://izgemma.ddns.net:8000/live/test/test/31321.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",RISHTEY CINE PLEX | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/3603.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA ACTION | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/27094.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA ACTION | SD (UK)
+http://izgemma.ddns.net:8000/live/test/test/27094.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA COMEDY | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/27095.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA DISNEY | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/27092.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA DISNEY | SD (UK)
+http://izgemma.ddns.net:8000/live/test/test/27092.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA DRAMA | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/21865.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA DRAMA | HD (UK)
+http://izgemma.ddns.net:8000/live/test/test/21865.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA FAMILY | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11377.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA FAMILY | HD (UK)
+http://izgemma.ddns.net:8000/live/test/test/11377.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA FAMILY | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/27093.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA FAMILY | SD (UK)
+http://izgemma.ddns.net:8000/live/test/test/27093.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA HITS | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37157.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA PREMIER | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/27090.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA PREMIER | SD (UK)
+http://izgemma.ddns.net:8000/live/test/test/27090.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA PREMIERE | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/32855.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA SELECT | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/27097.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA SELECT | SD (UK)
+http://izgemma.ddns.net:8000/live/test/test/27097.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA SHOWCASE | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37274.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA SHOWCASE | HD (UK)
+http://izgemma.ddns.net:8000/live/test/test/37274.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA THRILLER | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/23804.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA THRILLER | HD (UK)
+http://izgemma.ddns.net:8000/live/test/test/23804.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES ACTION & ADVENTURE | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/2754.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES CRIME & THRILLER | HD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/2198.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES DISNEY | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1989.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES MODERN GREAT | HD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/2412.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES PREMIERE | HD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1351.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES SCFI-HORROR | HD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/2411.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES SELECT | HD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1350.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES SHOWCASE | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1983.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",TRUE MOVIES | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/26494.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",TRUE MOVIES | SD (UK)
+http://izgemma.ddns.net:8000/live/test/test/26494.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",TRUE MOVIES 1 | HD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1345.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",TRUE MOVIES 2 | HD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1344.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",ZEE CINEMA | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11310.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",ZEE CINEMA | HD (UK)
+http://izgemma.ddns.net:8000/live/test/test/11310.m3u8
