@@ -11286,6 +11286,392 @@ http://78.41.175.170:80/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV" tvg-logo="http://i.imgur.com/UkTalha.png" group-title="CHINA",Shanghai - Skyline [M3U8]
 http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
 
+#EXTINF:0 group-title="(AF) Afghanistan",AAA FAMILY | SD (AF)
+http://sw.fannan.se:8000/live/zizo18040/54544452/10620.m3u8
+
+#EXTINF:0 group-title="(AF) Afghanistan",GEM JUNIOR | SD (AF)
+http://sw.fannan.se:8000/live/zizo18040/54544452/10607.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",JUNIOR TV | SD (AL)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/813.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",CARTOON NETWORK | SD (AR)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4809.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",JEEM-CARTOONARABIA | SD (AR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/6970.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",JEEM-CARTOONARABIA | SD (AR)
+http://54.36.168.168:8000/live/zizo18040/54544452/6970.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",KIDS AJYAL TV | SD (AR)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15379.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",KIDS AJYAL TV | SD (AR)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15379.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",KIDS AL MAJD | SD (AR)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15380.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",KIDS AL MAJD | SD (AR)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15380.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",KIDS SPACETOON | SD (AR)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15386.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",KIDS SPACETOON | SD (AR)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15386.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",MAJID KIDS TV DUBAI | SD (AR)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15441.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",MAJID KIDS TV DUBAI | SD (AR)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15441.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",NAT KIDS LOCAL | SD (AR)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20362.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",NAT KIDS LOCAL | SD (AR)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20362.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",NILE FAMILY | SD (AR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/6944.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",NILE FAMILY | SD (AR)
+http://54.36.168.168:8000/live/zizo18040/54544452/6944.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",NILE FAMILY | SD (AR)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10686.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",TOYOR BABY | SD (AR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/9504.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",TOYOR BABY | SD (AR)
+http://54.36.168.168:8000/live/zizo18040/54544452/9504.m3u8
+
+#EXTINF:0 group-title="(BG) Bulgaria",DIEMA FAMILY | SD (BG)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/633.m3u8
+
+#EXTINF:0 group-title="(BG) Bulgaria",DIEMA FAMILY | SD (BG)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2247.m3u8
+
+#EXTINF:0 group-title="(BG) Bulgaria",DISNEY CHANNEL | SD (BG)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/277.m3u8
+
+#EXTINF:0 group-title="(BG) Bulgaria",NICK JR | SD (BG)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4390.m3u8
+
+#EXTINF:0 group-title="(FR) France",BOOMERANG | HD (FR)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3162.m3u8
+
+#EXTINF:0 group-title="(FR) France",BOOMERANG | SD (FR)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/1157.m3u8
+
+#EXTINF:0 group-title="(FR) France",BOOMERANG | SD (FR)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/140.m3u8
+
+#EXTINF:0 group-title="(FR) France",CANAL FAMILY | HD (FR)
+http://163.172.62.63:8000/live/fazeel/fazeel/1763.m3u8
+
+#EXTINF:0 group-title="(FR) France",CANAL FAMILY | HD (FR)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/742.m3u8
+
+#EXTINF:0 group-title="(FR) France",CARTOON NETWORK | SD (FR)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/740.m3u8
+
+#EXTINF:0 group-title="(FR) France",DISNEY CHANNEL 1 | HD (FR)
+http://163.172.62.63:8000/live/fazeel/fazeel/2729.m3u8
+
+#EXTINF:0 group-title="(FR) France",DISNEY JUNIOR | HD (FR)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3158.m3u8
+
+#EXTINF:0 group-title="(FR) France",DISNEY JUNIOR | SD (FR)
+http://163.172.62.63:8000/live/fazeel/fazeel/1954.m3u8
+
+#EXTINF:0 group-title="(FR) France",DISNEY JUNIOR | SD (FR)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/736.m3u8
+
+#EXTINF:0 group-title="(FR) France",DISNEY JUNIOR | SD (FR)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/569.m3u8
+
+#EXTINF:0 group-title="(FR) France",DISNEY XD | HD (FR)
+http://163.172.62.63:8000/live/fazeel/fazeel/1957.m3u8
+
+#EXTINF:0 group-title="(FR) France",DISNEY XD | HD (FR)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3165.m3u8
+
+#EXTINF:0 group-title="(FR) France",NICKELODEON | SD (FR)
+http://163.172.62.63:8000/live/fazeel/fazeel/1655.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",CARTOON NETWORK | SD (DE)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/1993.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",DISNEY BOOMERANG | SD (DE)
+http://163.172.62.63:8000/live/fazeel/fazeel/1422.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",DISNEY CHANNEL | HD (DE)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/296.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",DISNEY JUNIOR | HD (DE)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15162.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",DISNEY JUNIOR | HD (DE)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/1989.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",DISNEY JUNIOR | HD (DE)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15162.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",DISNEY XD | HD (DE)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/464.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",FAMILY TV | SD (DE)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14147.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",FAMILY TV | SD (DE)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14147.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",NICKELODEON | SD (DE)
+http://163.172.62.63:8000/live/fazeel/fazeel/1435.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",NICKELODEON | SD (DE)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/427.m3u8
+
+#EXTINF:0 group-title="(GR) Greece",LIFE KIDS NETWORK | SD (GR)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20198.m3u8
+
+#EXTINF:0 group-title="(GR) Greece",LIFE KIDS NETWORK | SD (GR)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20198.m3u8
+
+#EXTINF:0 group-title="(GR) Greece",NICKELODEON | SD (GR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/11034.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",CARTOON NETWORK | SD (IT)
+http://sw.fannan.se:8000/live/zizo18040/54544452/8107.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",CARTOON NETWORK | SD (IT)
+http://54.36.168.168:8000/live/zizo18040/54544452/8107.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",CARTOONITO | SD (IT)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2996.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",FOX ANIMATION | SD (IT)
+http://sw.fannan.se:8000/live/zizo18040/54544452/8130.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY DISNEY JUNIOR | SD (IT)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2993.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY PREMIUM | SD (IT)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2987.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY PREMIUM | SD (IT)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2987.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",DISNEY XD | SD (MX)
+http://giantofthefuture.gleeze.com:25461/live/marcos/marcos/4814.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",NICK | SD (MX)
+http://giantofthefuture.gleeze.com:25461/live/marcos/marcos/4798.m3u8
+
+#EXTINF:0 group-title="(NL) Netherlands",BABY TV | SD (NL)
+http://sw.fannan.se:8000/live/zizo18040/54544452/7877.m3u8
+
+#EXTINF:0 group-title="(NL) Netherlands",FILM 1 COMEDY AND KIDS | SD (NL)
+http://sw.fannan.se:8000/live/zizo18040/54544452/7885.m3u8
+
+#EXTINF:0 group-title="(NL) Netherlands",FILM 1 COMEDY AND KIDS | SD (NL)
+http://54.36.168.168:8000/live/zizo18040/54544452/7885.m3u8
+
+#EXTINF:0 group-title="(NL) Netherlands",NICKELODEON | SD (NL)
+http://sw.fannan.se:8000/live/zizo18040/54544452/7883.m3u8
+
+#EXTINF:0 group-title="(NL) Netherlands",NICKELODEON | SD (NL)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/547.m3u8
+
+#EXTINF:0 group-title="(PL) Poland",CANAL FAMILY | HD (PL)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4698.m3u8
+
+#EXTINF:0 group-title="(PL) Poland",NICK JR | SD (PL)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4703.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",CARTOON NETWORK | SD (PT)
+http://163.172.62.63:8000/live/fazeel/fazeel/3135.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",DISNEY CHANNEL | SD (PT)
+http://163.172.62.63:8000/live/fazeel/fazeel/3136.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",DISNEY CHANNEL | SD (PT)
+http://giantofthefuture.gleeze.com:25461/live/marcos/marcos/1035.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",DISNEY JUNIOR | SD (PT)
+http://giantofthefuture.gleeze.com:25461/live/marcos/marcos/1036.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",NICKELODEON | SD (PT)
+http://giantofthefuture.gleeze.com:25461/live/marcos/marcos/1074.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",SIC KIDS | SD (PT)
+http://163.172.62.63:8000/live/fazeel/fazeel/3278.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",SIC KIDS | SD (PT)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2352.m3u8
+
+#EXTINF:0 group-title="(RO) Romania",DISNEY CHANNEL | SD (RO)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3064.m3u8
+
+#EXTINF:0 group-title="(RO) Romania",DISNEY JUNIOR | SD (RO)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4478.m3u8
+
+#EXTINF:0 group-title="(RO) Romania",DISNEY JUNIOR | SD (RO)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3065.m3u8
+
+#EXTINF:0 group-title="(RO) Romania",NICKELODEON | SD (RO)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4484.m3u8
+
+#EXTINF:0 group-title="(RU) Russia",CARTOON | SD (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18428.m3u8
+
+#EXTINF:0 group-title="(RU) Russia",DISNEY CHANNEL | SD (RU)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4660.m3u8
+
+#EXTINF:0 group-title="(RU) Russia",NICK | SD (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21095.m3u8
+
+#EXTINF:0 group-title="(RU) Russia",NICK JUNIOR | SD (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18449.m3u8
+
+#EXTINF:0 group-title="(RU) Russia",NICKELODEON | HD (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9187.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",DISNEY CHANNEL | SD (SP)
+http://163.172.62.63:8000/live/fazeel/fazeel/3052.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",DISNEY JUNIOR | SD (SP)
+http://163.172.62.63:8000/live/fazeel/fazeel/2044.m3u8
+
+#EXTINF:0 group-title="(SE) Sweden",CARTOON NETWORK | SD (SE)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/3910.m3u8
+
+#EXTINF:0 group-title="(SE) Sweden",DISNEY CHANNEL | SD (SE)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/1663.m3u8
+
+#EXTINF:0 group-title="(SE) Sweden",NICK JR | SD (SE)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/3911.m3u8
+
+#EXTINF:0 group-title="(SE) Sweden",NICKELODEON | SD (SE)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/1664.m3u8
+
+#EXTINF:0 group-title="(SE) Sweden",VIASAT FILM FAMILY | SD (SE)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/327.m3u8
+
+#EXTINF:0 group-title="(SE) Sweden",VIASAT FILM FAMILY | SD (SE)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2499.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",CARTOON NETWORK | SD (TR)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/229.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",DISNEY CHANNEL | SD (TR)
+http://iptv-webtv.at:8000/live/orangetech/stream/38.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",DISNEY CHANNEL | SD (TR)
+http://149.202.196.91:8000/live/orangetech/stream/38.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",DISNEY CHANNEL | SD (TR)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/227.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",ARY FAMILY | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/24462.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",BABY TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11383.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",BABY TV | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/2164.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",BABY TV | SD (UK)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2203.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",BOOMERANG | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/32934.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",BOOMERANG | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37439.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",BOOMERANG | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/2399.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",CARTOON NETWORK | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/2007.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",CARTOONITO | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/2402.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",CARTOONITO | SD (UK)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4729.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",CBEEBIES | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11387.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",DISNEY CHANNEL | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/12652.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",DISNEY CHANNEL | HD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1358.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",DISNEY CHANNEL | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11380.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",DISNEY JNR | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/12651.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",DISNEY JNR | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11388.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",DISNEY JR | SD (UK)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/1710.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",DISNEY JUNIOR | HD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1357.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",DISNEY JUNIOR | SD (UK)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/628.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",DISNEY XD | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11381.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",NICK | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1998.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",NICK JUNIOR | HD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1997.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",NICKELODEON | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/2195.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",NICKTOONS | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11391.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",NICKTOONS | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1996.m3u8
+
+#EXTINF:0 group-title="(US) United States",CARTOON | SD (US)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7806.m3u8
+
+#EXTINF:0 group-title="(US) United States",CARTOON | SD (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7806.m3u8
+
+#EXTINF:0 group-title="(US) United States",HBO FAMILY | HD (US)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/2427.m3u8
+
+#EXTINF:0 group-title="(US) United States",NICKELODEN | HD (US)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/2435.m3u8
+
+#EXTINF:0 group-title="(US) United States",NICKELODEON | HD (US)
+http://163.172.62.63:8000/live/fazeel/fazeel/3327.m3u8
+
+#EXTINF:0 group-title="(US) United States",TCT KIDS | SD (US)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21576.m3u8
+
+#EXTINF:0 group-title="(US) United States",TCT KIDS | SD (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21576.m3u8
 
 
 
