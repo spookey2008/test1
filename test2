@@ -12,12 +12,6 @@ http://sw.fannan.se:8000/live/zizo18040/54544452/8078.m3u8
 #EXTINF:0 group-title="(DE) Germany",TNT SERIE | HD (DE)
 http://54.36.168.168:8000/live/zizo18040/54544452/8078.m3u8
 
-#EXTINF:0 group-title="(DE) Germany",TNT SERIE | SD (DE)
-http://sw.fannan.se:8000/live/zizo18040/54544452/8077.m3u8
-
-#EXTINF:0 group-title="(DE) Germany",TNT SERIE | SD (DE)
-http://54.36.168.168:8000/live/zizo18040/54544452/8077.m3u8
-
 #EXTINF:0 group-title="(AR) Arabia",AL-NAHAR-CINEMA | SD (AR)
 http://54.36.168.168:8000/live/zizo18040/54544452/7028.m3u8
 
@@ -58,12 +52,6 @@ http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10693.m3u8
 http://188.93.238.184:8000/live/ryan/ryan/3317.m3u8
 
 #EXTINF:0 group-title="(FR) France",CANAL CINEMA | HD (FR)
-http://izgemma.ddns.net:8000/live/test/test/3317.m3u8
-
-#EXTINF:0 group-title="(FR) France",CANAL CINEMA | HD (FR)
-http://izgemma.ddns.net:8000/live/test/test/8102.m3u8
-
-#EXTINF:0 group-title="(FR) France",CANAL CINEMA | HD (FR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/467.m3u8
 
 #EXTINF:0 group-title="(FR) France",CINE | SD (FR)
@@ -93,9 +81,6 @@ http://163.172.62.63:8000/live/fazeel/fazeel/1642.m3u8
 #EXTINF:0 group-title="(FR) France",CINE POLAR | SD (FR)
 http://188.93.238.184:8000/live/ryan/ryan/3310.m3u8
 
-#EXTINF:0 group-title="(FR) France",CINE POLAR | SD (FR)
-http://izgemma.ddns.net:8000/live/test/test/3310.m3u8
-
 #EXTINF:0 group-title="(FR) France",CINE PREMIER | HD (FR)
 http://163.172.62.63:8000/live/fazeel/fazeel/1777.m3u8
 
@@ -116,12 +101,6 @@ http://54.36.168.168:8000/live/zizo18040/54544452/8042.m3u8
 
 #EXTINF:0 group-title="(IN) India",UTV MOVIES | SD (IN)
 http://188.93.238.184:8000/live/ryan/ryan/290.m3u8
-
-#EXTINF:0 group-title="(IN) India",UTV MOVIES | SD (IN)
-http://izgemma.ddns.net:8000/live/test/test/290.m3u8
-
-#EXTINF:0 group-title="(IN) India",ZEE CINEMA | HD (IN)
-http://izgemma.ddns.net:8000/live/test/test/264.m3u8
 
 #EXTINF:0 group-title="(IT) Italy",CINEMA COMEDY | SD (IT)
 http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/252.m3u8
@@ -225,35 +204,17 @@ http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3124.m3u8
 #EXTINF:0 group-title="(CH) Switzerland",XIN MOVIE CHANNEL | SD (CH)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22232.m3u8
 
-#EXTINF:0 group-title="(TR) Turkey",CINE 5 | SD (TR)
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19918.m3u8
-
-#EXTINF:0 group-title="(TR) Turkey",CINE 5 | SD (TR)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19918.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",B4U MOVIES | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/283.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",B4U MOVIES | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/283.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",MOVIES 24 | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/26571.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",MOVIES 24 | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/26571.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",MOVIES 4 MEN | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/11869.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",MOVIES 4 MEN | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/11869.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",MOVIES 4 MEN 1 | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/31321.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",MOVIES 4 MEN 1 | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/31321.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",RISHTEY CINE PLEX | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/3603.m3u8
@@ -261,35 +222,20 @@ http://188.93.238.184:8000/live/ryan/ryan/3603.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA ACTION | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/27094.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA ACTION | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/27094.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA COMEDY | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/27095.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA DISNEY | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/27092.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA DISNEY | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/27092.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA DRAMA | HD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/21865.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA DRAMA | HD (UK)
-http://izgemma.ddns.net:8000/live/test/test/21865.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA FAMILY | HD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/11377.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA FAMILY | HD (UK)
-http://izgemma.ddns.net:8000/live/test/test/11377.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA FAMILY | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/27093.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA FAMILY | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/27093.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA HITS | HD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/37157.m3u8
@@ -297,29 +243,17 @@ http://188.93.238.184:8000/live/ryan/ryan/37157.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA PREMIER | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/27090.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA PREMIER | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/27090.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA PREMIERE | HD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/32855.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA SELECT | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/27097.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA SELECT | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/27097.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA SHOWCASE | HD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/37274.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA SHOWCASE | HD (UK)
-http://izgemma.ddns.net:8000/live/test/test/37274.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA THRILLER | HD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/23804.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA THRILLER | HD (UK)
-http://izgemma.ddns.net:8000/live/test/test/23804.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",SKY MOVIES ACTION & ADVENTURE | SD (UK)
 http://163.172.62.63:8000/live/fazeel/fazeel/2754.m3u8
@@ -348,9 +282,6 @@ http://163.172.62.63:8000/live/fazeel/fazeel/1983.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",TRUE MOVIES | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/26494.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",TRUE MOVIES | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/26494.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",TRUE MOVIES 1 | HD (UK)
 http://163.172.62.63:8000/live/fazeel/fazeel/1345.m3u8
 
@@ -359,9 +290,6 @@ http://163.172.62.63:8000/live/fazeel/fazeel/1344.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",ZEE CINEMA | HD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/11310.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",ZEE CINEMA | HD (UK)
-http://izgemma.ddns.net:8000/live/test/test/11310.m3u8
 
 #EXTINF:0 group-title="(AF) Afghanistan",VARZESH SPORT | SD (AF)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19677.m3u8
@@ -435,9 +363,6 @@ http://163.172.62.63:8000/live/fazeel/fazeel/3495.m3u8
 #EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 8 | HD (AR)
 http://163.172.62.63:8000/live/fazeel/fazeel/1462.m3u8
 
-#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 9 | HD (AR)
-http://izgemma.ddns.net:8000/live/test/test/376.m3u8
-
 #EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS 9HD | SD (AR)
 http://163.172.62.63:8000/live/fazeel/fazeel/3502.m3u8
 
@@ -464,9 +389,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20905.m3u8
 
 #EXTINF:0 group-title="(AR) Arabia",DUBAI SPORT 2 LOCAL | HD (AR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20905.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",IRAQIA SPORT IRAQ | SD (AR)
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15628.m3u8
 
 #EXTINF:0 group-title="(AR) Arabia",IRAQIA SPORT IRAQ | SD (AR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15628.m3u8
@@ -519,9 +441,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/17579.m3u8
 #EXTINF:0 group-title="(BG) Bulgaria",DIEMA SPORT | SD (BG)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2373.m3u8
 
-#EXTINF:0 group-title="(BG) Bulgaria",DIEMA SPORT 2 | SD (BG)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2372.m3u8
-
 #EXTINF:0 group-title="(BG) Bulgaria",NOVA SPORT | HD (BG)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2377.m3u8
 
@@ -567,9 +486,6 @@ http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/229.m3u8
 #EXTINF:0 group-title="(FR) France",GOLF | HD (FR)
 http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/2057.m3u8
 
-#EXTINF:0 group-title="(FR) France",GOLF TV | SD (FR)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20407.m3u8
-
 #EXTINF:0 group-title="(FR) France",INFOSPORT | SD (FR)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10776.m3u8
 
@@ -588,9 +504,6 @@ http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/2062.m3u8
 #EXTINF:0 group-title="(DE) Germany",EUROSPORT | SD (DE)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/422.m3u8
 
-#EXTINF:0 group-title="(DE) Germany",SKY SPORTS 1HD | SD (DE)
-http://188.93.238.184:8000/live/ryan/ryan/37801.m3u8
-
 #EXTINF:0 group-title="(GR) Greece",TILESPORT TV | SD (GR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22051.m3u8
 
@@ -605,9 +518,6 @@ http://163.172.62.63:8000/live/fazeel/fazeel/2149.m3u8
 
 #EXTINF:0 group-title="(IN) India",STAR SPORTS 3 | HD (IN)
 http://188.93.238.184:8000/live/ryan/ryan/610.m3u8
-
-#EXTINF:0 group-title="(IN) India",STAR SPORTS 3 | HD (IN)
-http://izgemma.ddns.net:8000/live/test/test/610.m3u8
 
 #EXTINF:0 group-title="(IN) India",STAR SPORTS 3 | SD (IN)
 http://188.93.238.184:8000/live/ryan/ryan/308.m3u8
@@ -687,17 +597,8 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19104.m3u8
 #EXTINF:0 group-title="(PT) Portugal",EUROSPORT 1 | SD (PT)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2304.m3u8
 
-#EXTINF:0 group-title="(PT) Portugal",EUROSPORT 2 | SD (PT)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2303.m3u8
-
-#EXTINF:0 group-title="(PT) Portugal",SPORT TV 2 | HD (PT)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2301.m3u8
-
 #EXTINF:0 group-title="(PT) Portugal",SPORT TV 2 | HD (PT)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2301.m3u8
-
-#EXTINF:0 group-title="(PT) Portugal",SPORT TV 3 | HD (PT)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2300.m3u8
 
 #EXTINF:0 group-title="(PT) Portugal",SPORT TV 3 | HD (PT)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2300.m3u8
@@ -719,9 +620,6 @@ http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3070.m3u8
 
 #EXTINF:0 group-title="(RO) Romania",SPORT KLUB 3 | HD (RO)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2385.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",SPORT ROMANIA | SD (RO)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3068.m3u8
 
 #EXTINF:0 group-title="(RO) Romania",SPORT ROMANIA | SD (RO)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3068.m3u8
@@ -753,14 +651,8 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18455.m3u8
 #EXTINF:0 group-title="(RU) Russia",SPORT 1 | SD (RU)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12743.m3u8
 
-#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 2 | HD (EX-YU)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2364.m3u8
-
 #EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 3 | HD (EX-YU)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2363.m3u8
-
-#EXTINF:0 group-title="(EX-YU) Slovenia",ARENA SPORT 4 | HD (EX-YU)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2362.m3u8
 
 #EXTINF:0 group-title="(SP) Spain",ESPORT3 TV | SD (SP)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10000.m3u8
@@ -850,25 +742,13 @@ http://188.93.238.184:8000/live/ryan/ryan/29479.m3u8
 http://188.93.238.184:8000/live/ryan/ryan/37909.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/29479.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
 http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/1738.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | HD (UK)
-http://izgemma.ddns.net:8000/live/test/test/36506.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/37382.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/37382.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/36515.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
-http://izgemma.ddns.net:8000/live/test/test/36515.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/32859.m3u8
@@ -876,23 +756,11 @@ http://188.93.238.184:8000/live/ryan/ryan/32859.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/37155.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/32859.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/37155.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/36508.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/37153.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/36508.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/37153.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/32931.m3u8
@@ -903,14 +771,8 @@ http://188.93.238.184:8000/live/ryan/ryan/32223.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/37839.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/32223.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | HD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/10759.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | HD (UK)
-http://izgemma.ddns.net:8000/live/test/test/10759.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/10760.m3u8
@@ -918,14 +780,8 @@ http://188.93.238.184:8000/live/ryan/ryan/10760.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/37841.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/37841.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",CHELSEA TV | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/10770.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",CHELSEA TV | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/10770.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",EIR SPORT 1 | SD (UK)
 http://163.172.62.63:8000/live/fazeel/fazeel/3753.m3u8
@@ -936,14 +792,8 @@ http://188.93.238.184:8000/live/ryan/ryan/37425.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/10763.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
-http://izgemma.ddns.net:8000/live/test/test/10763.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",LFC TV | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/31950.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",LFC TV | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/31950.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",LFCTV | SD (UK)
 http://163.172.62.63:8000/live/fazeel/fazeel/2394.m3u8
@@ -951,20 +801,11 @@ http://163.172.62.63:8000/live/fazeel/fazeel/2394.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",MOTORSPORTS TV | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/10772.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",MOTORSPORTS TV | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/10772.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",MUTV | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/29480.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",MUTV | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/29480.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORTS | HD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/10767.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORTS | HD (UK)
-http://izgemma.ddns.net:8000/live/test/test/10767.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
 http://163.172.62.63:8000/live/fazeel/fazeel/1894.m3u8
@@ -973,16 +814,10 @@ http://163.172.62.63:8000/live/fazeel/fazeel/1894.m3u8
 http://188.93.238.184:8000/live/ryan/ryan/29478.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",RACING | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/29478.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",RACING | SD (UK)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2202.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT CRICKET | SD (UK)
 http://163.172.62.63:8000/live/fazeel/fazeel/1342.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT F1 | HD (UK)
-http://163.172.62.63:8000/live/fazeel/fazeel/1337.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT THE OPEN BK | SD (UK)
 http://163.172.62.63:8000/live/fazeel/fazeel/1338.m3u8
@@ -993,14 +828,8 @@ http://163.172.62.63:8000/live/fazeel/fazeel/1922.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/36509.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
-http://izgemma.ddns.net:8000/live/test/test/36509.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/36510.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/36510.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/11911.m3u8
@@ -1011,12 +840,6 @@ http://188.93.238.184:8000/live/ryan/ryan/37294.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/37834.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/37294.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/37834.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS BOX OFFICE PPV LIVE DURING EVENTS | SD (UK)
 http://163.172.62.63:8000/live/fazeel/fazeel/3778.m3u8
 
@@ -1026,23 +849,14 @@ http://188.93.238.184:8000/live/ryan/ryan/16599.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | SD (UK)
 http://163.172.62.63:8000/live/fazeel/fazeel/2392.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/16599.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET BK | SD (UK)
 http://163.172.62.63:8000/live/fazeel/fazeel/2391.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/9722.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/9722.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/12451.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
-http://izgemma.ddns.net:8000/live/test/test/12451.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/36511.m3u8
@@ -1050,17 +864,8 @@ http://188.93.238.184:8000/live/ryan/ryan/36511.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/37400.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/36511.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/37400.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/37569.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
-http://izgemma.ddns.net:8000/live/test/test/37569.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/32594.m3u8
@@ -1074,26 +879,11 @@ http://163.172.62.63:8000/live/fazeel/fazeel/2388.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/37826.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/36513.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/37826.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | HD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/9723.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | HD (UK)
-http://izgemma.ddns.net:8000/live/test/test/9723.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/29507.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | HD (UK)
 http://163.172.62.63:8000/live/fazeel/fazeel/2203.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/37299.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HDS TRUE | SD (UK)
 http://163.172.62.63:8000/live/fazeel/fazeel/2382.m3u8
@@ -1104,9 +894,6 @@ http://188.93.238.184:8000/live/ryan/ryan/36514.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREM LGE | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/13633.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREM LGE | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/13633.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | SD (UK)
 http://163.172.62.63:8000/live/fazeel/fazeel/2385.m3u8
 
@@ -1115,12 +902,6 @@ http://163.172.62.63:8000/live/fazeel/fazeel/2386.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS THE ACTION | SD (UK)
 http://163.172.62.63:8000/live/fazeel/fazeel/2389.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS THE ACTION BK | SD (UK)
-http://163.172.62.63:8000/live/fazeel/fazeel/2390.m3u8
-
-#EXTINF:0 group-title="(US) United States",ESPN | HD (US)
-http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/2416.m3u8
 
 #EXTINF:0 group-title="(US) United States",ESPN | SD (US)
 http://80.80.160.168/live/6/2500000/live.m3u8
@@ -1139,30 +920,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18861.m3u8
 
 #EXTINF:0 group-title="(US) United States",NFL NOW TV | SD (US)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18874.m3u8
-
-#EXTINF:0 group-title="(US) United States",PAC-12 LOS ANGELES | SD (US)
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9471.m3u8
-
-#EXTINF:0 group-title="(US) United States",PAC-12 LOS ANGELES | SD (US)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9471.m3u8
-
-#EXTINF:0 group-title="(US) United States",PAC-12 NETWORK | SD (US)
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9476.m3u8
-
-#EXTINF:0 group-title="(US) United States",PAC-12 NETWORK | SD (US)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9476.m3u8
-
-#EXTINF:0 group-title="(US) United States",PAC-12 OREGON | SD (US)
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9474.m3u8
-
-#EXTINF:0 group-title="(US) United States",PAC-12 OREGON | SD (US)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9474.m3u8
-
-#EXTINF:0 group-title="(US) United States",PAC-12 WASHINGTON | SD (US)
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9475.m3u8
-
-#EXTINF:0 group-title="(US) United States",PAC-12 WASHINGTON | SD (US)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9475.m3u8
 
 #EXTINF:0 group-title="(US) United States",RED BULL TV | SD (US)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19383.m3u8
@@ -1218,12 +975,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9051.m3u8
 #EXTINF:0 group-title="(FR) France",TRACE URBAN | HD (FR)
 http://163.172.62.63:8000/live/fazeel/fazeel/3294.m3u8
 
-#EXTINF:0 group-title="(FR) France",TRACE URBAN | SD (FR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3188.m3u8
-
-#EXTINF:0 group-title="(FR) France",VIRGIN RADIO TV | SD (FR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3183.m3u8
-
 #EXTINF:0 group-title="(GR) Greece",MUSIC CHANNEL | SD (GR)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3066.m3u8
 
@@ -1232,9 +983,6 @@ http://188.93.238.184:8000/live/ryan/ryan/6303.m3u8
 
 #EXTINF:0 group-title="(IN) India",MTV | SD (IN)
 http://50.7.198.170:8081/Ind/MTVINDIA/playlist.m3u8
-
-#EXTINF:0 group-title="(IN) India",MTV | SD (IN)
-http://izgemma.ddns.net:8000/live/test/test/6303.m3u8
 
 #EXTINF:0 group-title="(IN) India",MUSIC | SD (IN)
 http://50.7.198.170:8081/Ind/MUSICINDIA/playlist.m3u8
@@ -1260,9 +1008,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22172.m3u8
 #EXTINF:0 group-title="(IT) Italy",RADIONORBA TV | SD (IT)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22163.m3u8
 
-#EXTINF:0 group-title="(PK) Pakistan",ARY MUSIK | SD (PK)
-http://izgemma.ddns.net:8000/live/test/test/21754.m3u8
-
 #EXTINF:0 group-title="(RO) Romania",MUSIC CHANNEL | SD (RO)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3075.m3u8
 
@@ -1284,14 +1029,8 @@ http://ns3121518.ip-54-36-111.eu:8000/live/ZzQUCDggym/NpcvPnxVVM/562.m3u8
 #EXTINF:0 group-title="(UA) Ukraine",MUSIC BOX | SD (UA)
 http://212.26.132.86/hls/mb_ua_2500.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",ABSOLUTE 80 | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/12583.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",ABSOLUTE 90S RADIO | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/12581.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",ABSOLUTE 90S RADIO | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/12581.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",B4U MUSIC | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/11307.m3u8
@@ -1299,41 +1038,20 @@ http://188.93.238.184:8000/live/ryan/ryan/11307.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",B4U MUSIC | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/29505.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",B4U MUSIC | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/11307.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",CHILLED 90S RADIO | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/11741.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",CHILLED 90S RADIO | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/11741.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",GOSPEL CHANNEL | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/11754.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",GOSPEL CHANNEL | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/11754.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",M2O MUSIC | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/37461.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",M2O MUSIC | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/37461.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",MAGIC RADIO | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/13653.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",MAGIC RADIO | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/13653.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",MTV | HD (UK)
-http://izgemma.ddns.net:8000/live/test/test/8161.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",MTV | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/27679.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",MTV | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/27679.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",MTV BASE | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/29485.m3u8
@@ -1341,35 +1059,17 @@ http://188.93.238.184:8000/live/ryan/ryan/29485.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",MTV BASE | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/37373.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",MTV BASE | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/37373.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",MTV CLASSIC | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/11264.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",MTV CLASSIC | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/37403.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",MTV CLASSIC | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/11264.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",MTV CLASSIC | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/37403.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",MTV HITS | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/11268.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",MTV HITS | SD (UK)
-http://188.93.238.184:8000/live/ryan/ryan/37402.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",MTV HITS | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/11268.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",MTV LIVE | HD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/34608.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",MTV LIVE | HD (UK)
-http://izgemma.ddns.net:8000/live/test/test/34608.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",MTV MUSIC | HD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/37343.m3u8
@@ -1377,32 +1077,14 @@ http://188.93.238.184:8000/live/ryan/ryan/37343.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",MTV MUSIC | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/11270.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",MTV MUSIC | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/11270.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",MTV ROCKS | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/37374.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",MTV ROCKS | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/11271.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",MTV ROCKS | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/37374.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",MUSIC CHANNEL RADIO | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/37462.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",MUSIC CHANNEL RADIO | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/37462.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",VH1 | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/36957.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",VH1 | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/36957.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",VH1 CLASSIC | SD (UK)
-http://izgemma.ddns.net:8000/live/test/test/37407.m3u8
 
 #EXTINF:0 group-title="(US) United States",CALIFORNIA MUSIC | SD (US)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18873.m3u8
@@ -1602,9 +1284,6 @@ http://38.99.146.36:7777/OTV_HD.m3u8
 #EXTINF:0 group-title="(AF) Afghanistan",OTV | SD (AF)
 http://188.93.238.184:8000/live/ryan/ryan/6040.m3u8
 
-#EXTINF:0 group-title="(AF) Afghanistan",OTV | SD (AF)
-http://izgemma.ddns.net:8000/live/test/test/6040.m3u8
-
 #EXTINF:0 group-title="(AF) Afghanistan",PAYAME AFGHAN TV | SD (AF)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21859.m3u8
 
@@ -1686,9 +1365,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16246.m3u8
 #EXTINF:0 group-title="(AF) Afghanistan",WESAL TV LOCAL | SD (AF)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15678.m3u8
 
-#EXTINF:0 group-title="(AFR) Africa",AF RTB | SD (AFR)
-http://sw.fannan.se:8000/live/zizo18040/54544452/8007.m3u8
-
 #EXTINF:0 group-title="(AFR) Africa",AF RTS1 | SD (AFR)
 http://sw.fannan.se:8000/live/zizo18040/54544452/8019.m3u8
 
@@ -1743,9 +1419,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10111.m3u8
 #EXTINF:0 group-title="(AL) Albania",AHLY | SD (AL)
 http://38.99.146.36:7777/AlAhlyTV_HD.m3u8
 
-#EXTINF:0 group-title="(AL) Albania",ALBUK | SD (AL)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18690.m3u8
-
 #EXTINF:0 group-title="(AL) Albania",AMAKEN DRAMA | SD (AL)
 http://38.99.146.36:7777/AlAmakenDrama_HD.m3u8
 
@@ -1761,17 +1434,11 @@ http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/13742.m3u8
 #EXTINF:0 group-title="(AL) Albania",ARN MAYADEEN | SD (AL)
 http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/13727.m3u8
 
-#EXTINF:0 group-title="(AL) Albania",BANG BANG | SD (AL)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3470.m3u8
-
 #EXTINF:0 group-title="(AL) Albania",DAFRA | SD (AL)
 http://38.99.146.36:7777/AlDafra_HD.m3u8
 
 #EXTINF:0 group-title="(AL) Albania",EQTISADIYAH | SD (AL)
 http://38.99.146.36:7777/AlEqtisadiyah_HD.m3u8
-
-#EXTINF:0 group-title="(AL) Albania",EX-YU | SD (AL)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3428.m3u8
 
 #EXTINF:0 group-title="(AL) Albania",FILM AKSION | SD (AL)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3531.m3u8
@@ -1788,17 +1455,11 @@ http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3538.m3u8
 #EXTINF:0 group-title="(AL) Albania",FORAT | SD (AL)
 http://38.99.146.36:7777/AlForat_HD.m3u8
 
-#EXTINF:0 group-title="(AL) Albania",GLOBI TV | SD (AL)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3729.m3u8
-
 #EXTINF:0 group-title="(AL) Albania",HAQEEQA | SD (AL)
 http://38.99.146.36:7777/AlHaqeeqa_HD.m3u8
 
 #EXTINF:0 group-title="(AL) Albania",HAYAT 2 EGYPT | SD (AL)
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/FluxusTV.m3u8
-
-#EXTINF:0 group-title="(AL) Albania",HINDI | SD (AL)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/4713.m3u8
 
 #EXTINF:0 group-title="(AL) Albania",HIWAR | SD (AL)
 http://38.99.146.36:7777/AlHiwar_HD.m3u8
@@ -1818,18 +1479,6 @@ http://38.99.146.36:7777/AlEkhbariya_HD.m3u8
 #EXTINF:0 group-title="(AL) Albania",JOLLY | HD (AL)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3476.m3u8
 
-#EXTINF:0 group-title="(AL) Albania",KINO ACTION | HD (AL)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3527.m3u8
-
-#EXTINF:0 group-title="(AL) Albania",KINO PREMIUM | SD (AL)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/2889.m3u8
-
-#EXTINF:0 group-title="(AL) Albania",KINO SCIFI | HD (AL)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3521.m3u8
-
-#EXTINF:0 group-title="(AL) Albania",KINO SCIFI | HD (AL)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3521.m3u8
-
 #EXTINF:0 group-title="(AL) Albania",KINO THRILLER | HD (AL)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3525.m3u8
 
@@ -1838,9 +1487,6 @@ http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3556.m3u8
 
 #EXTINF:0 group-title="(AL) Albania",KLAN PLUS | SD (AL)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3554.m3u8
-
-#EXTINF:0 group-title="(AL) Albania",KLAN PLUS | SD (AL)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3718.m3u8
 
 #EXTINF:0 group-title="(AL) Albania",LBN MAYADEEN | SD (AL)
 http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/13777.m3u8
@@ -1912,28 +1558,16 @@ http://38.99.146.36:7777/AlResala_HD.m3u8
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9636.m3u8
 
 #EXTINF:0 group-title="(AL) Albania",RTK 2 | SD (AL)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3674.m3u8
-
-#EXTINF:0 group-title="(AL) Albania",RTK 2 | SD (AL)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9635.m3u8
 
 #EXTINF:0 group-title="(AL) Albania",RTK 4 | SD (AL)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3568.m3u8
 
 #EXTINF:0 group-title="(AL) Albania",RTK 4 | SD (AL)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3676.m3u8
-
-#EXTINF:0 group-title="(AL) Albania",RTK 4 | SD (AL)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9638.m3u8
 
 #EXTINF:0 group-title="(AL) Albania",RTK1 TOKSOR | SD (AL)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2108.m3u8
-
-#EXTINF:0 group-title="(AL) Albania",RTSH ART | SD (AL)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3728.m3u8
-
-#EXTINF:0 group-title="(AL) Albania",RTV 21 T | SD (AL)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/4708.m3u8
 
 #EXTINF:0 group-title="(AL) Albania",SABAH | SD (AL)
 http://38.99.146.36:7777/AlSabah_HD.m3u8
@@ -1971,9 +1605,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18691.m3u8
 #EXTINF:0 group-title="(AL) Albania",THRILLER | SD (AL)
 http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/4724.m3u8
 
-#EXTINF:0 group-title="(AL) Albania",TIP TV | SD (AL)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3471.m3u8
-
 #EXTINF:0 group-title="(AL) Albania",TOYOR JANAH | SD (AL)
 http://38.99.146.36:7777/ToyorAlJanah_HD.m3u8
 
@@ -1994,9 +1625,6 @@ http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3479.m3u8
 
 #EXTINF:0 group-title="(AL) Albania",TV KOHA TETOV | SD (AL)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3497.m3u8
-
-#EXTINF:0 group-title="(AL) Albania",TV OPOJA | SD (AL)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3504.m3u8
 
 #EXTINF:0 group-title="(AL) Albania",TV-ART | SD (AL)
 http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3715.m3u8
@@ -2184,9 +1812,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22389.m3u8
 #EXTINF:0 group-title="(AR) Arabia",AL WAAD CHANNEL | SD (AR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22389.m3u8
 
-#EXTINF:0 group-title="(AR) Arabia",ALAAN | SD (AR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/33.m3u8
-
 #EXTINF:0 group-title="(AR) Arabia",ALAAN TV DUBAI | SD (AR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15672.m3u8
 
@@ -2325,15 +1950,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15671.m3u8
 #EXTINF:0 group-title="(AR) Arabia",ALNABAA TV LIBIA | SD (AR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15671.m3u8
 
-#EXTINF:0 group-title="(AR) Arabia",ALORDONALYOOM JORDAN | SD (AR)
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20716.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",ALORDONALYOOM LOCAL | SD (AR)
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15653.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",ALORDONALYOOM LOCAL | SD (AR)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15653.m3u8
-
 #EXTINF:0 group-title="(AR) Arabia",ALOULA-MASRIYA | SD (AR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10655.m3u8
 
@@ -2370,9 +1986,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22364.m3u8
 #EXTINF:0 group-title="(AR) Arabia",ANB IRAQ | SD (AR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22364.m3u8
 
-#EXTINF:0 group-title="(AR) Arabia",ANIMAL PLANET | SD (AR)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/13769.m3u8
-
 #EXTINF:0 group-title="(AR) Arabia",ANNAHAR-DRAMA | SD (AR)
 http://sw.fannan.se:8000/live/zizo18040/54544452/6871.m3u8
 
@@ -2384,9 +1997,6 @@ http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/13745.m3u8
 
 #EXTINF:0 group-title="(AR) Arabia",ARN AL TV | SD (AR)
 http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/13746.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",ARN TRT | SD (AR)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/13737.m3u8
 
 #EXTINF:0 group-title="(AR) Arabia",ARRABIA TV LOCAL | SD (AR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19962.m3u8
@@ -2456,9 +2066,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15373.m3u8
 
 #EXTINF:0 group-title="(AR) Arabia",CHARITY TV LIBANON | SD (AR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15412.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",CITRUSS TV | SD (AR)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/13793.m3u8
 
 #EXTINF:0 group-title="(AR) Arabia",CNA SAT ALGERI | SD (AR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10848.m3u8
@@ -2544,12 +2151,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15431.m3u8
 #EXTINF:0 group-title="(AR) Arabia",DZAIR TV | SD (AR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15431.m3u8
 
-#EXTINF:0 group-title="(AR) Arabia",DZIAR 25 TV ALGERI | SD (AR)
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10846.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",DZIAR 25 TV ALGERI | SD (AR)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10846.m3u8
-
 #EXTINF:0 group-title="(AR) Arabia",ECHOROUK | SD (AR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10812.m3u8
 
@@ -2603,9 +2204,6 @@ http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10666.m3u8
 
 #EXTINF:0 group-title="(AR) Arabia",ELSHARQ TV LOCAL | SD (AR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11051.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",ENJAZAT | SD (AR)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/8183.m3u8
 
 #EXTINF:0 group-title="(AR) Arabia",ENJAZAT TV | SD (AR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11042.m3u8
@@ -2668,9 +2266,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10829.m3u8
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8
 
 #EXTINF:0 group-title="(AR) Arabia",IRAQ LOCAL | SD (AR)
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15650.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",IRAQ LOCAL | SD (AR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15650.m3u8
 
 #EXTINF:0 group-title="(AR) Arabia",IRN | SD (AR)
@@ -2693,12 +2288,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15376.m3u8
 
 #EXTINF:0 group-title="(AR) Arabia",KID BARAEM | SD (AR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15376.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",KIFA TV JORDAN | SD (AR)
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22369.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",KIFA TV JORDAN | SD (AR)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22369.m3u8
 
 #EXTINF:0 group-title="(AR) Arabia",KOLALNAS TV LOCAL | SD (AR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15631.m3u8
@@ -2802,12 +2391,6 @@ http://188.93.238.184:8000/live/ryan/ryan/37300.m3u8
 #EXTINF:0 group-title="(AR) Arabia",MAKKAH TV | SD (AR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15338.m3u8
 
-#EXTINF:0 group-title="(AR) Arabia",MAROC | SD (AR)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2734.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",MAROC | SD (AR)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2744.m3u8
-
 #EXTINF:0 group-title="(AR) Arabia",MASDAR TV | SD (AR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11073.m3u8
 
@@ -2823,9 +2406,6 @@ http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10649.m3u8
 #EXTINF:0 group-title="(AR) Arabia",MBC 1 LOCAL | HD (AR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15406.m3u8
 
-#EXTINF:0 group-title="(AR) Arabia",MBC 2 | SD (AR)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/48.m3u8
-
 #EXTINF:0 group-title="(AR) Arabia",MBC 4 LOCAL | HD (AR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15393.m3u8
 
@@ -2838,12 +2418,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14927.m3u8
 #EXTINF:0 group-title="(AR) Arabia",MBC ACTION | SD (AR)
 http://188.93.238.184:8000/live/ryan/ryan/648.m3u8
 
-#EXTINF:0 group-title="(AR) Arabia",MBC ACTION | SD (AR)
-http://izgemma.ddns.net:8000/live/test/test/648.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",MBC ACTION | SD (AR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/45.m3u8
-
 #EXTINF:0 group-title="(AR) Arabia",MBC BOLLYWOOD LOCAL | SD (AR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14930.m3u8
 
@@ -2852,9 +2426,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14930.m3u8
 
 #EXTINF:0 group-title="(AR) Arabia",MBC DRAMA | SD (AR)
 http://188.93.238.184:8000/live/ryan/ryan/649.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",MBC DRAMA | SD (AR)
-http://izgemma.ddns.net:8000/live/test/test/649.m3u8
 
 #EXTINF:0 group-title="(AR) Arabia",MBC DRAMA LOCAL | HD (AR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14929.m3u8
@@ -2907,9 +2478,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15317.m3u8
 #EXTINF:0 group-title="(AR) Arabia",NAHAR DRAMA | SD (AR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15319.m3u8
 
-#EXTINF:0 group-title="(AR) Arabia",NAILAT TV | SD (AR)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/8192.m3u8
-
 #EXTINF:0 group-title="(AR) Arabia",NAT GEO ABU DHABI | SD (AR)
 http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/13766.m3u8
 
@@ -2954,12 +2522,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19968.m3u8
 
 #EXTINF:0 group-title="(AR) Arabia",OMAN TV MOBASHIR LOCAL | SD (AR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15360.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",OTV LEBANON | SD (AR)
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10841.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",OTV LEBANON | SD (AR)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10841.m3u8
 
 #EXTINF:0 group-title="(AR) Arabia",PAL TODAY PALESTIN | SD (AR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20548.m3u8
@@ -3030,9 +2592,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11044.m3u8
 #EXTINF:0 group-title="(AR) Arabia",SAMARRA TV | SD (AR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11044.m3u8
 
-#EXTINF:0 group-title="(AR) Arabia",SAMIRA TV | SD (AR)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/13790.m3u8
-
 #EXTINF:0 group-title="(AR) Arabia",SAMIRA TV ALGERI | SD (AR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15622.m3u8
 
@@ -3053,12 +2612,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11256.m3u8
 
 #EXTINF:0 group-title="(AR) Arabia",SHARJAH DUBAI | SD (AR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11256.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",SOFRA | SD (AR)
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15343.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",SOFRA | SD (AR)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15343.m3u8
 
 #EXTINF:0 group-title="(AR) Arabia",SYRIA HALAB | SD (AR)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10791.m3u8
@@ -3300,12 +2853,6 @@ http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3588.m3u8
 #EXTINF:0 group-title="(BG) Bulgaria",BIT TV | SD (BG)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18768.m3u8
 
-#EXTINF:0 group-title="(BG) Bulgaria",BNP TV | SD (BG)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18714.m3u8
-
-#EXTINF:0 group-title="(BG) Bulgaria",BNT 1 | HD (BG)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2257.m3u8
-
 #EXTINF:0 group-title="(BG) Bulgaria",BNT 1 | SD (BG)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2367.m3u8
 
@@ -3330,9 +2877,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18783.m3u8
 #EXTINF:0 group-title="(BG) Bulgaria",DELTA TV | SD (BG)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18736.m3u8
 
-#EXTINF:0 group-title="(BG) Bulgaria",DESTINATION | SD (BG)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18760.m3u8
-
 #EXTINF:0 group-title="(BG) Bulgaria",DIEMA | SD (BG)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/281.m3u8
 
@@ -3351,20 +2895,8 @@ http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2267.m3u8
 #EXTINF:0 group-title="(BG) Bulgaria",FEN TV | SD (BG)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2375.m3u8
 
-#EXTINF:0 group-title="(BG) Bulgaria",FEN TV | SD (BG)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2375.m3u8
-
-#EXTINF:0 group-title="(BG) Bulgaria",FOX | HD (BG)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2252.m3u8
-
 #EXTINF:0 group-title="(BG) Bulgaria",FOX CRIME | HD (BG)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2251.m3u8
-
-#EXTINF:0 group-title="(BG) Bulgaria",HISTORY | HD (BG)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2248.m3u8
-
-#EXTINF:0 group-title="(BG) Bulgaria",HOBBY LOV | SD (BG)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18757.m3u8
 
 #EXTINF:0 group-title="(BG) Bulgaria",KANAL 3 | SD (BG)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2261.m3u8
@@ -3375,35 +2907,14 @@ http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/287.m3u8
 #EXTINF:0 group-title="(BG) Bulgaria",LTV | SD (BG)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8302.m3u8
 
-#EXTINF:0 group-title="(BG) Bulgaria",MAGIC TV | SD (BG)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18759.m3u8
-
-#EXTINF:0 group-title="(BG) Bulgaria",NAT GEO | SD (BG)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2383.m3u8
-
-#EXTINF:0 group-title="(BG) Bulgaria",NAT GEO WILD | SD (BG)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2384.m3u8
-
 #EXTINF:0 group-title="(BG) Bulgaria",NOVA | SD (BG)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/283.m3u8
-
-#EXTINF:0 group-title="(BG) Bulgaria",NOVA TV | HD (BG)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2260.m3u8
 
 #EXTINF:0 group-title="(BG) Bulgaria",PLANETA | HD (BG)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18780.m3u8
 
 #EXTINF:0 group-title="(BG) Bulgaria",PLANETA | SD (BG)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/279.m3u8
-
-#EXTINF:0 group-title="(BG) Bulgaria",ROMA TV | SD (BG)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2378.m3u8
-
-#EXTINF:0 group-title="(BG) Bulgaria",THE VOICE | SD (BG)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2381.m3u8
-
-#EXTINF:0 group-title="(BG) Bulgaria",THE VOICE | SD (BG)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18737.m3u8
 
 #EXTINF:0 group-title="(BG) Bulgaria",TPO | SD (BG)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22723.m3u8
@@ -3425,9 +2936,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18724.m3u8
 
 #EXTINF:0 group-title="(BG) Bulgaria",TVART | SD (BG)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/17580.m3u8
-
-#EXTINF:0 group-title="(BG) Bulgaria",VTK TV | SD (BG)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18728.m3u8
 
 #EXTINF:0 group-title="(CA) Canada",MEGA COSMOS | SD (CA)
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
@@ -3461,9 +2969,6 @@ http://188.93.238.184:8000/live/ryan/ryan/221.m3u8
 
 #EXTINF:0 group-title="(FR) France",6TER | HD (FR)
 http://188.93.238.184:8000/live/ryan/ryan/37529.m3u8
-
-#EXTINF:0 group-title="(FR) France",6TER | HD (FR)
-http://izgemma.ddns.net:8000/live/test/test/37529.m3u8
 
 #EXTINF:0 group-title="(FR) France",6TER | HD (FR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/454.m3u8
@@ -3523,9 +3028,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18885.m3u8
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20408.m3u8
 
 #EXTINF:0 group-title="(FR) France",BFM TV | SD (FR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3192.m3u8
-
-#EXTINF:0 group-title="(FR) France",BFM TV | SD (FR)
 http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/142.m3u8
 
 #EXTINF:0 group-title="(FR) France",BIP TV | SD (FR)
@@ -3542,9 +3044,6 @@ http://188.93.238.184:8000/live/ryan/ryan/3219.m3u8
 
 #EXTINF:0 group-title="(FR) France",CANAL PLAY 4 | SD (FR)
 http://188.93.238.184:8000/live/ryan/ryan/3217.m3u8
-
-#EXTINF:0 group-title="(FR) France",CANAL PLAY 4 | SD (FR)
-http://izgemma.ddns.net:8000/live/test/test/3217.m3u8
 
 #EXTINF:0 group-title="(FR) France",CAPITAL TV | SD (FR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18483.m3u8
@@ -3600,9 +3099,6 @@ http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/604.m3u8
 #EXTINF:0 group-title="(FR) France",E! ENTERTAINMENT | SD (FR)
 http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3319.m3u8
 
-#EXTINF:0 group-title="(FR) France",EQUIDIA LIVE | HD (FR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3182.m3u8
-
 #EXTINF:0 group-title="(FR) France",EUROPA 1 | SD (FR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22121.m3u8
 
@@ -3621,20 +3117,11 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22821.m3u8
 #EXTINF:0 group-title="(FR) France",FUSIONPLUS TV 19 JAN | SD (FR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22082.m3u8
 
-#EXTINF:0 group-title="(FR) France",GAME ONE | HD (FR)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10578.m3u8
-
-#EXTINF:0 group-title="(FR) France",GAME ONE | HD (FR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10578.m3u8
-
 #EXTINF:0 group-title="(FR) France",GAME ONE | SD (FR)
 http://188.93.238.184:8000/live/ryan/ryan/8124.m3u8
 
 #EXTINF:0 group-title="(FR) France",GAME ONE L | SD (FR)
 http://188.93.238.184:8000/live/ryan/ryan/457.m3u8
-
-#EXTINF:0 group-title="(FR) France",GAME ONE L | SD (FR)
-http://izgemma.ddns.net:8000/live/test/test/457.m3u8
 
 #EXTINF:0 group-title="(FR) France",GONG TV LOCAL | SD (FR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15606.m3u8
@@ -3686,9 +3173,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22127.m3u8
 
 #EXTINF:0 group-title="(FR) France",LEQUIPE 21 | HD (FR)
 http://188.93.238.184:8000/live/ryan/ryan/455.m3u8
-
-#EXTINF:0 group-title="(FR) France",LEQUIPE 21 | HD (FR)
-http://izgemma.ddns.net:8000/live/test/test/455.m3u8
 
 #EXTINF:0 group-title="(FR) France",LOCAL | SD (FR)
 http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3350.m3u8
@@ -3786,9 +3270,6 @@ http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3571.m3u8
 #EXTINF:0 group-title="(FR) France",PIWI | SD (FR)
 http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/565.m3u8
 
-#EXTINF:0 group-title="(FR) France",PLANET | HD (FR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3170.m3u8
-
 #EXTINF:0 group-title="(FR) France",PLANET A&E | HD (FR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3169.m3u8
 
@@ -3801,14 +3282,8 @@ http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/108.m3u8
 #EXTINF:0 group-title="(FR) France",PLANETE | SD (FR)
 http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/70.m3u8
 
-#EXTINF:0 group-title="(FR) France",PLANETE A E | HD (FR)
-http://izgemma.ddns.net:8000/live/test/test/235.m3u8
-
 #EXTINF:0 group-title="(FR) France",PLANETE AE | SD (FR)
 http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/110.m3u8
-
-#EXTINF:0 group-title="(FR) France",PLANETE CI | HD (FR)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/487.m3u8
 
 #EXTINF:0 group-title="(FR) France",PLANETE CI | SD (FR)
 http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3568.m3u8
@@ -3834,12 +3309,6 @@ http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/107.m3u8
 #EXTINF:0 group-title="(FR) France",RMC DECOUVERTE | SD (FR)
 http://188.93.238.184:8000/live/ryan/ryan/225.m3u8
 
-#EXTINF:0 group-title="(FR) France",RMC DECOUVERTE | SD (FR)
-http://izgemma.ddns.net:8000/live/test/test/225.m3u8
-
-#EXTINF:0 group-title="(FR) France",RTL 9 | HD (FR)
-http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/106.m3u8
-
 #EXTINF:0 group-title="(FR) France",RTL LUX | SD (FR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22341.m3u8
 
@@ -3864,9 +3333,6 @@ http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/225.m3u8
 #EXTINF:0 group-title="(FR) France",TELETOON | SD (FR)
 http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/103.m3u8
 
-#EXTINF:0 group-title="(FR) France",TELETOON 1 | HD (FR)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3160.m3u8
-
 #EXTINF:0 group-title="(FR) France",TELETOON PLUS | SD (FR)
 http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/102.m3u8
 
@@ -3875,9 +3341,6 @@ http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/93.m3u8
 
 #EXTINF:0 group-title="(FR) France",TF 1 | SD (FR)
 http://188.93.238.184:8000/live/ryan/ryan/8104.m3u8
-
-#EXTINF:0 group-title="(FR) France",TF 1 | SD (FR)
-http://izgemma.ddns.net:8000/live/test/test/8104.m3u8
 
 #EXTINF:0 group-title="(FR) France",TF1 | HD (FR)
 http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/303.m3u8
@@ -3902,9 +3365,6 @@ http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/100.m3u8
 
 #EXTINF:0 group-title="(FR) France",TMC | SD (FR)
 http://188.93.238.184:8000/live/ryan/ryan/3506.m3u8
-
-#EXTINF:0 group-title="(FR) France",TREK | HD (FR)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3177.m3u8
 
 #EXTINF:0 group-title="(FR) France",TREK | HD (FR)
 http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/2059.m3u8
@@ -4064,9 +3524,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19068.m3u8
 
 #EXTINF:0 group-title="(DE) Germany",DMAX | SD (DE)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/419.m3u8
-
-#EXTINF:0 group-title="(DE) Germany",DMAX | SD (DE)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/419.m3u8
 
 #EXTINF:0 group-title="(DE) Germany",DORF TV | SD (DE)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22427.m3u8
@@ -4229,9 +3686,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15138.m3u8
 
 #EXTINF:0 group-title="(DE) Germany",NAT GEO WILD | HD (DE)
 http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/4214.m3u8
-
-#EXTINF:0 group-title="(DE) Germany",NAT GEO WILD | SD (DE)
-http://163.172.62.63:8000/live/fazeel/fazeel/3177.m3u8
 
 #EXTINF:0 group-title="(DE) Germany",NATIONAL GEOGRAPHIC | SD (DE)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15156.m3u8
@@ -4644,14 +4098,8 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22047.m3u8
 #EXTINF:0 group-title="(GR) Greece",ACTION 24 TV | SD (GR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22047.m3u8
 
-#EXTINF:0 group-title="(GR) Greece",ALPHA TV | SD (GR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2394.m3u8
-
 #EXTINF:0 group-title="(GR) Greece",ANT 1 | SD (GR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21615.m3u8
-
-#EXTINF:0 group-title="(GR) Greece",ANT1 | SD (GR)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2395.m3u8
 
 #EXTINF:0 group-title="(GR) Greece",ANTENNA | SD (GR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11430.m3u8
@@ -4709,12 +4157,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20213.m3u8
 
 #EXTINF:0 group-title="(GR) Greece",HELEKTRA TV | SD (GR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20213.m3u8
-
-#EXTINF:0 group-title="(GR) Greece",HIGT TV | SD (GR)
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20207.m3u8
-
-#EXTINF:0 group-title="(GR) Greece",HIGT TV | SD (GR)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20207.m3u8
 
 #EXTINF:0 group-title="(GR) Greece",HLEKTRA TV | SD (GR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22048.m3u8
@@ -4833,9 +4275,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20201.m3u8
 #EXTINF:0 group-title="(GR) Greece",SIGMA | SD (GR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20201.m3u8
 
-#EXTINF:0 group-title="(GR) Greece",STAR | SD (GR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2402.m3u8
-
 #EXTINF:0 group-title="(GR) Greece",SYROS TV1 | SD (GR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20223.m3u8
 
@@ -4917,9 +4356,6 @@ http://188.93.238.184:8000/live/ryan/ryan/6293.m3u8
 #EXTINF:0 group-title="(IN) India",B4U PLUS | SD (IN)
 http://188.93.238.184:8000/live/ryan/ryan/11323.m3u8
 
-#EXTINF:0 group-title="(IN) India",B4U PLUS | SD (IN)
-http://izgemma.ddns.net:8000/live/test/test/11323.m3u8
-
 #EXTINF:0 group-title="(IN) India",BHAARAT TODAY TV 04 APR | SD (IN)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21999.m3u8
 
@@ -4961,9 +4397,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16139.m3u8
 
 #EXTINF:0 group-title="(IN) India",ETV UTTAR | SD (IN)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16050.m3u8
-
-#EXTINF:0 group-title="(IN) India",GARV PUNJAB LIVE | HD (IN)
-http://izgemma.ddns.net:8000/live/test/test/37675.m3u8
 
 #EXTINF:0 group-title="(IN) India",GLOBAL SANJH TV | SD (IN)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19282.m3u8
@@ -5046,9 +4479,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16124.m3u8
 #EXTINF:0 group-title="(IN) India",PRIME ASIA TV | SD (IN)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11628.m3u8
 
-#EXTINF:0 group-title="(IN) India",RAJ MUSIX | SD (IN)
-http://izgemma.ddns.net:8000/live/test/test/6298.m3u8
-
 #EXTINF:0 group-title="(IN) India",RNN | SD (IN)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21987.m3u8
 
@@ -5079,23 +4509,14 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21994.m3u8
 #EXTINF:0 group-title="(IN) India",SONY SIX | SD (IN)
 http://188.93.238.184:8000/live/ryan/ryan/277.m3u8
 
-#EXTINF:0 group-title="(IN) India",SONY SIX | SD (IN)
-http://izgemma.ddns.net:8000/live/test/test/277.m3u8
-
 #EXTINF:0 group-title="(IN) India",SONY TV | HD (IN)
 http://188.93.238.184:8000/live/ryan/ryan/269.m3u8
 
 #EXTINF:0 group-title="(IN) India",STAR JALSHA | SD (IN)
 http://188.93.238.184:8000/live/ryan/ryan/6299.m3u8
 
-#EXTINF:0 group-title="(IN) India",STAR JALSHA | SD (IN)
-http://izgemma.ddns.net:8000/live/test/test/6299.m3u8
-
 #EXTINF:0 group-title="(IN) India",STAR PLUS 2 | HD (IN)
 http://188.93.238.184:8000/live/ryan/ryan/286.m3u8
-
-#EXTINF:0 group-title="(IN) India",STAR PLUS 2 | HD (IN)
-http://izgemma.ddns.net:8000/live/test/test/286.m3u8
 
 #EXTINF:0 group-title="(IN) India",SURYA TV | SD (IN)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16113.m3u8
@@ -5133,26 +4554,14 @@ http://188.93.238.184:8000/live/ryan/ryan/6276.m3u8
 #EXTINF:0 group-title="(IN) India",ZEE CLASSIC | SD (IN)
 http://188.93.238.184:8000/live/ryan/ryan/31255.m3u8
 
-#EXTINF:0 group-title="(IN) India",ZEE CLASSIC | SD (IN)
-http://izgemma.ddns.net:8000/live/test/test/31255.m3u8
-
-#EXTINF:0 group-title="(IN) India",ZEE ETC | SD (IN)
-http://izgemma.ddns.net:8000/live/test/test/31256.m3u8
-
 #EXTINF:0 group-title="(IN) India",ZEE TALKIES | SD (IN)
 http://188.93.238.184:8000/live/ryan/ryan/1860.m3u8
-
-#EXTINF:0 group-title="(IN) India",ZEE TALKIES | SD (IN)
-http://izgemma.ddns.net:8000/live/test/test/1860.m3u8
 
 #EXTINF:0 group-title="(IN) India",ZEE TV | HD (IN)
 http://188.93.238.184:8000/live/ryan/ryan/267.m3u8
 
 #EXTINF:0 group-title="(IN) India",ZEE TV | HD (IN)
 http://188.93.238.184:8000/live/ryan/ryan/287.m3u8
-
-#EXTINF:0 group-title="(IN) India",ZEE TV | HD (IN)
-http://izgemma.ddns.net:8000/live/test/test/267.m3u8
 
 #EXTINF:0 group-title="(IN) India",ZEE TV | SD (IN)
 http://188.93.238.184:8000/live/ryan/ryan/288.m3u8
@@ -5538,9 +4947,6 @@ http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/768.m3u8
 #EXTINF:0 group-title="(IT) Italy",SKY DISCOVERY CHANNEL | HD (IT)
 http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/688.m3u8
 
-#EXTINF:0 group-title="(IT) Italy",SKY GAMBERO ROSSO | SD (IT)
-http://163.172.62.63:8000/live/fazeel/fazeel/2789.m3u8
-
 #EXTINF:0 group-title="(IT) Italy",SKY GAMBEROROSSO | HD (IT)
 http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/1402.m3u8
 
@@ -5589,12 +4995,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14258.m3u8
 #EXTINF:0 group-title="(IT) Italy",TELEAMBIENTE | SD (IT)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14258.m3u8
 
-#EXTINF:0 group-title="(IT) Italy",TELEARTE | SD (IT)
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11802.m3u8
-
-#EXTINF:0 group-title="(IT) Italy",TELEARTE | SD (IT)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11802.m3u8
-
 #EXTINF:0 group-title="(IT) Italy",TELEFRIULI | SD (IT)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22148.m3u8
 
@@ -5615,9 +5015,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22165.m3u8
 
 #EXTINF:0 group-title="(IT) Italy",TELETRURIA 2 | SD (IT)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22156.m3u8
-
-#EXTINF:0 group-title="(IT) Italy",TEVERE TV | SD (IT)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11776.m3u8
 
 #EXTINF:0 group-title="(IT) Italy",TG NORBA 24 TV | SD (IT)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22180.m3u8
@@ -6039,9 +5436,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18662.m3u8
 #EXTINF:0 group-title="(NL) Netherlands",RN7 TV | SD (NL)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18648.m3u8
 
-#EXTINF:0 group-title="(NL) Netherlands",RTL 7 | SD (NL)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/554.m3u8
-
 #EXTINF:0 group-title="(NL) Netherlands",RTL Z | SD (NL)
 http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/4108.m3u8
 
@@ -6132,32 +5526,17 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18650.m3u8
 #EXTINF:0 group-title="(PK) Pakistan",ARY DIGITAL | SD (PK)
 http://188.93.238.184:8000/live/ryan/ryan/37302.m3u8
 
-#EXTINF:0 group-title="(PK) Pakistan",ARY DIGITAL | SD (PK)
-http://izgemma.ddns.net:8000/live/test/test/37302.m3u8
-
-#EXTINF:0 group-title="(PK) Pakistan",ARY QTV | SD (PK)
-http://izgemma.ddns.net:8000/live/test/test/21752.m3u8
-
 #EXTINF:0 group-title="(PK) Pakistan",ARY QTV | SD (PK)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16261.m3u8
 
-#EXTINF:0 group-title="(PK) Pakistan",ARY ZAIKA | SD (PK)
-http://izgemma.ddns.net:8000/live/test/test/21753.m3u8
-
 #EXTINF:0 group-title="(PK) Pakistan",ARY ZINDAGI | SD (PK)
 http://188.93.238.184:8000/live/ryan/ryan/319.m3u8
-
-#EXTINF:0 group-title="(PK) Pakistan",ARY ZINDAGI | SD (PK)
-http://izgemma.ddns.net:8000/live/test/test/319.m3u8
 
 #EXTINF:0 group-title="(PK) Pakistan",DHARTI TV | SD (PK)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16263.m3u8
 
 #EXTINF:0 group-title="(PK) Pakistan",GEO TV | SD (PK)
 http://188.93.238.184:8000/live/ryan/ryan/327.m3u8
-
-#EXTINF:0 group-title="(PK) Pakistan",GEO TV | SD (PK)
-http://izgemma.ddns.net:8000/live/test/test/327.m3u8
 
 #EXTINF:0 group-title="(PK) Pakistan",IBN | SD (PK)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16262.m3u8
@@ -6167,9 +5546,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16027.m3u8
 
 #EXTINF:0 group-title="(PK) Pakistan",KOHENOOR | SD (PK)
 http://188.93.238.184:8000/live/ryan/ryan/6275.m3u8
-
-#EXTINF:0 group-title="(PK) Pakistan",KOHENOOR | SD (PK)
-http://izgemma.ddns.net:8000/live/test/test/6275.m3u8
 
 #EXTINF:0 group-title="(PK) Pakistan",PTV HOME | SD (PK)
 http://188.93.238.184:8000/live/ryan/ryan/312.m3u8
@@ -6201,9 +5577,6 @@ http://37.59.34.182:8000/live/POLAND/POLAND/2030.m3u8
 #EXTINF:0 group-title="(PL) Poland",OPOKA TV | SD (PL)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22947.m3u8
 
-#EXTINF:0 group-title="(PL) Poland",POLSAT | HD (PL)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2278.m3u8
-
 #EXTINF:0 group-title="(PL) Poland",POLSAT | SD (PL)
 http://37.59.34.182:8000/live/POLAND/POLAND/2040.m3u8
 
@@ -6221,9 +5594,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22415.m3u8
 
 #EXTINF:0 group-title="(PL) Poland",TNT | HD (PL)
 http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/13142.m3u8
-
-#EXTINF:0 group-title="(PL) Poland",TRAVEL | HD (PL)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/13140.m3u8
 
 #EXTINF:0 group-title="(PL) Poland",TRUSO TV | SD (PL)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22412.m3u8
@@ -6243,32 +5613,11 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22409.m3u8
 #EXTINF:0 group-title="(PL) Poland",TV6 | SD (PL)
 http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/13134.m3u8
 
-#EXTINF:0 group-title="(PL) Poland",TVN | HD (PL)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/13128.m3u8
-
-#EXTINF:0 group-title="(PL) Poland",TVN STYLE | SD (PL)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2273.m3u8
-
 #EXTINF:0 group-title="(PL) Poland",TVN STYLE | SD (PL)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2273.m3u8
 
 #EXTINF:0 group-title="(PL) Poland",TVP 1 | HD (PL)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2270.m3u8
-
-#EXTINF:0 group-title="(PL) Poland",TVP 1 | HD (PL)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2270.m3u8
-
-#EXTINF:0 group-title="(PL) Poland",TVP 3 | SD (PL)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/13122.m3u8
-
-#EXTINF:0 group-title="(PL) Poland",TVP KULTURA | SD (PL)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/13117.m3u8
-
-#EXTINF:0 group-title="(PL) Poland",TVP ROZRYWKA | SD (PL)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/13116.m3u8
-
-#EXTINF:0 group-title="(PL) Poland",TVS | SD (PL)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/13113.m3u8
 
 #EXTINF:0 group-title="(PT) Portugal",24 HORAS | SD (PT)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20086.m3u8
@@ -6351,17 +5700,11 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19108.m3u8
 #EXTINF:0 group-title="(PT) Portugal",FOX | HD (PT)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2341.m3u8
 
-#EXTINF:0 group-title="(PT) Portugal",FOX CRIME | HD (PT)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2339.m3u8
-
 #EXTINF:0 group-title="(PT) Portugal",FOX CRIME | SD (PT)
 http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/4331.m3u8
 
 #EXTINF:0 group-title="(PT) Portugal",FOX L | SD (PT)
 http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3693.m3u8
-
-#EXTINF:0 group-title="(PT) Portugal",FOX LIFE | HD (PT)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2340.m3u8
 
 #EXTINF:0 group-title="(PT) Portugal",FOZ TV | SD (PT)
 http://gw01.7idi.com:8087/hls/foztv.m3u8
@@ -6390,9 +5733,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20064.m3u8
 #EXTINF:0 group-title="(PT) Portugal",JIMJAM EMEA | SD (PT)
 http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3692.m3u8
 
-#EXTINF:0 group-title="(PT) Portugal",MEGAPIX | SD (PT)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/13204.m3u8
-
 #EXTINF:0 group-title="(PT) Portugal",MOV | HD (PT)
 http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/886.m3u8
 
@@ -6414,23 +5754,11 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20081.m3u8
 #EXTINF:0 group-title="(PT) Portugal",ODISSEIA | SD (PT)
 http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/4336.m3u8
 
-#EXTINF:0 group-title="(PT) Portugal",OFF | SD (PT)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/13156.m3u8
-
 #EXTINF:0 group-title="(PT) Portugal",PANDA BIGGS | SD (PT)
 http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/4335.m3u8
 
-#EXTINF:0 group-title="(PT) Portugal",PLAY TV | SD (PT)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/13195.m3u8
-
 #EXTINF:0 group-title="(PT) Portugal",PORTO CANAL | SD (PT)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2326.m3u8
-
-#EXTINF:0 group-title="(PT) Portugal",PREMIERE 1 | SD (PT)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/13194.m3u8
-
-#EXTINF:0 group-title="(PT) Portugal",PREMIERE 2 | SD (PT)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/13193.m3u8
 
 #EXTINF:0 group-title="(PT) Portugal",RECORD | SD (PT)
 http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/13187.m3u8
@@ -6486,9 +5814,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/17943.m3u8
 #EXTINF:0 group-title="(PT) Portugal",RTP 3 | HD (PT)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2358.m3u8
 
-#EXTINF:0 group-title="(PT) Portugal",SIC | SD (PT)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3937.m3u8
-
 #EXTINF:0 group-title="(PT) Portugal",SIC CARAS | SD (PT)
 http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/4333.m3u8
 
@@ -6521,9 +5846,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10819.m3u8
 
 #EXTINF:0 group-title="(PT) Portugal",TOUROS TV | SD (PT)
 http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6401.m3u8
-
-#EXTINF:0 group-title="(PT) Portugal",TRU | HD (PT)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/13172.m3u8
 
 #EXTINF:0 group-title="(PT) Portugal",TV 3 | SD (PT)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20107.m3u8
@@ -6593,9 +5915,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14247.m3u8
 
 #EXTINF:0 group-title="(PT) Portugal",TV ESCOLA | SD (PT)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14247.m3u8
-
-#EXTINF:0 group-title="(PT) Portugal",TV GAZETA | HD (PT)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/13170.m3u8
 
 #EXTINF:0 group-title="(PT) Portugal",TV GAZETA | SD (PT)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19112.m3u8
@@ -6759,9 +6078,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11645.m3u8
 #EXTINF:0 group-title="(RO) Romania",ANTENA 3 | SD (RO)
 http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3138.m3u8
 
-#EXTINF:0 group-title="(RO) Romania",ANTENA STARS | SD (RO)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3054.m3u8
-
 #EXTINF:0 group-title="(RO) Romania",ATV | SD (RO)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12666.m3u8
 
@@ -6792,14 +6108,8 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12661.m3u8
 #EXTINF:0 group-title="(RO) Romania",ETNO TV | SD (RO)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3069.m3u8
 
-#EXTINF:0 group-title="(RO) Romania",HAPPY CHANNEL | SD (RO)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3071.m3u8
-
 #EXTINF:0 group-title="(RO) Romania",HAPPY TV | SD (RO)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3058.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",HBO 3 | SD (RO)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3084.m3u8
 
 #EXTINF:0 group-title="(RO) Romania",HIT CH | SD (RO)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9699.m3u8
@@ -6879,12 +6189,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9722.m3u8
 #EXTINF:0 group-title="(RO) Romania",TVR | SD (RO)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12300.m3u8
 
-#EXTINF:0 group-title="(RO) Romania",TVR1 | SD (RO)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3090.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",TVR1 | SD (RO)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3090.m3u8
-
 #EXTINF:0 group-title="(RO) Romania",TVR2 | SD (RO)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3053.m3u8
 
@@ -6893,111 +6197,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11637.m3u8
 
 #EXTINF:0 group-title="(RO) Romania",UTV | SD (RO)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19118.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIASAT HISTORY | SD (RO)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3087.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | HD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14274.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | HD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14294.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | HD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14296.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | HD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14312.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | HD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14321.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | HD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14339.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | HD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14360.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | HD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14379.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | HD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14382.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | HD (RO)
-http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/14394.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14270.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14272.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14273.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14275.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14277.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14279.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14280.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14287.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14290.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14293.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14300.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14311.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14315.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14318.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14323.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14328.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14349.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14350.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14361.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14363.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14377.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14387.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14388.m3u8
-
-#EXTINF:0 group-title="(RO) Romania",VIP | SD (RO)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14389.m3u8
 
 #EXTINF:0 group-title="(RU) Russia",10 PRAH | SD (RU)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14922.m3u8
@@ -7118,9 +6317,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12685.m3u8
 
 #EXTINF:0 group-title="(RU) Russia",CYNEP | SD (RU)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9180.m3u8
-
-#EXTINF:0 group-title="(RU) Russia",DISCOVERY CHANNEL | HD (RU)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2295.m3u8
 
 #EXTINF:0 group-title="(RU) Russia",DISCOVERY ID | SD (RU)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21124.m3u8
@@ -7522,9 +6718,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21933.m3u8
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9062.m3u8
 
 #EXTINF:0 group-title="(RU) Russia",TV1000 | SD (RU)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2289.m3u8
-
-#EXTINF:0 group-title="(RU) Russia",TV1000 | SD (RU)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18346.m3u8
 
 #EXTINF:0 group-title="(RU) Russia",TV1000 ACTION | SD (RU)
@@ -7569,35 +6762,17 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21925.m3u8
 #EXTINF:0 group-title="(RU) Russia",ZOO NAPK | SD (RU)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9111.m3u8
 
-#EXTINF:0 group-title="(EX-YU) Slovenia",B92 | SD (EX-YU)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2615.m3u8
-
 #EXTINF:0 group-title="(EX-YU) Slovenia",DM SAT | SD (EX-YU)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3433.m3u8
 
 #EXTINF:0 group-title="(EX-YU) Slovenia",FERNSEHEN | SD (EX-YU)
 http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
 
-#EXTINF:0 group-title="(EX-YU) Slovenia",FOX | SD (EX-YU)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2617.m3u8
-
-#EXTINF:0 group-title="(EX-YU) Slovenia",FOX | SD (EX-YU)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2617.m3u8
-
 #EXTINF:0 group-title="(EX-YU) Slovenia",HON | SD (EX-YU)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22306.m3u8
 
-#EXTINF:0 group-title="(EX-YU) Slovenia",HRT 2 | SD (EX-YU)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3439.m3u8
-
 #EXTINF:0 group-title="(EX-YU) Slovenia",HRT 3 | SD (EX-YU)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3438.m3u8
-
-#EXTINF:0 group-title="(EX-YU) Slovenia",HRT 4 | SD (EX-YU)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3437.m3u8
-
-#EXTINF:0 group-title="(EX-YU) Slovenia",K23 TV | SD (EX-YU)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22707.m3u8
 
 #EXTINF:0 group-title="(EX-YU) Slovenia",OBN | SD (EX-YU)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3435.m3u8
@@ -7608,9 +6783,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22702.m3u8
 #EXTINF:0 group-title="(EX-YU) Slovenia",PINK | SD (EX-YU)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2620.m3u8
 
-#EXTINF:0 group-title="(EX-YU) Slovenia",PINK 3 | SD (EX-YU)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3425.m3u8
-
 #EXTINF:0 group-title="(EX-YU) Slovenia",PINK ACTION | SD (EX-YU)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3405.m3u8
 
@@ -7619,12 +6791,6 @@ http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3415.m3u8
 
 #EXTINF:0 group-title="(EX-YU) Slovenia",PINK FILM | SD (EX-YU)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3408.m3u8
-
-#EXTINF:0 group-title="(EX-YU) Slovenia",PINK FOLK 1 | SD (EX-YU)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3417.m3u8
-
-#EXTINF:0 group-title="(EX-YU) Slovenia",PINK PEDIA | SD (EX-YU)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3420.m3u8
 
 #EXTINF:0 group-title="(EX-YU) Slovenia",PINK THRILLER | SD (EX-YU)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3423.m3u8
@@ -7686,9 +6852,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10482.m3u8
 #EXTINF:0 group-title="(SP) Spain",ALCARRIA TV | SD (SP)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11514.m3u8
 
-#EXTINF:0 group-title="(SP) Spain",ANDALUCIA TV | SD (SP)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3114.m3u8
-
 #EXTINF:0 group-title="(SP) Spain",ANTENA 3 | SD (SP)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/2609.m3u8
 
@@ -7701,9 +6864,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8901.m3u8
 #EXTINF:0 group-title="(SP) Spain",B GLOBAL | SD (SP)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8901.m3u8
 
-#EXTINF:0 group-title="(SP) Spain",BAR | SD (SP)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3113.m3u8
-
 #EXTINF:0 group-title="(SP) Spain",BARCA TV | SD (SP)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3143.m3u8
 
@@ -7715,9 +6875,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11513.m3u8
 
 #EXTINF:0 group-title="(SP) Spain",BETIS TV | SD (SP)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11513.m3u8
-
-#EXTINF:0 group-title="(SP) Spain",CALLE 13 | HD (SP)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3155.m3u8
 
 #EXTINF:0 group-title="(SP) Spain",CANAL | SD (SP)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21140.m3u8
@@ -7779,9 +6936,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10717.m3u8
 #EXTINF:0 group-title="(SP) Spain",CONDAVISI | SD (SP)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10717.m3u8
 
-#EXTINF:0 group-title="(SP) Spain",CUATRO | SD (SP)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3111.m3u8
-
 #EXTINF:0 group-title="(SP) Spain",DECASA | SD (SP)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/12878.m3u8
 
@@ -7842,15 +6996,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8420.m3u8
 #EXTINF:0 group-title="(SP) Spain",HIT TV | SD (SP)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/8420.m3u8
 
-#EXTINF:0 group-title="(SP) Spain",LA 2 | SD (SP)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14529.m3u8
-
-#EXTINF:0 group-title="(SP) Spain",LA1 | HD (SP)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3105.m3u8
-
-#EXTINF:0 group-title="(SP) Spain",LA2 | SD (SP)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3104.m3u8
-
 #EXTINF:0 group-title="(SP) Spain",LAOTRA | SD (SP)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8882.m3u8
 
@@ -7875,12 +7020,6 @@ http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3618.m3u8
 #EXTINF:0 group-title="(SP) Spain",MEGA | HD (SP)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3129.m3u8
 
-#EXTINF:0 group-title="(SP) Spain",MEGA | SD (SP)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14526.m3u8
-
-#EXTINF:0 group-title="(SP) Spain",MEZZO | SD (SP)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14525.m3u8
-
 #EXTINF:0 group-title="(SP) Spain",MIAMI TV | SD (SP)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11473.m3u8
 
@@ -7896,32 +7035,14 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13604.m3u8
 #EXTINF:0 group-title="(SP) Spain",MOVISTAR ACCION | HD (SP)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3154.m3u8
 
-#EXTINF:0 group-title="(SP) Spain",MOVISTAR COMEDIA | SD (SP)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14522.m3u8
-
-#EXTINF:0 group-title="(SP) Spain",MOVISTAR DEPORTES 2 | SD (SP)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14516.m3u8
-
-#EXTINF:0 group-title="(SP) Spain",MOVISTAR TOROS | HD (SP)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14502.m3u8
-
 #EXTINF:0 group-title="(SP) Spain",MOVISTAR XTRA | HD (SP)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3145.m3u8
-
-#EXTINF:0 group-title="(SP) Spain",MOVISTAR XTRA | SD (SP)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14501.m3u8
-
-#EXTINF:0 group-title="(SP) Spain",NAT GEO | SD (SP)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14498.m3u8
 
 #EXTINF:0 group-title="(SP) Spain",NATIONAL GEO WILD | HD (SP)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3127.m3u8
 
 #EXTINF:0 group-title="(SP) Spain",NAVARRA TV | SD (SP)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10188.m3u8
-
-#EXTINF:0 group-title="(SP) Spain",NEOX | SD (SP)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14494.m3u8
 
 #EXTINF:0 group-title="(SP) Spain",NEOX | SD (SP)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3126.m3u8
@@ -8022,29 +7143,8 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10196.m3u8
 #EXTINF:0 group-title="(SP) Spain",SOLIDARIA TV | SD (SP)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/10196.m3u8
 
-#EXTINF:0 group-title="(SP) Spain",SUNDANCE | SD (SP)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14488.m3u8
-
-#EXTINF:0 group-title="(SP) Spain",SYFY | SD (SP)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14487.m3u8
-
-#EXTINF:0 group-title="(SP) Spain",TAQUILLA 1 | SD (SP)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3690.m3u8
-
-#EXTINF:0 group-title="(SP) Spain",TAQUILLA 2 | SD (SP)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3689.m3u8
-
-#EXTINF:0 group-title="(SP) Spain",TAQUILLA 3 | SD (SP)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3688.m3u8
-
-#EXTINF:0 group-title="(SP) Spain",TAQUILLA 4 | SD (SP)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3771.m3u8
-
 #EXTINF:0 group-title="(SP) Spain",TAQUILLA 5 | SD (SP)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3118.m3u8
-
-#EXTINF:0 group-title="(SP) Spain",TAQUILLA 6 | SD (SP)
-http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/3773.m3u8
 
 #EXTINF:0 group-title="(SP) Spain",TAROTCANAL | SD (SP)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12884.m3u8
@@ -8064,17 +7164,11 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11608.m3u8
 #EXTINF:0 group-title="(SP) Spain",TCM | HD (SP)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3635.m3u8
 
-#EXTINF:0 group-title="(SP) Spain",TCM | SD (SP)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14485.m3u8
-
 #EXTINF:0 group-title="(SP) Spain",TELEBILBAO | SD (SP)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/12875.m3u8
 
 #EXTINF:0 group-title="(SP) Spain",TELEBILBAO | SD (SP)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12875.m3u8
-
-#EXTINF:0 group-title="(SP) Spain",TELEDEPORTE | SD (SP)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14481.m3u8
 
 #EXTINF:0 group-title="(SP) Spain",TELEELX | SD (SP)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11532.m3u8
@@ -8093,9 +7187,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21072.m3u8
 
 #EXTINF:0 group-title="(SP) Spain",TELEVALENCIA | SD (SP)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21072.m3u8
-
-#EXTINF:0 group-title="(SP) Spain",TEN | SD (SP)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14480.m3u8
 
 #EXTINF:0 group-title="(SP) Spain",TORREVISI | SD (SP)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9221.m3u8
@@ -8145,12 +7236,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/12868.m3u8
 #EXTINF:0 group-title="(SP) Spain",TV4 LA VALL | SD (SP)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12868.m3u8
 
-#EXTINF:0 group-title="(SP) Spain",VIAJAR | HD (SP)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14476.m3u8
-
-#EXTINF:0 group-title="(SP) Spain",VIAJAR | SD (SP)
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14477.m3u8
-
 #EXTINF:0 group-title="(SE) Sweden",C MORE LIVE 2 | SD (SE)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2481.m3u8
 
@@ -8172,14 +7257,8 @@ http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2468.m3u8
 #EXTINF:0 group-title="(SE) Sweden",KANAL 9 | SD (SE)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2430.m3u8
 
-#EXTINF:0 group-title="(SE) Sweden",KANAL 9 | SD (SE)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2430.m3u8
-
 #EXTINF:0 group-title="(SE) Sweden",NAT GEO WILD | SD (SE)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2427.m3u8
-
-#EXTINF:0 group-title="(SE) Sweden",NAT GEO WILD | SD (SE)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2427.m3u8
 
 #EXTINF:0 group-title="(SE) Sweden",RTV ZIK | SD (SE)
 http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
@@ -8204,9 +7283,6 @@ http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2454.m3u8
 
 #EXTINF:0 group-title="(SE) Sweden",TV4 | HD (SE)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2447.m3u8
-
-#EXTINF:0 group-title="(SE) Sweden",TV4 | HD (SE)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2447.m3u8
 
 #EXTINF:0 group-title="(SE) Sweden",TV4 GOLD | SD (SE)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2407.m3u8
@@ -8571,9 +7647,6 @@ http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/169.m3u8
 #EXTINF:0 group-title="(TR) Turkey",DADDY ANIMASYON 2 | SD (TR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/168.m3u8
 
-#EXTINF:0 group-title="(TR) Turkey",DADDY ANIMASYON 2 | SD (TR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/168.m3u8
-
 #EXTINF:0 group-title="(TR) Turkey",DADDY ANIMASYON 3 | SD (TR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/167.m3u8
 
@@ -8628,14 +7701,8 @@ http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/161.m3u8
 #EXTINF:0 group-title="(TR) Turkey",DADDY KORKU | SD (TR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/156.m3u8
 
-#EXTINF:0 group-title="(TR) Turkey",DADDY KORKU | SD (TR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/156.m3u8
-
 #EXTINF:0 group-title="(TR) Turkey",DADDY KORKU 1 | SD (TR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/160.m3u8
-
-#EXTINF:0 group-title="(TR) Turkey",DADDY KORKU 1 | SD (TR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/160.m3u8
 
 #EXTINF:0 group-title="(TR) Turkey",DADDY KORKU 3 | SD (TR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/158.m3u8
@@ -8645,9 +7712,6 @@ http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/157.m3u8
 
 #EXTINF:0 group-title="(TR) Turkey",DADDY MIX 1 | SD (TR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/149.m3u8
-
-#EXTINF:0 group-title="(TR) Turkey",DADDY MIX 1 | SD (TR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/149.m3u8
 
 #EXTINF:0 group-title="(TR) Turkey",DADDY MIX 10 | SD (TR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/140.m3u8
@@ -8663,9 +7727,6 @@ http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/137.m3u8
 
 #EXTINF:0 group-title="(TR) Turkey",DADDY MIX 14 | SD (TR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/136.m3u8
-
-#EXTINF:0 group-title="(TR) Turkey",DADDY MIX 14 | SD (TR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/136.m3u8
 
 #EXTINF:0 group-title="(TR) Turkey",DADDY MIX 15 | SD (TR)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/135.m3u8
@@ -8779,9 +7840,6 @@ http://149.202.196.91:8000/live/orangetech/stream/61.m3u8
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/205.m3u8
 
 #EXTINF:0 group-title="(TR) Turkey",DREAM | SD (TR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/205.m3u8
-
-#EXTINF:0 group-title="(TR) Turkey",DREAM | SD (TR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/2591.m3u8
 
 #EXTINF:0 group-title="(TR) Turkey",DREAM TV W | SD (TR)
@@ -8811,9 +7869,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19799.m3u8
 #EXTINF:0 group-title="(TR) Turkey",EGE TV | SD (TR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/11393.m3u8
 
-#EXTINF:0 group-title="(TR) Turkey",EGE TV | SD (TR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/11393.m3u8
-
 #EXTINF:0 group-title="(TR) Turkey",EGEM TV | SD (TR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21004.m3u8
 
@@ -8834,9 +7889,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19800.m3u8
 
 #EXTINF:0 group-title="(TR) Turkey",ELISA SINEMA 1 | SD (TR)
 http://54.36.111.175:8000/live/ZzQUCDggym/NpcvPnxVVM/333.m3u8
-
-#EXTINF:0 group-title="(TR) Turkey",ELISA SINEMA 1 | SD (TR)
-http://ns3121518.ip-54-36-111.eu:8000/live/ZzQUCDggym/NpcvPnxVVM/333.m3u8
 
 #EXTINF:0 group-title="(TR) Turkey",ELISA SINEMA 2 | SD (TR)
 http://54.36.111.175:8000/live/ZzQUCDggym/NpcvPnxVVM/334.m3u8
@@ -8919,9 +7971,6 @@ http://149.202.196.91:8000/live/orangetech/stream/94.m3u8
 #EXTINF:0 group-title="(TR) Turkey",FOX | HD (TR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/70.m3u8
 
-#EXTINF:0 group-title="(TR) Turkey",FOX | HD (TR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/70.m3u8
-
 #EXTINF:0 group-title="(TR) Turkey",FOX | SD (TR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/251.m3u8
 
@@ -8933,12 +7982,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20476.m3u8
 
 #EXTINF:0 group-title="(TR) Turkey",FRT TV | SD (TR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20476.m3u8
-
-#EXTINF:0 group-title="(TR) Turkey",GONCA TV | SD (TR)
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19801.m3u8
-
-#EXTINF:0 group-title="(TR) Turkey",GONCA TV | SD (TR)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19801.m3u8
 
 #EXTINF:0 group-title="(TR) Turkey",GS TV | SD (TR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/11405.m3u8
@@ -8987,12 +8030,6 @@ http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/218.m3u8
 
 #EXTINF:0 group-title="(TR) Turkey",HALK TV | SD (TR)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/218.m3u8
-
-#EXTINF:0 group-title="(TR) Turkey",HAZAN TV | SD (TR)
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14844.m3u8
-
-#EXTINF:0 group-title="(TR) Turkey",HAZAN TV | SD (TR)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14844.m3u8
 
 #EXTINF:0 group-title="(TR) Turkey",HON | SD (TR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14235.m3u8
@@ -9159,9 +8196,6 @@ http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/198.m3u8
 #EXTINF:0 group-title="(TR) Turkey",KANAL7 | SD (TR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/60.m3u8
 
-#EXTINF:0 group-title="(TR) Turkey",KANAL7 | SD (TR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/60.m3u8
-
 #EXTINF:0 group-title="(TR) Turkey",KARADENIZ | SD (TR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/17128.m3u8
 
@@ -9279,9 +8313,6 @@ http://149.202.196.91:8000/live/orangetech/stream/603.m3u8
 #EXTINF:0 group-title="(TR) Turkey",LALEG | SD (TR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/105.m3u8
 
-#EXTINF:0 group-title="(TR) Turkey",LALEG | SD (TR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/105.m3u8
-
 #EXTINF:0 group-title="(TR) Turkey",LALEGUL TV | SD (TR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/1351.m3u8
 
@@ -9350,9 +8381,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14576.m3u8
 
 #EXTINF:0 group-title="(TR) Turkey",MILYON TV | SD (TR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14576.m3u8
-
-#EXTINF:0 group-title="(TR) Turkey",MINIKA COCUK | SD (TR)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/230.m3u8
 
 #EXTINF:0 group-title="(TR) Turkey",MINIKA GO | SD (TR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/231.m3u8
@@ -9495,9 +8523,6 @@ http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u
 #EXTINF:0 group-title="(TR) Turkey",SEMERKAND TV | SD (TR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/222.m3u8
 
-#EXTINF:0 group-title="(TR) Turkey",SEMERKAND TV | SD (TR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/222.m3u8
-
 #EXTINF:0 group-title="(TR) Turkey",SHOW | HD (TR)
 http://149.202.196.91:8000/live/orangetech/stream/74.m3u8
 
@@ -9506,9 +8531,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18271.m3u8
 
 #EXTINF:0 group-title="(TR) Turkey",SHOW MAX | SD (TR)
 http://149.202.196.91:8000/live/orangetech/stream/550.m3u8
-
-#EXTINF:0 group-title="(TR) Turkey",SHOW MAX | SD (TR)
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/113.m3u8
 
 #EXTINF:0 group-title="(TR) Turkey",SHOW MAX | SD (TR)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/113.m3u8
@@ -9587,9 +8609,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16587.m3u8
 
 #EXTINF:0 group-title="(TR) Turkey",TEVE 2 | HD (TR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/11401.m3u8
-
-#EXTINF:0 group-title="(TR) Turkey",TEVE 2 | HD (TR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/11401.m3u8
 
 #EXTINF:0 group-title="(TR) Turkey",TEVE 2 | SD (TR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/84.m3u8
@@ -9765,9 +8784,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21006.m3u8
 #EXTINF:0 group-title="(TR) Turkey",TV2 | HD (TR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/71.m3u8
 
-#EXTINF:0 group-title="(TR) Turkey",TV2 | HD (TR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/71.m3u8
-
 #EXTINF:0 group-title="(TR) Turkey",TV2 | SD (TR)
 http://iptv-webtv.at:8000/live/orangetech/stream/52.m3u8
 
@@ -9806,9 +8822,6 @@ http://149.202.196.91:8000/live/orangetech/stream/66.m3u8
 
 #EXTINF:0 group-title="(TR) Turkey",ULKE TV | SD (TR)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/201.m3u8
-
-#EXTINF:0 group-title="(TR) Turkey",ULKE TV | SD (TR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/201.m3u8
 
 #EXTINF:0 group-title="(TR) Turkey",ULUSAL KANAL | SD (TR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/2907.m3u8
@@ -9945,9 +8958,6 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18841.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",ALIBI | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/37384.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",ALIBI | SD (UK)
-http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/631.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",ANIMAL PLANET | HD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/9882.m3u8
 
@@ -9956,9 +8966,6 @@ http://188.93.238.184:8000/live/ryan/ryan/17219.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",ANIMAL PLANET | SD (UK)
 http://163.172.62.63:8000/live/fazeel/fazeel/2013.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",ANIMAL PLANET | SD (UK)
-http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/630.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",ANIMAL-PLANET | HD (UK)
 http://163.172.62.63:8000/live/fazeel/fazeel/1361.m3u8
@@ -10005,9 +9012,6 @@ http://188.93.238.184:8000/live/ryan/ryan/29513.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",CBS ACTION | SD (UK)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2205.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",CBS ACTION | SD (UK)
-http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/1608.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",CBS DRAMA | SD (UK)
 http://163.172.62.63:8000/live/fazeel/fazeel/2004.m3u8
 
@@ -10019,9 +9023,6 @@ http://188.93.238.184:8000/live/ryan/ryan/29512.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",CBS REALITY | SD (UK)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2204.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",CBS REALITY | SD (UK)
-http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/1606.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",CGTN | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/11883.m3u8
@@ -10140,9 +9141,6 @@ http://188.93.238.184:8000/live/ryan/ryan/37338.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",FLOWTV | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/11854.m3u8
 
-#EXTINF:0 group-title="(UK) United Kingdom",FOOD NETWORK | SD (UK)
-http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/570.m3u8
-
 #EXTINF:0 group-title="(UK) United Kingdom",FORCES TV | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/11898.m3u8
 
@@ -10151,9 +9149,6 @@ http://188.93.238.184:8000/live/ryan/ryan/19632.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",FOX | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/37399.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",FOX | SD (UK)
-http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/632.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",FRANCE 24 | SD (UK)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13599.m3u8
@@ -10178,9 +9173,6 @@ http://163.172.62.63:8000/live/fazeel/fazeel/2009.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",GEO TV | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/11295.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",GEO TV | SD (UK)
-http://163.172.62.63:8000/live/fazeel/fazeel/2011.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",GLORY TV | SD (UK)
 http://188.93.238.184:8000/live/ryan/ryan/11367.m3u8
@@ -10667,9 +9659,6 @@ http://stream.shqiptv.com:7080/altvusa/index.m3u8
 
 #EXTINF:0 group-title="(US) United States",AMGA TV | SD (US)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11548.m3u8
-
-#EXTINF:0 group-title="(US) United States",AMGA TV | SD (US)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11548.m3u8
 
 #EXTINF:0 group-title="(US) United States",APNA PUNJAB | SD (US)
 http://m6gdawxeln93-hls-live.5centscdn.com/854/apntv/c9a1fdac6e082dd89e7173244f34d7b3.sdp/tracks-v1a1/index.m3u8
@@ -11199,17 +10188,8 @@ http://163.172.62.63:8000/live/fazeel/fazeel/3984.m3u8
 #EXTINF:0 group-title="(US) United States",TNT | HD (US)
 http://163.172.62.63:8000/live/fazeel/fazeel/3334.m3u8
 
-#EXTINF:0 group-title="(US) United States",TSN 2HD | SD (US)
-http://188.93.238.184:8000/live/ryan/ryan/37792.m3u8
-
 #EXTINF:0 group-title="(US) United States",TSN 3HD | SD (US)
 http://188.93.238.184:8000/live/ryan/ryan/37795.m3u8
-
-#EXTINF:0 group-title="(US) United States",TSN 4HD | SD (US)
-http://188.93.238.184:8000/live/ryan/ryan/37790.m3u8
-
-#EXTINF:0 group-title="(US) United States",TSN 5HD | SD (US)
-http://188.93.238.184:8000/live/ryan/ryan/37791.m3u8
 
 #EXTINF:0 group-title="(US) United States",TUFF TV | SD (US)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18868.m3u8
@@ -11484,12 +10464,6 @@ http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2247.m3u8
 #EXTINF:0 group-title="(BG) Bulgaria",DISNEY CHANNEL | SD (BG)
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/277.m3u8
 
-#EXTINF:0 group-title="(FR) France",BOOMERANG | HD (FR)
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3162.m3u8
-
-#EXTINF:0 group-title="(FR) France",BOOMERANG | SD (FR)
-http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/140.m3u8
-
 #EXTINF:0 group-title="(FR) France",CARTOON NETWORK | HD (FR)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3157.m3u8
 
@@ -11502,29 +10476,17 @@ http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/569.m3u8
 #EXTINF:0 group-title="(DE) Germany",DISNEY BOOMERANG | SD (DE)
 http://163.172.62.63:8000/live/fazeel/fazeel/1422.m3u8
 
-#EXTINF:0 group-title="(DE) Germany",DISNEY JUNIOR | HD (DE)
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15162.m3u8
-
-#EXTINF:0 group-title="(DE) Germany",DISNEY JUNIOR | HD (DE)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15162.m3u8
-
 #EXTINF:0 group-title="(DE) Germany",FAMILY TV | SD (DE)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14147.m3u8
 
 #EXTINF:0 group-title="(DE) Germany",FAMILY TV | SD (DE)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14147.m3u8
 
-#EXTINF:0 group-title="(DE) Germany",NICKELODEON | SD (DE)
-http://163.172.62.63:8000/live/fazeel/fazeel/1435.m3u8
-
 #EXTINF:0 group-title="(GR) Greece",LIFE KIDS NETWORK | SD (GR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20198.m3u8
 
 #EXTINF:0 group-title="(GR) Greece",LIFE KIDS NETWORK | SD (GR)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20198.m3u8
-
-#EXTINF:0 group-title="(GR) Greece",NICKELODEON | SD (GR)
-http://54.36.168.168:8000/live/zizo18040/54544452/11034.m3u8
 
 #EXTINF:0 group-title="(IT) Italy",CARTOON NETWORK | SD (IT)
 http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2995.m3u8
@@ -11694,9 +10656,6 @@ http://163.172.62.63:8000/live/fazeel/fazeel/1800.m3u8
 #EXTINF:0 group-title="(AR) Arabia",CBC SOFRA EGIPT | SD (AR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15361.m3u8
 
-#EXTINF:0 group-title="(AR) Arabia",CBC SOFRA EGIPT | SD (AR)
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15361.m3u8
-
 #EXTINF:0 group-title="(AR) Arabia",CBC-EXTRA | SD (AR)
 http://sw.fannan.se:8000/live/zizo18040/54544452/7007.m3u8
 
@@ -11722,9 +10681,6 @@ http://sw.fannan.se:8000/live/zizo18040/54544452/6985.m3u8
 http://sw.fannan.se:8000/live/zizo18040/54544452/7093.m3u8
 
 #EXTINF:0 group-title="(AR) Arabia",NEWS | SD (AR)
-http://www.elahmad.com/tv/m3u8/sauditv.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",NEWS | SD (AR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11057.m3u8
 
 #EXTINF:0 group-title="(AR) Arabia",NEWS | SD (AR)
@@ -11733,29 +10689,8 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11057.m3u8
 #EXTINF:0 group-title="(AR) Arabia",ORIENT NEWS TV SYRIA | SD (AR)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15434.m3u8
 
-#EXTINF:0 group-title="(AF) Afghanistan",AL MAAREF | SD (AF)
-http://almaareftv.com:1935/live/12/playlist.m3u8
-
-#EXTINF:0 group-title="(AF) Afghanistan",AL WAAD | SD (AF)
-http://bcoveliveios-i.akamaihd.net/hls/live/224241/4303072782001/master.m3u8
-
-#EXTINF:0 group-title="(AL) Albania",HAYAT 2 EGYPT | SD (AL)
-http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/FluxusTV.m3u8
-
-#EXTINF:0 group-title="(AL) Albania",TANASUH TV LIBYA | SD (AL)
-http://m.live.net.sa:1935/m/ngrp:tanasuhtv_all/playlist.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",AL SUNNAH AL NABAWIYAH | SD (AR)
-http://www.elahmad.com/tv/m3u8/sauditv.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",AL SUNNAH AL NABAWIYAH | SD (AR)
-https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/1.m3u8
-
 #EXTINF:0 group-title="(AR) Arabia",HIDABROOT TV | SD (AR)
 https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
-
-#EXTINF:0 group-title="(AR) Arabia",IQRAA | SD (AR)
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8
 
 #EXTINF:0 group-title="(AR) Arabia",KABBALAH FOR THE PEOPLE | SD (AR)
 http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
@@ -11769,9 +10704,6 @@ http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 #EXTINF:0 group-title="(ARG) Argentina",TV MANA | SD (ARG)
 http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
 
-#EXTINF:0 group-title="(BE) Belgium",THE LIGHT TV NETHERLANDS | SD (BE)
-http://54.38.193.109/btltv.m3u8
-
 #EXTINF:0 group-title="(CA) Canada",SALT AND LIGHT TV | SD (CA)
 http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
 
@@ -11784,9 +10716,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22102.m3u8
 #EXTINF:0 group-title="(DE) Germany",HOPE CHANNEL | SD (DE)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22102.m3u8
 
-#EXTINF:0 group-title="(DE) Germany",SANTUARIO FATIMA PORTUGAL | SD (DE)
-http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
-
 #EXTINF:0 group-title="(DE) Germany",SWAMIJI TV | SD (DE)
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w1606422831_b400000.m3u8
 
@@ -11796,32 +10725,11 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18407.m3u8
 #EXTINF:0 group-title="(IN) India",HOPE CHANNEL | SD (IN)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18402.m3u8
 
-#EXTINF:0 group-title="(IT) Italy",TV 2000 | SD (IT)
-http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
-
-#EXTINF:0 group-title="(MX) Mexico",COMUNION TV | SD (MX)
-http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
-
-#EXTINF:0 group-title="(MX) Mexico",MESIAS TV | SD (MX)
-http://server120416w1.a1network.net:1935/elmesias/elmesias.sdp/playlist.m3u8
-
-#EXTINF:0 group-title="(MX) Mexico",MONTE MARIA | SD (MX)
-http://162.212.176.51:1935/live/myStream/playlist.m3u8
-
 #EXTINF:0 group-title="(PL) Poland",HOPE CHANNEL | SD (PL)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22414.m3u8
 
-#EXTINF:0 group-title="(PT) Portugal",APARECIDA | SD (PT)
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-
-#EXTINF:0 group-title="(PT) Portugal",FOZ TV | SD (PT)
-http://gw01.7idi.com:8087/hls/foztv.m3u8
-
 #EXTINF:0 group-title="(PT) Portugal",SOBRENATURAL TV | SD (PT)
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-
-#EXTINF:0 group-title="(PT) Portugal",TV ARCA DA ALIANCA | SD (PT)
-http://v.pool.us.wse-1.srvstream.com:1935/arcadaalianca/arcadaalianca/live.m3u8
 
 #EXTINF:0 group-title="(PT) Portugal",TV BETEL | SD (PT)
 http://45.43.208.98:1935/betelnc/betelnc/live.m3u8
@@ -11829,26 +10737,14 @@ http://45.43.208.98:1935/betelnc/betelnc/live.m3u8
 #EXTINF:0 group-title="(PT) Portugal",TV LOUVAR | SD (PT)
 http://173.236.10.10:1935/renascer/renascer/live.m3u8
 
-#EXTINF:0 group-title="(PT) Portugal",TV VERDADE | SD (PT)
-http://ocatv.mcgi.me:1935/public/247_es/live.m3u8
-
 #EXTINF:0 group-title="(RU) Russia",HOPE CHANNEL | SD (RU)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9105.m3u8
-
-#EXTINF:0 group-title="(EX-YU) Slovenia",MUSIC BRAZIL | SD (EX-YU)
-http://45.43.208.98:1935/tvmonteiro/tvmonteiro/live.m3u8
 
 #EXTINF:0 group-title="(SE) Sweden",HOPE CHANNEL | SD (SE)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22813.m3u8
 
 #EXTINF:0 group-title="(CH) Switzerland",HOPE TV | SD (CH)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22242.m3u8
-
-#EXTINF:0 group-title="(TR) Turkey",SEMERKAND | HD (TR)
-http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
-
-#EXTINF:0 group-title="(TR) Turkey",TRT DIYANET | SD (TR)
-http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",CATHOLIC TV | SD (UK)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7781.m3u8
@@ -11871,14 +10767,8 @@ http://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/chunklist_w758952533_b2
 #EXTINF:0 group-title="(US) United States",ALL NATIONS TV | SD (US)
 http://telvuelive-i.akamaihd.net/hls/live/203868/T01997/playlist.m3u8
 
-#EXTINF:0 group-title="(US) United States",BETTER HEALTH | SD (US)
-http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
-
 #EXTINF:0 group-title="(US) United States",BETTER LIFE | SD (US)
 http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
-
-#EXTINF:0 group-title="(US) United States",BETTER NATURE | SD (US)
-http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
 
 #EXTINF:0 group-title="(US) United States",BIBLE EXPLORATIONS | SD (US)
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
@@ -11895,14 +10785,8 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18918.m3u8
 #EXTINF:0 group-title="(US) United States",CHRISTIAN TELEVISION NETWORK | SD (US)
 http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
 
-#EXTINF:0 group-title="(US) United States",CHRISTIAN TELEVISION NETWORK ES | SD (US)
-http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
-
 #EXTINF:0 group-title="(US) United States",DIVINE VISION NETWORK | SD (US)
 http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
-
-#EXTINF:0 group-title="(US) United States",ESPERANZA TV | SD (US)
-http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
 
 #EXTINF:0 group-title="(US) United States",EXTREMA TV | SD (US)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -11913,29 +10797,17 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18871.m3u8
 #EXTINF:0 group-title="(US) United States",GC CHURCH TV | SD (US)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18871.m3u8
 
-#EXTINF:0 group-title="(US) United States",GEB | SD (US)
-http://184.173.203.50:1935/live/smil:geb/chunklist.m3u8
-
 #EXTINF:0 group-title="(US) United States",GOD TV | SD (US)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11526.m3u8
 
 #EXTINF:0 group-title="(US) United States",GOD TV | SD (US)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11526.m3u8
 
-#EXTINF:0 group-title="(US) United States",GOOD LIFE 45 | SD (US)
-http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
-
-#EXTINF:0 group-title="(US) United States",HISCHANNEL | SD (US)
-http://www1.hischannel.com/Box-Tv-Live/BoxTvLive.isml/manifest(format=m3u8-aapl).m3u8
-
 #EXTINF:0 group-title="(US) United States",HOPE CHANNEL | SD (US)
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7793.m3u8
 
 #EXTINF:0 group-title="(US) United States",HOPE CHANNEL | SD (US)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7793.m3u8
-
-#EXTINF:0 group-title="(US) United States",HOUSE OF YAHWEH | SD (US)
-http://198.57.164.156:1935/live/SermonLoop/chunklist_w1535326969.m3u8
 
 #EXTINF:0 group-title="(US) United States",JEWISH BROADCASTING SERVICE | SD (US)
 http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
@@ -11946,9 +10818,6 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9984.m3u8
 #EXTINF:0 group-title="(US) United States",JEWISH LIFE TV | SD (US)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9984.m3u8
 
-#EXTINF:0 group-title="(US) United States",JRES TV ES | SD (US)
-http://teleredmcp.com:1935/jrestv/jrestv/chunklist_w1193494329.m3u8
-
 #EXTINF:0 group-title="(US) United States",LESEA BROADCASTING NETWORK | SD (US)
 http://media1.lesea.com:1935/live/leseaorigin.stream/chunklist.m3u8
 
@@ -11958,26 +10827,8 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20268.m3u8
 #EXTINF:0 group-title="(US) United States",LIFECHURCH TV | SD (US)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20268.m3u8
 
-#EXTINF:0 group-title="(US) United States",LIFEVISION TV | SD (US)
-http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
-
-#EXTINF:0 group-title="(US) United States",NRB NETWORK | SD (US)
-http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-
 #EXTINF:0 group-title="(US) United States",SPIRIT TV | SD (US)
 http://spirit-live-cdn.campfyre.tv/rightbrainmedia-live-109/mp4:spirit1/playlist.m3u8
-
-#EXTINF:0 group-title="(US) United States",SPIRIT TV | SD (US)
-http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:spirit_all/playlist.m3u8
-
-#EXTINF:0 group-title="(US) United States",TELEVISION ESNE | SD (US)
-http://198.154.228.82:1935/esne-live/smil:esnetv.smil/chunklist_w431608397_b1298000_sleng.m3u8
-
-#EXTINF:0 group-title="(US) United States",VIDA MEJOR | SD (US)
-http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
-
-#EXTINF:0 group-title="(WW) World Wide",CDM PUERTO RICO | SD (WW)
-http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
 
 #EXTINF:0 group-title="(WW) World Wide",HARVEST TV USA | SD (WW)
 http://media1.lesea.com:1935/live/leseaorigin.stream/playlist.m3u8
@@ -11988,7 +10839,6 @@ http://188.93.238.184:8000/live/ryan/ryan/11360.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Aug.31.2018
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:0 group-title="(CCTV)
 #EXTINF:-1 tvg-id="CCTV" tvg-name="CCTV" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",Christmas Fireplace
 http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
 
@@ -12435,3 +11285,21 @@ http://78.41.175.170:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="CCTV" tvg-name="" tvg-logo="http://i.imgur.com/UkTalha.png" group-title="CHINA",Shanghai - Skyline [M3U8]
 http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
