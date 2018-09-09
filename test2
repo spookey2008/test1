@@ -13099,5 +13099,5 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19383.m3u8
 #EXTINF:0 group-title="(WW) World Wide",SPORTS NET | HD (WW)
 http://163.172.62.63:8000/live/fazeel/fazeel/3528.m3u8
 
-#EXTINF:-1 tvg-id="movies" tvg-name="movies" group-title="movies"
+#EXTINF:-0 group-title="movies" TheMeg2018",
 https://hl.bobmovies.us/hl/TheMeg2018720pHDCAM.m3u8
