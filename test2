@@ -14895,3 +14895,39 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21576.m3u8
 
 #EXTINF:0 group-title="(US) United States",TCT KIDS | SD (US)
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21576.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="CCTV",= Aug.31.2018
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV.",Christmas Fireplace
+http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV",Fish Tank
+http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV.",Int'l Space Station 1 [M3U8]
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV.",Int'l Space Station 2 [M3U8]
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV.",Smithsonian Panda Cam 1 [M3U8]
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV.",Smithsonian Panda Cam 2 [M3U8]
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV.",TLC Cupcake Cam [M3U8]
+http://iphone-streaming.ustream.tv/uhls/21661624/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV.",DC Eagle Cam [M3U8]
+http://americaneagle-lh.akamaihd.net:80/i/AEF_DC1@31049/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="CCTV",Washington - District of Columbia - White House [M3U8]
+http://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="CCTV",NYC - New York - Statue of Liberty [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="CCTV",NYC - New York - 5th Avenue [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/fridays_5th.flv/chunklist.m3u8
