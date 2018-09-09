@@ -12607,4 +12607,4 @@ http://78.41.175.170:2000/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/aGhVfMd.png" group-title="CCTV",Malacky 02
 http://78.41.175.170:80/mjpg/video.mjpg
 
-#EXTINF:0 group-title="(movies) (movies) https://hl.bobmovies.us/hl/The.Night.Before.2015.1080p.BluRay.x264.VPPV.m3u8
+#EXTINF:-1,movies https://hl.bobmovies.us/hl/The.Night.Before.2015.1080p.BluRay.x264.VPPV.m3u8
