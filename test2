@@ -14899,28 +14899,28 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21576.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="CCTV",= Aug.31.2018
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV.",Christmas Fireplace
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV",Christmas Fireplace
 http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV.",Fish Tank
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV",Fish Tank
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV.",Int'l Space Station 1 [M3U8]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV",Int'l Space Station 1 [M3U8]
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV.",Int'l Space Station 2 [M3U8]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV",Int'l Space Station 2 [M3U8]
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV.",Smithsonian Panda Cam 1 [M3U8]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV",Smithsonian Panda Cam 1 [M3U8]
 http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV.",Smithsonian Panda Cam 2 [M3U8]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV",Smithsonian Panda Cam 2 [M3U8]
 http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV.",TLC Cupcake Cam [M3U8]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV",TLC Cupcake Cam [M3U8]
 http://iphone-streaming.ustream.tv/uhls/21661624/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV.",DC Eagle Cam [M3U8]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="CCTV",DC Eagle Cam [M3U8]
 http://americaneagle-lh.akamaihd.net:80/i/AEF_DC1@31049/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="CCTV",Washington - District of Columbia - White House [M3U8]
@@ -15325,16 +15325,16 @@ http://91.222.109.142:80/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ZDNQvWv.png" group-title="CCTV",Tarnow - Malopolskie - Starodabrowska Polnoc
 http://95.174.36.75:8084/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qDrNnrU.png" group-title="CCTV REP.",Brno - Brno University of Technology
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qDrNnrU.png" group-title="CCTV",Brno - Brno University of Technology
 http://147.229.26.166:80/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qDrNnrU.png" group-title="CCTV REP.",Zlin
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qDrNnrU.png" group-title="CCTV",Zlin
 http://77.48.209.214:80/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qDrNnrU.png" group-title="CCTV REP.",Baska - Moravskoslezsky Kraj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qDrNnrU.png" group-title="CCTV",Baska - Moravskoslezsky Kraj
 http://217.197.149.7:88/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qDrNnrU.png" group-title="CCTV REP.",Velke Mezirici - Vysocina Kraj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qDrNnrU.png" group-title="CCTV",Velke Mezirici - Vysocina Kraj
 http://78.156.144.221:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/aGhVfMd.png" group-title="CCTV",Malacky 01
