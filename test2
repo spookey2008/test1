@@ -4,7 +4,7 @@ http://izgemma.ddns.net:8000/live/ryan/ryan/37932.ts
 
 #EXTINF:0 group-title="SPORT"
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="(SPORT) United Kingdom",AT THE RACES | SD (SPORT)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="(SPORT) United Kingdom",AT THE RACES | SD (SPORT)
 http://188.93.238.184:8000/live/ryan/ryan/29479.m3u8
 
 #EXTINF:0 group-title="(SPORT) United Kingdom",AT THE RACES | SD (SPORT)
