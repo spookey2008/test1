@@ -1,71 +1,69 @@
-#EXTINF:-1,UK@ Star Plus HD.
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kK6ItFh.png" UK@ Star Plus HD.
 http://izgemma.ddns.net:8000/live/ryan/ryan/37932.ts
 
-#EXTINF:-1,UK@ Star Plus.
+#EXTINF:-1,tvg-logo="http://i.imgur.com/kK6ItFh.png" UK@ Star Plus.
 http://izgemma.ddns.net:8000/live/ryan/ryan/11301.ts
 
-#EXTINF:-1,UK@ Star Bharat.
+#EXTINF:-1,tvg-logo="https://i.imgur.com/j60tQfd.png" UK@ Star Bharat.
 http://izgemma.ddns.net:8000/live/ryan/ryan/22412.ts
 
-#EXTINF:-1,UK@ Star Life OK
+#EXTINF:-1,tvg-logo="https://i.imgur.com/KLyNmTO.png" UK@ Star Life OK
 http://izgemma.ddns.net:8000/live/ryan/ryan/11300.ts
 
-#EXTINF:-1,UK@ Star Gold HD
+#EXTINF:-1,tvg-logo="https://i.imgur.com/ToegYbt.png" UK@ Star Gold HD
 http://izgemma.ddns.net:8000/live/ryan/ryan/11321.ts
 
-#EXTINF:-1,UK@ Star Gold (Backup)
+#EXTINF:-1,tvg-logo="https://i.imgur.com/j60tQfd.png" UK@ Star Gold (Backup)
 http://izgemma.ddns.net:8000/live/ryan/ryan/29501.ts
 
-#EXTINF:-1,UK@ Colors HD
+#EXTINF:-1,tvg-logo="https://i.imgur.com/t1zW8oO.jpg" UK@ Colors HD
 http://izgemma.ddns.net:8000/live/ryan/ryan/11290.ts
 
-#EXTINF:-1,UK@ Colors
+#EXTINF:-1,tvg-logo="https://i.imgur.com/t1zW8oO.jpg" UK@ Colors
 http://izgemma.ddns.net:8000/live/ryan/ryan/14143.ts
 
-#EXTINF:-1,UK@ Colors (Backup)
+#EXTINF:-1,tvg-logo="https://i.imgur.com/t1zW8oO.jpg" UK@ Colors (Backup)
 http://izgemma.ddns.net:8000/live/ryan/ryan/14139.ts
 
-#EXTINF:-1,UK@ Rishtey
+#EXTINF:-1,tvg-logo="https://i.imgur.com/XXQUAVb.png" UK@ Rishtey
 http://izgemma.ddns.net:8000/live/ryan/ryan/11298.ts
 
-#EXTINF:-1,UK@ Rishtey Cine Plex.
+#EXTINF:-1,tvg-logo="https://i.imgur.com/7bZaSxz.png" UK@ Rishtey Cine Plex.
 http://izgemma.ddns.net:8000/live/ryan/ryan/3603.ts
 
-#EXTINF:-1,UK@ Zee TV
+#EXTINF:-1,tvg-logo="https://i.imgur.com/cArCDeb.png" UK@ Zee TV
 http://izgemma.ddns.net:8000/live/ryan/ryan/11312.ts
 
-#EXTINF:-1,UK@ Zee Tv (Backup)
+#EXTINF:-1,tvg-logo="https://i.imgur.com/cArCDeb.png" UK@ Zee Tv (Backup)
 http://izgemma.ddns.net:8000/live/ryan/ryan/21845.ts
 
-#EXTINF:-1,IN@ Zee Talkies..
+#EXTINF:-1,tvg-logo="https://i.imgur.com/tpNCBl4.png" Uk@ Sony Ten 2 HD..
 http://izgemma.ddns.net:8000/live/ryan/ryan/1860.ts
 
-#EXTINF:-1,IN@ Zee Classic
+#EXTINF:-1,tvg-logo="https://i.imgur.com/knfruFV.png" UK@ Zee BOLLYWOOD
 http://izgemma.ddns.net:8000/live/ryan/ryan/31255.ts
 
-#EXTINF:-1,UK@ Zee Punjabi
-http://izgemma.ddns.net:8000/live/ryan/ryan/21871.ts
-
-#EXTINF:-1,UK@ Zee Cinema HD
+#EXTINF:-1,tvg-logo="https://i.imgur.com/G0Jit1u.jpg" UK@ Zee Cinema HD
 http://izgemma.ddns.net:8000/live/ryan/ryan/11310.ts
 
-#EXTINF:-1,IN@ Zee Ammol
+#EXTINF:-1,"https://i.imgur.com/mMtFobY.png" UK@ Zee Talkies
 http://izgemma.ddns.net:8000/live/ryan/ryan/11311.ts
 
-#EXTINF:-1,IN@ Zee ETC
+#EXTINF:-1,"https://i.imgur.com/yn2Xutm.png" IN@ Zee ETC
 http://izgemma.ddns.net:8000/live/ryan/ryan/31256.ts
 
-#EXTINF:-1,UK@ Zee News
+#EXTINF:-1,"https://i.imgur.com/vmcQQwD.jpg" UK@ Zee News
 http://izgemma.ddns.net:8000/live/ryan/ryan/15147.ts
 
-#EXTINF:-1,UK@ B4U Music
+#EXTINF:-1,"https://i.imgur.com/z3DM4nU.png" UK@ B4U Music
 http://izgemma.ddns.net:8000/live/ryan/ryan/11307.ts
 
-#EXTINF:-1,UK@ B4U MUSIC (Backup)
+#EXTINF:-1,"https://i.imgur.com/z3DM4nU.png" UK@ B4U MUSIC (Backup)
 http://izgemma.ddns.net:8000/live/ryan/ryan/29505.ts
 
-#EXTINF:-1,UK@ B4U Movies
+#EXTINF:-1,https://i.imgur.com/80Afeb3.png" UK@ B4U Movies
 http://izgemma.ddns.net:8000/live/ryan/ryan/283.ts
+
 
 #EXTINF:-1,IN@ B4U Plus
 http://izgemma.ddns.net:8000/live/ryan/ryan/11323.ts
