@@ -1,9 +1,6 @@
-#EXTINF:-1 tvg-id="" tvg-name="Star Plus HD" tvg-logo="http://i.imgur.com/kK6ItFh.png" group-title="Star Plus HD",
-http://izgemma.ddns.net:8000/live/ryan/ryan/11301.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus HD" tvg-logo="http://i.imgur.com/kK6ItFh.png" group-title="UK"
+Star Plus HD,http://izgemma.ddns.net:8000/live/ryan/ryan/11301.ts
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/knfruFV.png" group-title="(UK) Star Plus HD",
-http://izgemma.ddns.net:8000/live/ryan/ryan/31255.ts
 
 #EXTINF:0 group-title="SPORT"
 
