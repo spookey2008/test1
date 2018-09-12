@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="UK"
+#EXTINF:-1 group-title=(UK)
 
 #EXTINF:-1 tvg-id="" tvg-name="Zee BollyWood" tvg-logo="https://i.imgur.com/CcsPPOv.jpg" group-title=(UK)
 http://izgemma.ddns.net:8000/live/ryan/ryan/31255.ts
