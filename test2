@@ -1,4 +1,4 @@
-#EXTINF:-1,tvg-logo="https://i.imgur.com/knfruFV.png" group-title="(UK) bollywood",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CcsPPOv.jpg" group-title=(UK),Zee Bollywood",
 http://izgemma.ddns.net:8000/live/ryan/ryan/31255.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/kK6ItFh.png" group-title=(UK), Star Plus HD
