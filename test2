@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="Zee BollyWood" tvg-logo="https://i.imgur.com/CcsPPOv.jpg" group-title=(UK), Zee Bollywood
 http://izgemma.ddns.net:8000/live/ryan/ryan/31255.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/kK6ItFh.png" group-title=(UK), Star Plus HD
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus HD" tvg-logo="http://i.imgur.com/kK6ItFh.png" group-title=(UK), Star Plus HD
 http://izgemma.ddns.net:8000/live/ryan/ryan/11301.ts
 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/j60tQfd.png" UK@ Star Bharat.
