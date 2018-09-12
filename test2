@@ -25,7 +25,7 @@ http://izgemma.ddns.net:8000/live/ryan/ryan/14139.ts
 #EXTINF:-1 tvg-id="(UK)" tvg-name="" tvg-logo="https://i.imgur.com/XXQUAVb.jpg" group-title="(UK)", Rishtey Europe
 http://izgemma.ddns.net:8000/live/ryan/ryan/11298.ts
 
-#EXTINF:-1,tvg-logo="https://i.imgur.com/7bZaSxz.png" UK@ Rishtey Cine Plex.
+#EXTINF:-1 tvg-id="(UK)" tvg-name="" tvg-logo="https://i.imgur.com/7bZaSxz.jpg" group-title="(UK)", Rishtey Cine Plex.
 http://izgemma.ddns.net:8000/live/ryan/ryan/3603.ts
 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/cArCDeb.png" UK@ Zee TV
