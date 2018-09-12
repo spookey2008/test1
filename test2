@@ -7,7 +7,7 @@ http://izgemma.ddns.net:8000/live/ryan/ryan/11301.ts
 #EXTINF:-1 tvg-id="(UK)" tvg-name="" tvg-logo="https://i.imgur.com/j60tQfd.jpg" group-title="(UK)",Star Bharat
 http://izgemma.ddns.net:8000/live/ryan/ryan/22412.ts
 
-#EXTINF:-1,tvg-logo="" UK@ Star Life OK
+#EXTINF:-1 UK@ Star Life OK
 http://izgemma.ddns.net:8000/live/ryan/ryan/11300.ts
 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/ToegYbt.png" UK@ Star Gold HD
