@@ -1,449 +1,646 @@
-#EXTM3U
-#EXTINF:-1, Star Media Top Gear
-http://188.93.238.184:8000/live/dc/dc/37969.ts
-#EXTINF:-1, Capital News
-http://188.93.238.184:8000/live/dc/dc/21755.ts
-#EXTINF:-1, BBC Two HD
-http://188.93.238.184:8000/live/dc/dc/31971.ts
-#EXTINF:-1, BBC One North West
-http://188.93.238.184:8000/live/dc/dc/37861.ts
-#EXTINF:-1, ITV HD
-http://188.93.238.184:8000/live/dc/dc/26573.ts
-#EXTINF:-1, BBC Two (Backup)
-http://188.93.238.184:8000/live/dc/dc/27023.ts
-#EXTINF:-1, ITV Granada HD
-http://188.93.238.184:8000/live/dc/dc/36958.ts
-#EXTINF:-1, ITV Central HD
-http://188.93.238.184:8000/live/dc/dc/35123.ts
-#EXTINF:-1, Channel 4 (Backup)
-http://188.93.238.184:8000/live/dc/dc/37413.ts
-#EXTINF:-1, Channel 4 HD
-http://188.93.238.184:8000/live/dc/dc/33270.ts
-#EXTINF:-1, Channel 5 (Backup)
-http://188.93.238.184:8000/live/dc/dc/29192.ts
-#EXTINF:-1, Channel 5 HD
-http://188.93.238.184:8000/live/dc/dc/31973.ts
-#EXTINF:-1, Sky 1 (Backup)
-http://188.93.238.184:8000/live/dc/dc/27675.ts
-#EXTINF:-1, Sky One HD
-http://188.93.238.184:8000/live/dc/dc/11349.ts
-#EXTINF:-1, Sky Living hd
-http://188.93.238.184:8000/live/dc/dc/37337.ts
-#EXTINF:-1, Sky Witness HD
-http://188.93.238.184:8000/live/dc/dc/8143.ts
-#EXTINF:-1, Fine Living
-http://188.93.238.184:8000/live/dc/dc/37338.ts
-#EXTINF:-1, Sky Atlantic (Backup)
-http://188.93.238.184:8000/live/dc/dc/27098.ts
-#EXTINF:-1, Sky Atlantic HD
-http://188.93.238.184:8000/live/dc/dc/8144.ts
-#EXTINF:-1, W HD.
-http://188.93.238.184:8000/live/dc/dc/8145.ts
-#EXTINF:-1, Gold (Backup)
-http://188.93.238.184:8000/live/dc/dc/27674.ts
-#EXTINF:-1, Gold
-http://188.93.238.184:8000/live/dc/dc/36517.ts
-#EXTINF:-1, Comedy Central HD
-http://188.93.238.184:8000/live/dc/dc/8148.ts
-#EXTINF:-1, Dave HD
-http://188.93.238.184:8000/live/dc/dc/31974.ts
-#EXTINF:-1, MTV (Backup)
-http://188.93.238.184:8000/live/dc/dc/27679.ts
-#EXTINF:-1, MTV HD
-http://188.93.238.184:8000/live/dc/dc/8161.ts
-#EXTINF:-1, Universal (Backup)
-http://188.93.238.184:8000/live/dc/dc/29476.ts
-#EXTINF:-1, Universal HD
-http://188.93.238.184:8000/live/dc/dc/37160.ts
-#EXTINF:-1, Syfy HD
-http://188.93.238.184:8000/live/dc/dc/8150.ts
-#EXTINF:-1, Alibi HD
-http://188.93.238.184:8000/live/dc/dc/37167.ts
-#EXTINF:-1, ITV 2 (Backup)
-http://188.93.238.184:8000/live/dc/dc/37340.ts
-#EXTINF:-1, ITV2 HD
-http://188.93.238.184:8000/live/dc/dc/8153.ts
-#EXTINF:-1, ITV 3 HD
-http://188.93.238.184:8000/live/dc/dc/37345.ts
-#EXTINF:-1, ITV3 HD
-http://188.93.238.184:8000/live/dc/dc/8154.ts
-#EXTINF:-1, ITV 4
-http://188.93.238.184:8000/live/dc/dc/11346.ts
-#EXTINF:-1, ITV 4 HD
-http://188.93.238.184:8000/live/dc/dc/8155.ts
-#EXTINF:-1, ITV Be HD
-http://188.93.238.184:8000/live/dc/dc/37412.ts
-#EXTINF:-1, Sky Arts HD
-http://188.93.238.184:8000/live/dc/dc/8156.ts
-#EXTINF:-1, TLC HD
-http://188.93.238.184:8000/live/dc/dc/8160.ts
-#EXTINF:-1, FOX HD
-http://188.93.238.184:8000/live/dc/dc/19632.ts
-#EXTINF:-1, E4 HD
-http://188.93.238.184:8000/live/dc/dc/27704.ts
-#EXTINF:-1, Good Food.
-http://188.93.238.184:8000/live/dc/dc/8168.ts
-#EXTINF:-1, BBC Four HD
-http://188.93.238.184:8000/live/dc/dc/8152.ts
-#EXTINF:-1, CBS Reality (Backup)
-http://188.93.238.184:8000/live/dc/dc/29512.ts
-#EXTINF:-1, CBS Reality
-http://188.93.238.184:8000/live/dc/dc/9004.ts
-#EXTINF:-1, CBS Action (Backup)
-http://188.93.238.184:8000/live/dc/dc/29513.ts
-#EXTINF:-1, CBS Action
-http://188.93.238.184:8000/live/dc/dc/9225.ts
-#EXTINF:-1, CBS Drama (Backup)
-http://188.93.238.184:8000/live/dc/dc/29511.ts
-#EXTINF:-1, CBS Drama
-http://188.93.238.184:8000/live/dc/dc/9226.ts
-#EXTINF:-1, Challenge
-http://188.93.238.184:8000/live/dc/dc/21112.ts
-#EXTINF:-1, 4 SEVEN HD
-http://188.93.238.184:8000/live/dc/dc/37163.ts
-#EXTINF:-1, PicK tv
-http://188.93.238.184:8000/live/dc/dc/9229.ts
-#EXTINF:-1, EI HD
-http://188.93.238.184:8000/live/dc/dc/9228.ts
-#EXTINF:-1, Really
-http://188.93.238.184:8000/live/dc/dc/9232.ts
-#EXTINF:-1, BBC Entertainment
-http://188.93.238.184:8000/live/dc/dc/32935.ts
-#EXTINF:-1, Sony Channel
-http://188.93.238.184:8000/live/dc/dc/9234.ts
-#EXTINF:-1, Lifetime HD
-http://188.93.238.184:8000/live/dc/dc/9233.ts
-#EXTINF:-1, Drama
-http://188.93.238.184:8000/live/dc/dc/9235.ts
-#EXTINF:-1, 5Spike
-http://188.93.238.184:8000/live/dc/dc/9237.ts
-#EXTINF:-1, 5 USA
-http://188.93.238.184:8000/live/dc/dc/37156.ts
-#EXTINF:-1, Real Lives
-http://188.93.238.184:8000/live/dc/dc/11342.ts
-#EXTINF:-1, Home & Health
-http://188.93.238.184:8000/live/dc/dc/9470.ts
-#EXTINF:-1, AMC
-http://188.93.238.184:8000/live/dc/dc/11339.ts
+ #EXTM3U
+#EXTINF:-1,~ USA TV ~
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1,CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,MSNBC (HD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1,MSNBC (SD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
+#EXTINF:-1,MSNBC (SD)*
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
+#EXTINF:-1,Bloomberg TV
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1,Bloomberg TV*
+http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
+#EXTINF:-1,Fox News Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+#EXTINF:-1,Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1,C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+#EXTINF:-1,C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+#EXTINF:-1,C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:-1,Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1,Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1,Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1,The Blaze
+https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
+#EXTINF:-1,InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:-1,RT America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:-1,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,MLB Network*
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
+#EXTINF:-1,NBA TV
+http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
+#EXTINF:-1,NBC Golf [NoRoku]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1,Cartoon Network
+http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
+#EXTINF:-1,Comedy Central
+http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
+#EXTINF:-1,FreeForm [NoKodi]
+https://videoserver2.org/live/mHwxt8kU2oOl862qOFE58w/1507031391/654bc354612eeefee71cd611b175730c.m3u8
+#EXTINF:-1,Investigation Discovery
+http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
+#EXTINF:-1,NatGeo Wild [Off]
+http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
+#EXTINF:-1,Science Channel
+http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
+#EXTINF:-1,truTV
+http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
+#EXTINF:-1,Velocity
+http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
+#EXTINF:-1,Animal Planet
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Biz TV
+http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
+#EXTINF:-1,California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1,Channel 7 [NoRoku]
+http://radio.7chan.org:8000/CH7
+#EXTINF:-1,Classic Arts Showcase
+http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
+#EXTINF:-1,The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1,D23 TV
+http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
+#EXTINF:-1,Ditty TV
+http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
+#EXTINF:-1,Evine [Off]
+http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/master.m3u8
+#EXTINF:-1,Home Shopping Network
+http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
+#EXTINF:-1,Hunt Channel
+http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
+#EXTINF:-1,MeTV
+http://video.metv.com/metv/index.m3u8
+#EXTINF:-1,NASA TV Public
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+#EXTINF:-1,NASA TV Media
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
+#EXTINF:-1,QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+#EXTINF:-1,Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,Rev'n
+http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
+#EXTINF:-1,SupTV
+http://91.134.238.137/live/alpha/index.m3u8
+#EXTINF:-1,TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1,Tuff TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+#EXTINF:-1,TWiT.TV
+http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
+#EXTINF:-1,Wilderness Channel
+http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
+#EXTINF:-1,Yes TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+#EXTINF:-1,iHeart 80s
+http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
+#EXTINF:-1,Lite FM 106.7
+http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
+#EXTINF:-1,Nick Radio
+http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
+#EXTINF:-1,Z100 New York
+http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
+#EXTINF:-1,360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:-1,ASD TV
+http://64.22.99.223/AnchorageSchoolsAKLIVE/_definst_/AnchorageSchoolsAKLIVE.stream/chunklist.m3u8
+#EXTINF:-1,Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1,ATXN
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
+#EXTINF:-1,ATXN 2
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
+#EXTINF:-1,Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1,Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1,Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1,Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1,Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1,Capital City Connection
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+#EXTINF:-1,Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+#EXTINF:-1,District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1,District Knowledge Network
+http://video.oct.dc.gov/out/u/96_4.m3u8
+#EXTINF:-1,Escambia TV
+http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,The Florida Channel
+http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
+#EXTINF:-1,Garland TV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+#EXTINF:-1,Greenbelt TV
+http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+#EXTINF:-1,House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:-1,KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:-1,Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1,Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:-1,Laurel TV
+https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
+#EXTINF:-1,Miami TV
+http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
+#EXTINF:-1,Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:-1,PGCPS
+http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+#EXTINF:-1,RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,SCCtv
+http://media3.scctv.net/live/scctv_300/playlist.m3u8
+#EXTINF:-1,Seattle Channel
+https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
+#EXTINF:-1,Seminole TV
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+#EXTINF:-1,Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1,Temple TV
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+#EXTINF:-1,TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1,TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1,TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1,UCTV
+http://ucsdtv-wowza.ucsd.edu:1935/live/live_800/playlist.m3u8
+#EXTINF:-1,UGA TV
+http://mmuga-lh.akamaihd.net/i/ctlcable_1@349875/master.m3u8
+#EXTINF:-1,White Plains TV
+http://oflash.dfw.swagit.com/live/whiteplainsny/live-b-2/chucklist.m3u8
+#EXTINF:-1,WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,USA:Bein Sports NBA
+http://190.2.150.145:1978/live/01000/01000/6294.ts
+#EXTINF:-1,USA:CMTV
+http://190.2.150.145:1978/live/01000/01000/6293.ts
+#EXTINF:-1,USA:CW HD
+http://190.2.150.145:1978/live/01000/01000/6292.ts
+#EXTINF:-1,USA:Discovery
+http://190.2.150.145:1978/live/01000/01000/6291.ts
+#EXTINF:-1,USA:Discovery_Showcase
+http://190.2.150.145:1978/live/01000/01000/6290.ts
+#EXTINF:-1,USA:FOX
+http://190.2.150.145:1978/live/01000/01000/6289.ts
+#EXTINF:-1,USA:HBO Family
+http://190.2.150.145:1978/live/01000/01000/6288.ts
+#EXTINF:-1,USA:HBO HD
+http://190.2.150.145:1978/live/01000/01000/6287.ts
+#EXTINF:-1,USA:MS NBC HD
+http://190.2.150.145:1978/live/01000/01000/6286.ts
+#EXTINF:-1,USA:Tennis Channel
+http://190.2.150.145:1978/live/01000/01000/6285.ts
+#EXTINF:-1,USA:WWE NETWORK
+http://190.2.150.145:1978/live/01000/01000/6283.ts
+#EXTINF:-1,USA:WWE RAW HD
+http://190.2.150.145:1978/live/01000/01000/6284.ts
+#EXTINF:-1,ITV HD
+http://188.93.238.184:8000/live/snet/snet/26573.ts
+#EXTINF:-1,ITV Central HD
+http://188.93.238.184:8000/live/snet/snet/35123.ts
+#EXTINF:-1,ITV Granada HD
+http://188.93.238.184:8000/live/snet/snet/36958.ts
+#EXTINF:-1,Channel 4 HD
+http://188.93.238.184:8000/live/snet/snet/33270.ts
+#EXTINF:-1,Channel 4 (Backup)
+http://188.93.238.184:8000/live/snet/snet/37413.ts
+#EXTINF:-1,Channel 5 HD
+http://188.93.238.184:8000/live/snet/snet/31973.ts
+#EXTINF:-1,Channel 5 (Backup)
+http://188.93.238.184:8000/live/snet/snet/29192.ts
+#EXTINF:-1,Sky One HD
+http://188.93.238.184:8000/live/snet/snet/11349.ts
+#EXTINF:-1,Sky 1 (Backup)
+http://188.93.238.184:8000/live/snet/snet/27675.ts
+#EXTINF:-1,Sky Witness HD
+http://188.93.238.184:8000/live/snet/snet/8143.ts
+#EXTINF:-1,Sky Living hd
+http://188.93.238.184:8000/live/snet/snet/37337.ts
+#EXTINF:-1,Fine Living
+http://188.93.238.184:8000/live/snet/snet/37338.ts
+#EXTINF:-1,Sky Atlantic HD
+http://188.93.238.184:8000/live/snet/snet/8144.ts
+#EXTINF:-1,Sky Atlantic (Backup)
+http://188.93.238.184:8000/live/snet/snet/27098.ts
+#EXTINF:-1,W HD.
+http://188.93.238.184:8000/live/snet/snet/8145.ts
+#EXTINF:-1,Gold
+http://188.93.238.184:8000/live/snet/snet/36517.ts
+#EXTINF:-1,Gold (Backup)
+http://188.93.238.184:8000/live/snet/snet/27674.ts
+#EXTINF:-1,Dave HD
+http://188.93.238.184:8000/live/snet/snet/31974.ts
+#EXTINF:-1,Comedy Central HD
+http://188.93.238.184:8000/live/snet/snet/8148.ts
+#EXTINF:-1,MTV HD
+http://188.93.238.184:8000/live/snet/snet/8161.ts
+#EXTINF:-1,MTV (Backup)
+http://188.93.238.184:8000/live/snet/snet/27679.ts
+#EXTINF:-1,Universal HD
+http://188.93.238.184:8000/live/snet/snet/37160.ts
+#EXTINF:-1,Universal (Backup)
+http://188.93.238.184:8000/live/snet/snet/29476.ts
+#EXTINF:-1,Alibi HD
+http://188.93.238.184:8000/live/snet/snet/37167.ts
+#EXTINF:-1,Syfy HD
+http://188.93.238.184:8000/live/snet/snet/8150.ts
+#EXTINF:-1,ITV2 HD
+http://188.93.238.184:8000/live/snet/snet/8153.ts
+#EXTINF:-1,ITV 2 (Backup)
+http://188.93.238.184:8000/live/snet/snet/37340.ts
+#EXTINF:-1,ITV3 HD
+http://188.93.238.184:8000/live/snet/snet/8154.ts
+#EXTINF:-1,ITV 3 HD
+http://188.93.238.184:8000/live/snet/snet/37345.ts
+#EXTINF:-1,ITV 4 HD
+http://188.93.238.184:8000/live/snet/snet/8155.ts
+#EXTINF:-1,ITV 4
+http://188.93.238.184:8000/live/snet/snet/11346.ts
+#EXTINF:-1,Sky Arts HD
+http://188.93.238.184:8000/live/snet/snet/8156.ts
+#EXTINF:-1,ITV Be HD
+http://188.93.238.184:8000/live/snet/snet/37412.ts
+#EXTINF:-1,FOX HD
+http://188.93.238.184:8000/live/snet/snet/19632.ts
+#EXTINF:-1,TLC HD
+http://188.93.238.184:8000/live/snet/snet/8160.ts
+#EXTINF:-1,Good Food.
+http://188.93.238.184:8000/live/snet/snet/8168.ts
+#EXTINF:-1,E4 HD
+http://188.93.238.184:8000/live/snet/snet/27704.ts
+#EXTINF:-1,BBC Four HD
+http://188.93.238.184:8000/live/snet/snet/8152.ts
+#EXTINF:-1,Challenge
+http://188.93.238.184:8000/live/snet/snet/21112.ts
+#EXTINF:-1,CBS Reality
+http://188.93.238.184:8000/live/snet/snet/9004.ts
+#EXTINF:-1,CBS Reality (Backup)
+http://188.93.238.184:8000/live/snet/snet/29512.ts
+#EXTINF:-1,CBS Action
+http://188.93.238.184:8000/live/snet/snet/9225.ts
+#EXTINF:-1,CBS Action (Backup)
+http://188.93.238.184:8000/live/snet/snet/29513.ts
+#EXTINF:-1,CBS Drama
+http://188.93.238.184:8000/live/snet/snet/9226.ts
+#EXTINF:-1,CBS Drama (Backup)
+http://188.93.238.184:8000/live/snet/snet/29511.ts
+#EXTINF:-1,4 SEVEN HD
+http://188.93.238.184:8000/live/snet/snet/37163.ts
+#EXTINF:-1,EI HD
+http://188.93.238.184:8000/live/snet/snet/9228.ts
+#EXTINF:-1,PicK tv
+http://188.93.238.184:8000/live/snet/snet/9229.ts
+#EXTINF:-1,BBC Entertainment
+http://188.93.238.184:8000/live/snet/snet/32935.ts
+#EXTINF:-1,Really
+http://188.93.238.184:8000/live/snet/snet/9232.ts
+#EXTINF:-1,Lifetime HD
+http://188.93.238.184:8000/live/snet/snet/9233.ts
+#EXTINF:-1,Sony Channel
+http://188.93.238.184:8000/live/snet/snet/9234.ts
+#EXTINF:-1,Drama
+http://188.93.238.184:8000/live/snet/snet/9235.ts
+#EXTINF:-1,5 USA
+http://188.93.238.184:8000/live/snet/snet/37156.ts
+#EXTINF:-1,5Spike
+http://188.93.238.184:8000/live/snet/snet/9237.ts
+#EXTINF:-1,Home & Health
+http://188.93.238.184:8000/live/snet/snet/9470.ts
+#EXTINF:-1,Real Lives
+http://188.93.238.184:8000/live/snet/snet/11342.ts
 #EXTINF:-1, 5 Star
-http://188.93.238.184:8000/live/dc/dc/26961.ts
-#EXTINF:-1, My Channel
-http://188.93.238.184:8000/live/dc/dc/11735.ts
-#EXTINF:-1, Home
-http://188.93.238.184:8000/live/dc/dc/11338.ts
-#EXTINF:-1, ABN TV
-http://188.93.238.184:8000/live/dc/dc/11337.ts
-#EXTINF:-1, VOX Africa
-http://188.93.238.184:8000/live/dc/dc/11793.ts
-#EXTINF:-1, RTE 2 HD
-http://188.93.238.184:8000/live/dc/dc/11334.ts
-#EXTINF:-1, Food Network
-http://188.93.238.184:8000/live/dc/dc/11335.ts
-#EXTINF:-1, TG4
-http://188.93.238.184:8000/live/dc/dc/11331.ts
-#EXTINF:-1, BEN TV
-http://188.93.238.184:8000/live/dc/dc/11341.ts
-#EXTINF:-1, BBC World News
-http://188.93.238.184:8000/live/dc/dc/11327.ts
-#EXTINF:-1, London Live
-http://188.93.238.184:8000/live/dc/dc/11344.ts
-#EXTINF:-1, Talking Pictures
-http://188.93.238.184:8000/live/dc/dc/11747.ts
-#EXTINF:-1, More 4
-http://188.93.238.184:8000/live/dc/dc/22411.ts
-#EXTINF:-1, 3E
-http://188.93.238.184:8000/live/dc/dc/26572.ts
-#EXTINF:-1, Discovery Shed HD
-http://188.93.238.184:8000/live/dc/dc/9238.ts
-#EXTINF:-1, Discovery HD
-http://188.93.238.184:8000/live/dc/dc/9879.ts
-#EXTINF:-1, Discovery Science HD
-http://188.93.238.184:8000/live/dc/dc/9884.ts
-#EXTINF:-1, Discovery Turbo HD
-http://188.93.238.184:8000/live/dc/dc/9883.ts
-#EXTINF:-1, Animal Planet HD
-http://188.93.238.184:8000/live/dc/dc/9882.ts
-#EXTINF:-1, National Geographic Wild HD
-http://188.93.238.184:8000/live/dc/dc/29508.ts
-#EXTINF:-1, National Geographic HD
-http://188.93.238.184:8000/live/dc/dc/9885.ts
-#EXTINF:-1, H2 HD
-http://188.93.238.184:8000/live/dc/dc/9952.ts
-#EXTINF:-1, History HD
-http://188.93.238.184:8000/live/dc/dc/10738.ts
-#EXTINF:-1, ID HD
-http://188.93.238.184:8000/live/dc/dc/11352.ts
-#EXTINF:-1, DMAX
-http://188.93.238.184:8000/live/dc/dc/33890.ts
-#EXTINF:-1, Forces TV
-http://188.93.238.184:8000/live/dc/dc/11898.ts
-#EXTINF:-1, Crime + Investigation
-http://188.93.238.184:8000/live/dc/dc/10743.ts
-#EXTINF:-1, Showcase
-http://188.93.238.184:8000/live/dc/dc/11855.ts
-#EXTINF:-1, Blaze
-http://188.93.238.184:8000/live/dc/dc/11877.ts
-#EXTINF:-1, Property Show
-http://188.93.238.184:8000/live/dc/dc/11753.ts
-#EXTINF:-1, Sky Cinema Premier (Backup)
-http://188.93.238.184:8000/live/dc/dc/27090.ts
-#EXTINF:-1, Sky Cinema Premiere HD
-http://188.93.238.184:8000/live/dc/dc/32855.ts
-#EXTINF:-1, Sky Cinema Disney (Backup)
-http://188.93.238.184:8000/live/dc/dc/27092.ts
-#EXTINF:-1, Sky Cinema Disney HD
-http://188.93.238.184:8000/live/dc/dc/11378.ts
-#EXTINF:-1, Sky Cinema Drama HD
-http://188.93.238.184:8000/live/dc/dc/21865.ts
-#EXTINF:-1, Sky Cinema Family (Backup)
-http://188.93.238.184:8000/live/dc/dc/27093.ts
-#EXTINF:-1, Sky Cinema Family HD
-http://188.93.238.184:8000/live/dc/dc/11377.ts
-#EXTINF:-1, Sky Cinema Action (Backup)
-http://188.93.238.184:8000/live/dc/dc/27094.ts
-#EXTINF:-1, Sky Cinema Action HD
-http://188.93.238.184:8000/live/dc/dc/32784.ts
-#EXTINF:-1, Sky Cinema Comedy (Backup)
-http://188.93.238.184:8000/live/dc/dc/27095.ts
-#EXTINF:-1, Sky Cinema Comedy HD
-http://188.93.238.184:8000/live/dc/dc/11376.ts
-#EXTINF:-1, Sky Cinema Thriller (Backup)
-http://188.93.238.184:8000/live/dc/dc/27096.ts
-#EXTINF:-1, Sky Cinema Thriller HD
-http://188.93.238.184:8000/live/dc/dc/23804.ts
-#EXTINF:-1, Sky Cinema Select (Backup)
-http://188.93.238.184:8000/live/dc/dc/27097.ts
-#EXTINF:-1, Sky Cinema Select HD
-http://188.93.238.184:8000/live/dc/dc/32667.ts
-#EXTINF:-1, Sky Cinema Sci-Fi / Horror HD
-http://188.93.238.184:8000/live/dc/dc/13626.ts
-#EXTINF:-1, Sky Cinema Showcase HD
-http://188.93.238.184:8000/live/dc/dc/37274.ts
-#EXTINF:-1, Sky Cinema Hits HD
-http://188.93.238.184:8000/live/dc/dc/37157.ts
-#EXTINF:-1, Sky Cinema ScFi / Horror HD
-http://188.93.238.184:8000/live/dc/dc/11878.ts
-#EXTINF:-1, TCM HD
-http://188.93.238.184:8000/live/dc/dc/14207.ts
-#EXTINF:-1, Film 4
-http://188.93.238.184:8000/live/dc/dc/21369.ts
-#EXTINF:-1, Horror Channel
-http://188.93.238.184:8000/live/dc/dc/11872.ts
-#EXTINF:-1, Movies 4 men + 1
-http://188.93.238.184:8000/live/dc/dc/31321.ts
-#EXTINF:-1, Movies 4 Men
-http://188.93.238.184:8000/live/dc/dc/11869.ts
-#EXTINF:-1, Movies 24
-http://188.93.238.184:8000/live/dc/dc/26571.ts
-#EXTINF:-1, Satellite TV
-http://188.93.238.184:8000/live/dc/dc/11885.ts
-#EXTINF:-1, True Movies
-http://188.93.238.184:8000/live/dc/dc/26494.ts
-#EXTINF:-1, ROK
-http://188.93.238.184:8000/live/dc/dc/11867.ts
-#EXTINF:-1,Canelo Vs GGG 2 (Backup)
-http://188.93.238.184:8000/live/dc/dc/37983.ts
-#EXTINF:-1,Canelo Vs GGG 2
-http://188.93.238.184:8000/live/dc/dc/37710.ts
-#EXTINF:-1, Whyte vs Parker (Boxing Backup)
-http://188.93.238.184:8000/live/dc/dc/37709.ts
-#EXTINF:-1, Sky Sports Main Event SD
-http://188.93.238.184:8000/live/dc/dc/37982.ts
-#EXTINF:-1, Sky Sports Main Event HD
-http://188.93.238.184:8000/live/dc/dc/37981.ts
-#EXTINF:-1, Sky Sports Main Event (Backup-1)
-http://188.93.238.184:8000/live/dc/dc/36513.ts
-#EXTINF:-1, Sky Sports Prem Lge (Backup-1)
-http://188.93.238.184:8000/live/dc/dc/13633.ts
-#EXTINF:-1, Sky Sports Prem Lge HD
-http://188.93.238.184:8000/live/dc/dc/36514.ts
-#EXTINF:-1, Sky Sports Football (Backup-1)
-http://188.93.238.184:8000/live/dc/dc/37400.ts
-#EXTINF:-1, Sky Sports Football HD
-http://188.93.238.184:8000/live/dc/dc/12451.ts
-#EXTINF:-1, Sky Sports Cricket (Backup-1)
-http://188.93.238.184:8000/live/dc/dc/37988.ts
-#EXTINF:-1, Sky Sports Cricket HD
-http://188.93.238.184:8000/live/dc/dc/37955.ts
-#EXTINF:-1, Sky Sports F1(Backup-1)
-http://188.93.238.184:8000/live/dc/dc/9722.ts
-#EXTINF:-1, Sky Sports F1 HD
-http://188.93.238.184:8000/live/dc/dc/9721.ts
-#EXTINF:-1, Sky Sports Arena (Backup-1)
-http://188.93.238.184:8000/live/dc/dc/37294.ts
-#EXTINF:-1, Sky Sports Arena HD
-http://188.93.238.184:8000/live/dc/dc/11911.ts
-#EXTINF:-1, Sky Sports News (Backup-1)
-http://188.93.238.184:8000/live/dc/dc/37299.ts
-#EXTINF:-1, Sky Sports News HQ
-http://188.93.238.184:8000/live/dc/dc/9725.ts
-#EXTINF:-1, Sports Golf HD
-http://188.93.238.184:8000/live/dc/dc/37569.ts
-#EXTINF:-1, Sky Sports Golf (Backup-1)
-http://188.93.238.184:8000/live/dc/dc/32594.ts
-#EXTINF:-1, Sky Sports Action (Backup-1)
-http://188.93.238.184:8000/live/dc/dc/36510.ts
-#EXTINF:-1, Sky Sports Action HD
-http://188.93.238.184:8000/live/dc/dc/36509.ts
-#EXTINF:-1, Sky Sports Mix (Backup-1)
-http://188.93.238.184:8000/live/dc/dc/29507.ts
-#EXTINF:-1, Sky Sports Mix HD
-http://188.93.238.184:8000/live/dc/dc/9723.ts
-#EXTINF:-1, Eurosport 2 HD
-http://188.93.238.184:8000/live/dc/dc/10763.ts
-#EXTINF:-1, Eurosport 1 HD
-http://188.93.238.184:8000/live/dc/dc/29815.ts
-#EXTINF:-1, BT Sport 1 (Backup-1)
-http://188.93.238.184:8000/live/dc/dc/32859.ts
-#EXTINF:-1, BT Sport 1 HD
-http://188.93.238.184:8000/live/dc/dc/36515.ts
-#EXTINF:-1, BT Sport 2 (Backup-1)
-http://188.93.238.184:8000/live/dc/dc/37153.ts
-#EXTINF:-1, BT Sport 2 HD
-http://188.93.238.184:8000/live/dc/dc/37956.ts
-#EXTINF:-1, BT Sport 3 (Backup-1)
-http://188.93.238.184:8000/live/dc/dc/32223.ts
-#EXTINF:-1, BT Sport 3 HD
-http://188.93.238.184:8000/live/dc/dc/32931.ts
-#EXTINF:-1, BT Sport Espn (Backup-1)
-http://188.93.238.184:8000/live/dc/dc/10760.ts
-#EXTINF:-1, BT Sport Espn HD
-http://188.93.238.184:8000/live/dc/dc/10759.ts
-#EXTINF:-1, .Astro Sports
-http://188.93.238.184:8000/live/dc/dc/36505.ts
-#EXTINF:-1, .SkyNet Sports 6
-http://188.93.238.184:8000/live/dc/dc/36499.ts
-#EXTINF:-1, .SkyNet Sports 5
-http://188.93.238.184:8000/live/dc/dc/36500.ts
-#EXTINF:-1, .SkyNet Sports 4
-http://188.93.238.184:8000/live/dc/dc/36501.ts
-#EXTINF:-1, .SkyNet Sports 3
-http://188.93.238.184:8000/live/dc/dc/36502.ts
-#EXTINF:-1, .SkyNet Sports 2
-http://188.93.238.184:8000/live/dc/dc/36503.ts
-#EXTINF:-1, .SkyNet Sports 1
-http://188.93.238.184:8000/live/dc/dc/36504.ts
-#EXTINF:-1, LFC TV Backup
-http://188.93.238.184:8000/live/dc/dc/31950.ts
-#EXTINF:-1, LFC TV
-http://188.93.238.184:8000/live/dc/dc/33271.ts
-#EXTINF:-1, MUTV (Backup)
-http://188.93.238.184:8000/live/dc/dc/29480.ts
-#EXTINF:-1, MUTV HD
-http://188.93.238.184:8000/live/dc/dc/26034.ts
-#EXTINF:-1, Chelsea TV
-http://188.93.238.184:8000/live/dc/dc/10770.ts
-#EXTINF:-1, At The Races (Backup)
-http://188.93.238.184:8000/live/dc/dc/29479.ts
-#EXTINF:-1, At The Races
-http://188.93.238.184:8000/live/dc/dc/37909.ts
-#EXTINF:-1, Racing UK (Backup-1)
-http://188.93.238.184:8000/live/dc/dc/37381.ts
-#EXTINF:-1, Racing UK HD
-http://188.93.238.184:8000/live/dc/dc/11160.ts
-#EXTINF:-1, Boxnation (Backup)
-http://188.93.238.184:8000/live/dc/dc/37382.ts
-#EXTINF:-1, Boxnation HD
-http://188.93.238.184:8000/live/dc/dc/36506.ts
-#EXTINF:-1, Premier Sports HD
-http://188.93.238.184:8000/live/dc/dc/10767.ts
-#EXTINF:-1, eir Sports 2 HD
-http://188.93.238.184:8000/live/dc/dc/37425.ts
-#EXTINF:-1, Eir Sports 1 HD
-http://188.93.238.184:8000/live/dc/dc/10765.ts
-#EXTINF:-1, Motorsports TV
-http://188.93.238.184:8000/live/dc/dc/10772.ts
-#EXTINF:-1, Front Runner 2
-http://188.93.238.184:8000/live/dc/dc/11372.ts
-#EXTINF:-1, Front Runner
-http://188.93.238.184:8000/live/dc/dc/11859.ts
-#EXTINF:-1, Sky News HD
-http://188.93.238.184:8000/live/dc/dc/10899.ts
-#EXTINF:-1, Horse & Country
-http://188.93.238.184:8000/live/dc/dc/11365.ts
-#EXTINF:-1, BBC News HD
-http://188.93.238.184:8000/live/dc/dc/10964.ts
-#EXTINF:-1, Bloomberg News
-http://188.93.238.184:8000/live/dc/dc/10925.ts
-#EXTINF:-1, NHK World News HD
-http://188.93.238.184:8000/live/dc/dc/11075.ts
-#EXTINF:-1, CNBC News
-http://188.93.238.184:8000/live/dc/dc/11016.ts
-#EXTINF:-1, RT HD
-http://188.93.238.184:8000/live/dc/dc/11748.ts
-#EXTINF:-1, Euronews
-http://188.93.238.184:8000/live/dc/dc/11076.ts
-#EXTINF:-1, Al Jazeera Eng HD
-http://188.93.238.184:8000/live/dc/dc/11078.ts
-#EXTINF:-1, Channels 24
-http://188.93.238.184:8000/live/dc/dc/11356.ts
-#EXTINF:-1, CNC World
-http://188.93.238.184:8000/live/dc/dc/11853.ts
-#EXTINF:-1, CNN HD
-http://188.93.238.184:8000/live/dc/dc/11074.ts
-#EXTINF:-1,Star Media Peppa Pig
-http://188.93.238.184:8000/live/dc/dc/37748.ts
-#EXTINF:-1, Disney XD HD
-http://188.93.238.184:8000/live/dc/dc/11381.ts
-#EXTINF:-1, Disney Channel HD.
-http://188.93.238.184:8000/live/dc/dc/12652.ts
-#EXTINF:-1, Disney Jnr HD
-http://188.93.238.184:8000/live/dc/dc/12651.ts
-#EXTINF:-1, Nicktoons
-http://188.93.238.184:8000/live/dc/dc/11391.ts
-#EXTINF:-1, Nick Jr
-http://188.93.238.184:8000/live/dc/dc/11379.ts
-#EXTINF:-1, Nick Jr too
-http://188.93.238.184:8000/live/dc/dc/36599.ts
-#EXTINF:-1, Boomerang HD
-http://188.93.238.184:8000/live/dc/dc/32934.ts
-#EXTINF:-1, Cartoonito
-http://188.93.238.184:8000/live/dc/dc/37290.ts
-#EXTINF:-1, Cartoon Network HD.
-http://188.93.238.184:8000/live/dc/dc/32933.ts
-#EXTINF:-1, Nickelodeon HD
-http://188.93.238.184:8000/live/dc/dc/12654.ts
-#EXTINF:-1, Cbeebies HD
-http://188.93.238.184:8000/live/dc/dc/11387.ts
-#EXTINF:-1, CBBC
-http://188.93.238.184:8000/live/dc/dc/11385.ts
-#EXTINF:-1, Citv
-http://188.93.238.184:8000/live/dc/dc/37158.ts
-#EXTINF:-1, Baby TV
-http://188.93.238.184:8000/live/dc/dc/11383.ts
-#EXTINF:-1, MTV Music HD
-http://188.93.238.184:8000/live/dc/dc/37343.ts
-#EXTINF:-1, MTV Live HD
-http://188.93.238.184:8000/live/dc/dc/34608.ts
-#EXTINF:-1, MTV Hits HD
-http://188.93.238.184:8000/live/dc/dc/11268.ts
-#EXTINF:-1, MTV Dance HD
-http://188.93.238.184:8000/live/dc/dc/37427.ts
-#EXTINF:-1, MTV Rocks HD
-http://188.93.238.184:8000/live/dc/dc/11271.ts
-#EXTINF:-1, MTV Base HD
-http://188.93.238.184:8000/live/dc/dc/29485.ts
-#EXTINF:-1, MTV Classic HD
-http://188.93.238.184:8000/live/dc/dc/11264.ts
-#EXTINF:-1, VH1 Classic
-http://188.93.238.184:8000/live/dc/dc/37401.ts
-#EXTINF:-1, VH1
-http://188.93.238.184:8000/live/dc/dc/36957.ts
-#EXTINF:-1, Heart TV
-http://188.93.238.184:8000/live/dc/dc/11274.ts
-#EXTINF:-1, 4 Music
-http://188.93.238.184:8000/live/dc/dc/37280.ts
-#EXTINF:-1, Channel AKA
-http://188.93.238.184:8000/live/dc/dc/11282.ts
-#EXTINF:-1, Capital TV
-http://188.93.238.184:8000/live/dc/dc/11742.ts
-#EXTINF:-1, Clubland TV
-http://188.93.238.184:8000/live/dc/dc/11736.ts
-#EXTINF:-1, NOW 80s..
-http://188.93.238.184:8000/live/dc/dc/11752.ts
-#EXTINF:-1, M2O Music
-http://188.93.238.184:8000/live/dc/dc/37461.ts
-#EXTINF:-1, Country Network
-http://188.93.238.184:8000/live/dc/dc/37292.ts
-#EXTINF:-1, Vintage TV
-http://188.93.238.184:8000/live/dc/dc/11283.ts
+http://188.93.238.184:8000/live/snet/snet/26961.ts
+#EXTINF:-1,AMC
+http://188.93.238.184:8000/live/snet/snet/11339.ts
+#EXTINF:-1,Home
+http://188.93.238.184:8000/live/snet/snet/11338.ts
+#EXTINF:-1,My Channel
+http://188.93.238.184:8000/live/snet/snet/11735.ts
+#EXTINF:-1,VOX Africa
+http://188.93.238.184:8000/live/snet/snet/11793.ts
+#EXTINF:-1,ABN TV
+http://188.93.238.184:8000/live/snet/snet/11337.ts
+#EXTINF:-1,Food Network
+http://188.93.238.184:8000/live/snet/snet/11335.ts
+#EXTINF:-1,RTE 2 HD
+http://188.93.238.184:8000/live/snet/snet/11334.ts
+#EXTINF:-1,TG4
+http://188.93.238.184:8000/live/snet/snet/11331.ts
+#EXTINF:-1,UK:5 USA
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17363.ts
+#EXTINF:-1,UK:ALIBI
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17362.ts
+#EXTINF:-1,UK:ANIMAL PLANET
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17361.ts
+#EXTINF:-1,UK:BBC 1 HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17371.ts
+#EXTINF:-1,UK:BBC 2 HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17370.ts
+#EXTINF:-1,UK:BBC 3 HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17369.ts
+#EXTINF:-1,UK:BBC 4 HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17368.ts
+#EXTINF:-1,UK:BBC News
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17360.ts
+#EXTINF:-1,UK:BLOOMBERG
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17359.ts
+#EXTINF:-1,UK:BT SPORT 1
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17310.ts
+#EXTINF:-1,UK:BT SPORT 2
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17309.ts
+#EXTINF:-1,UK:BT SPORT 3
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17308.ts
+#EXTINF:-1,UK:BT SPORTS ESPN HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17307.ts
+#EXTINF:-1,UK:CARTOON NETWORK HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17313.ts
+#EXTINF:-1,UK:CBBC
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17358.ts
+#EXTINF:-1,UK:CBS ACTION HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17322.ts
+#EXTINF:-1,UK:CBS DRAMA HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17323.ts
+#EXTINF:-1,UK:CBS REALITY HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17324.ts
+#EXTINF:-1,UK:CHANNEL 4
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17357.ts
+#EXTINF:-1,UK:CHANNEL 5
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17356.ts
+#EXTINF:-1,UK:COMEDY CENTRAL
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17355.ts
+#EXTINF:-1,UK:CRIME & INVERSTIGATION
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17354.ts
+#EXTINF:-1,UK:DAVE
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17353.ts
+#EXTINF:-1,UK:DISCOVERY
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17352.ts
+#EXTINF:-1,UK:DISCOVERY HISTORY
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17351.ts
+#EXTINF:-1,UK:DISCOVERY SCIENCE
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17350.ts
+#EXTINF:-1,UK:DISCOVERY TURBO
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17349.ts
+#EXTINF:-1,UK:DISNEY XD HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17315.ts
+#EXTINF:-1,UK:E!
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17348.ts
+#EXTINF:-1,UK:E4
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17347.ts
+#EXTINF:-1,UK:EURONEWS
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17346.ts
+#EXTINF:-1,UK:FILM 4
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17345.ts
+#EXTINF:-1,UK:FOOD NETWORK
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17344.ts
+#EXTINF:-1,UK:FOX NEWS
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17343.ts
+#EXTINF:-1,UK:HISTORY HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17316.ts
+#EXTINF:-1,UK:HOME&HEALTH
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17342.ts
+#EXTINF:-1,UK:INVESTIGATION DISCOVERY
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17341.ts
+#EXTINF:-1,UK:ITV 1 HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17367.ts
+#EXTINF:-1,UK:ITV 2 HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17366.ts
+#EXTINF:-1,UK:ITV 3 HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17365.ts
+#EXTINF:-1,UK:ITV 4
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17340.ts
+#EXTINF:-1,UK:ITV BE HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17364.ts
+#EXTINF:-1,UK:LONDON LIVE
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17339.ts
+#EXTINF:-1,UK:MORE 4
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17338.ts
+#EXTINF:-1,UK:NAT GEO WILD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17336.ts
+#EXTINF:-1,UK:NAT GEOGRAPHIC
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17335.ts
+#EXTINF:-1,UK:NICKELODEON HD
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17314.ts
+#EXTINF:-1,UK:QUEST
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17334.ts
+#EXTINF:-1,UK:RTE ONE
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17333.ts
+#EXTINF:-1,UK:RTE TWO
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17332.ts
+#EXTINF:-1,UK:TLC
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17328.ts
+#EXTINF:-1,UK:TRAVEL CHANNEL
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17327.ts
+#EXTINF:-1,UK:UNIVERSAL
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17326.ts
+#EXTINF:-1,UK:UTV
+http://193.200.164.176:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17325.ts
+#EXTINF:-1,(EN) CNBC TV
+http://79.124.59.198:8080/live/tanju/tanju1234/592.ts
+#EXTINF:-1,(EN) Luxe.TV HD
+http://79.124.59.198:8080/live/tanju/tanju1234/1726.ts
+#EXTINF:-1,(EN) DocuBox HD
+http://79.124.59.198:8080/live/tanju/tanju1234/2122.ts
+#EXTINF:-1,(EN) FightBox HD
+http://79.124.59.198:8080/live/tanju/tanju1234/2121.ts
+#EXTINF:-1,(EN) Disney Junior
+http://79.124.59.198:8080/live/tanju/tanju1234/1326.ts
+#EXTINF:-1,(EN) Boomerang
+http://79.124.59.198:8080/live/tanju/tanju1234/1334.ts
+#EXTINF:-1,(EN) Discovery World
+http://79.124.59.198:8080/live/tanju/tanju1234/1328.ts
+#EXTINF:-1,(EN) Discovery Science
+http://79.124.59.198:8080/live/tanju/tanju1234/1329.ts
+#EXTINF:-1,(EN) Discovery Showcase HD
+http://79.124.59.198:8080/live/tanju/tanju1234/1330.ts
+#EXTINF:-1,(EN) Sky News HD
+http://79.124.59.198:8080/live/tanju/tanju1234/1318.ts
+#EXTINF:-1,(EN) BBC World News
+http://79.124.59.198:8080/live/tanju/tanju1234/1627.ts
+#EXTINF:-1,(EN) BBC World News HD
+http://79.124.59.198:8080/live/tanju/tanju1234/1690.ts
+#EXTINF:-1,(EN) Bloomberg TV
+http://79.124.59.198:8080/live/tanju/tanju1234/1692.ts
+#EXTINF:-1,(EN) Crime and Investigation
+http://79.124.59.198:8080/live/tanju/tanju1234/1694.ts
+#EXTINF:-1,(EN) CBS Reality
+http://79.124.59.198:8080/live/tanju/tanju1234/1696.ts
+#EXTINF:-1,(EN) CCTV News
+http://79.124.59.198:8080/live/tanju/tanju1234/1632.ts
+#EXTINF:-1,(EN) CNN HD
+http://79.124.59.198:8080/live/tanju/tanju1234/2188.ts
+#EXTINF:-1,(EN) CNN SD
+http://79.124.59.198:8080/live/tanju/tanju1234/1633.ts
+#EXTINF:-1,(EN) Deutsche Welle
+http://79.124.59.198:8080/live/tanju/tanju1234/1635.ts
+#EXTINF:-1,(EN) Fine Living Network
+http://79.124.59.198:8080/live/tanju/tanju1234/1643.ts
+#EXTINF:-1,(EN) History Channel
+http://79.124.59.198:8080/live/tanju/tanju1234/1646.ts
+#EXTINF:-1,(EN) History Channel HD
+http://79.124.59.198:8080/live/tanju/tanju1234/575.ts
+#EXTINF:-1,(EN) History HD
+http://79.124.59.198:8080/live/tanju/tanju1234/1647.ts
+#EXTINF:-1,(EN) iConcerts HD
+http://79.124.59.198:8080/live/tanju/tanju1234/1648.ts
+#EXTINF:-1,(EN) Nat Geo Wild
+http://79.124.59.198:8080/live/tanju/tanju1234/1654.ts
+#EXTINF:-1,(EN) Outdoor Channel HD
+http://79.124.59.198:8080/live/tanju/tanju1234/1621.ts
+#EXTINF:-1,(EN) VH1 Classic
+http://79.124.59.198:8080/live/tanju/tanju1234/1673.ts
+#EXTINF:-1,(EN) World Fashion HD
+http://79.124.59.198:8080/live/tanju/tanju1234/1677.ts
+#EXTINF:-1,(EN) CNBC Europe
+http://79.124.59.198:8080/live/tanju/tanju1234/1706.ts
+#EXTINF:-1,(EN) Comedy Central
+http://79.124.59.198:8080/live/tanju/tanju1234/1707.ts
+#EXTINF:-1,(EN) Eurosport News
+http://79.124.59.198:8080/live/tanju/tanju1234/1715.ts
+#EXTINF:-1,(EN) Euronews
+http://79.124.59.198:8080/live/tanju/tanju1234/1637.ts
+#EXTINF:-1,(EN) Euronews HD
+http://79.124.59.198:8080/live/tanju/tanju1234/2189.ts
+#EXTINF:-1,(EN) Fashion One HD
+http://79.124.59.198:8080/live/tanju/tanju1234/1716.ts
+#EXTINF:-1,(EN) Fashion TV
+http://79.124.59.198:8080/live/tanju/tanju1234/1717.ts
+#EXTINF:-1,(EN) Fashion TV HD
+http://79.124.59.198:8080/live/tanju/tanju1234/1718.ts
+#EXTINF:-1,(EN) Aljazeera English
+http://79.124.59.198:8080/live/tanju/tanju1234/1967.ts
+#EXTINF:-1,(EN) Insight HD
+http://79.124.59.198:8080/live/tanju/tanju1234/1722.ts
+#EXTINF:-1,(EN) NHK world
+http://79.124.59.198:8080/live/tanju/tanju1234/1731.ts
+#EXTINF:-1,(EN) NHK world HD
+http://79.124.59.198:8080/live/tanju/tanju1234/1732.ts
+#EXTINF:-1,(EN) Trace Sport Stars
+http://79.124.59.198:8080/live/tanju/tanju1234/1741.ts
+#EXTINF:-1,(EN) Nick Jr
+http://79.124.59.198:8080/live/tanju/tanju1234/1733.ts
+#EXTINF:-1,(EN) Smile of a child
+http://79.124.59.198:8080/live/tanju/tanju1234/1737.ts
+#EXTINF:-1,(EN) Wild TV HD
+http://79.124.59.198:8080/live/tanju/tanju1234/1743.ts
+#EXTINF:-1,(EN) Fight Channel HD
+http://79.124.59.198:8080/live/tanju/tanju1234/1744.ts
+#EXTINF:-1,(EN) Radio Best Trap
+http://79.124.59.198:8080/live/tanju/tanju1234/1499.ts
+#EXTINF:-1,(EN) Deluxe Lounge HD
+http://79.124.59.198:8080/live/tanju/tanju1234/1709.ts
+#EXTINF:-1,(EN) FashionOne HD
+http://79.124.59.198:8080/live/tanju/tanju1234/162.ts
+#EXTINF:-1,UK:BT_SPORT_1
+http://190.2.150.145:1978/live/01000/01000/6499.ts
+#EXTINF:-1,UK:BT_SPORT_2
+http://190.2.150.145:1978/live/01000/01000/6498.ts
+#EXTINF:-1,UK:BT_SPORT_3
+http://190.2.150.145:1978/live/01000/01000/6497.ts
+#EXTINF:-1,UK:BT_Sports_ESPN
+http://190.2.150.145:1978/live/01000/01000/6500.ts
+#EXTINF:-1,UK:CBS_ACTION
+http://190.2.150.145:1978/live/01000/01000/6496.ts
+#EXTINF:-1,UK:CBS_DRAMA
+http://190.2.150.145:1978/live/01000/01000/6495.ts
+#EXTINF:-1,UK:CBS_REALITY
+http://190.2.150.145:1978/live/01000/01000/6494.ts
+#EXTINF:-1,UK:CNBC
+http://190.2.150.145:1978/live/01000/01000/6493.ts
+#EXTINF:-1,UK:CNN_NEW
+http://190.2.150.145:1978/live/01000/01000/6492.ts
+#EXTINF:-1,UK:Comedy_HD
+http://190.2.150.145:1978/live/01000/01000/6491.ts
+#EXTINF:-1,UK:Disney
+http://190.2.150.145:1978/live/01000/01000/6490.ts
+#EXTINF:-1,UK:Dmax
+http://190.2.150.145:1978/live/01000/01000/6489.ts
+#EXTINF:-1,UK:EuroSport_1
+http://190.2.150.145:1978/live/01000/01000/6488.ts
+#EXTINF:-1,UK:EuroSport_2
+http://190.2.150.145:1978/live/01000/01000/6487.ts
+#EXTINF:-1,UK:Film_4
+http://190.2.150.145:1978/live/01000/01000/6486.ts
+#EXTINF:-1,UK:HORROR_CHANNEL
+http://190.2.150.145:1978/live/01000/01000/6485.ts
+#EXTINF:-1,UK:ITV 4
+http://190.2.150.145:1978/live/01000/01000/6484.ts
+#EXTINF:-1,UK | BBC1
+http://185.11.145.30:8080/live/volkan1/volkan123/1142.ts
+#EXTINF:-1,UK | BBC2
+http://185.11.145.30:8080/live/volkan1/volkan123/1141.ts
+#EXTINF:-1,UK | BBC3
+http://185.11.145.30:8080/live/volkan1/volkan123/1140.ts
+#EXTINF:-1,UK | CBSAction
+http://185.11.145.30:8080/live/volkan1/volkan123/1136.ts
+#EXTINF:-1,UK | CBSDrama
+http://185.11.145.30:8080/live/volkan1/volkan123/1137.ts
+#EXTINF:-1,UK | CBSReality
+http://185.11.145.30:8080/live/volkan1/volkan123/1138.ts
+#EXTINF:-1,UK | Channel4
+http://185.11.145.30:8080/live/volkan1/volkan123/1135.ts
+#EXTINF:-1,UK | Channel5
+http://185.11.145.30:8080/live/volkan1/volkan123/1134.ts
+#EXTINF:-1,UK | ComedyCentral
+http://185.11.145.30:8080/live/volkan1/volkan123/1133.ts
+#EXTINF:-1,UK | Discovery Science HD
+http://185.11.145.30:8080/live/volkan1/volkan123/1127.ts
+#EXTINF:-1,UK | Discovery Turbo HD
+http://185.11.145.30:8080/live/volkan1/volkan123/1126.ts
+#EXTINF:-1,UK | DiscoveryChannelHD
+http://185.11.145.30:8080/live/volkan1/volkan123/1130.ts
+#EXTINF:-1,UK | DiscoveryShed
+http://185.11.145.30:8080/live/volkan1/volkan123/1128.ts
+#EXTINF:-1,UK | DisneyChannel
+http://185.11.145.30:8080/live/volkan1/volkan123/1131.ts
+#EXTINF:-1,UK | DisneyJunior
+http://185.11.145.30:8080/live/volkan1/volkan123/1132.ts
+#EXTINF:-1,UK | Dmax.
+http://185.11.145.30:8080/live/volkan1/volkan123/1100.ts
+#EXTINF:-1,UK | ITV1
+http://185.11.145.30:8080/live/volkan1/volkan123/1146.ts
+#EXTINF:-1,UK | ITV2
+http://185.11.145.30:8080/live/volkan1/volkan123/1145.ts
+#EXTINF:-1,UK | ITV3
+http://185.11.145.30:8080/live/volkan1/volkan123/1144.ts
+#EXTINF:-1,UK | ITV4
+http://185.11.145.30:8080/live/volkan1/volkan123/1143.ts
+#EXTINF:-1,UK | Movies 4Men
+http://185.11.145.30:8080/live/volkan1/volkan123/1111.ts
+#EXTINF:-1,UK | NationalGeographic
+http://185.11.145.30:8080/live/volkan1/volkan123/1124.ts
+#EXTINF:-1,UK | PremierSport
+http://185.11.145.30:8080/live/volkan1/volkan123/1074.ts
+#EXTINF:-1,UK | Racing
+http://185.11.145.30:8080/live/volkan1/volkan123/1116.ts
+#EXTINF:-1,UK | RTE One
+http://185.11.145.30:8080/live/volkan1/volkan123/1104.ts
+#EXTINF:-1,UK | Rte Two
+http://185.11.145.30:8080/live/volkan1/volkan123/1103.ts
+#EXTINF:-1,UK | True Mov HD
+http://185.11.145.30:8080/live/volkan1/volkan123/1115.ts
+#EXTINF:-1,UK | Yesterday
+http://185.11.145.30:8080/live/volkan1/volkan123/1102.ts
