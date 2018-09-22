@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:0 group-title="(UK) United Kingdom",4 SEVEN | HD
 http://188.93.238.184:8000/live/smart/smart/37163.m3u8
 
@@ -1196,4 +1195,40 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
 #EXTINF:0 group-title="(UK) United Kingdom",KIDS | SD
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+
+#EXTINF:0 group-title="(US) United States",AUTOMOTO TV | SD
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+
+#EXTINF:0 group-title="(US) United States",ESPN | SD
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:0 group-title="(US) United States",ESPN 2 | SD
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:0 group-title="(US) United States",FOX SPORTS RACING | SD
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:0 group-title="(US) United States",JUSTICE LEAGUE 2017 | SD
+https://bobmovies.net/hl/Justice.League.2017_hd.m3u8
+
+#EXTINF:0 group-title="(US) United States",JUSTICE LEAGUE DARK 2017 | SD
+https://bobmovies.net/hl/Justice_League_Dark_2017_720p.m3u8
+
+#EXTINF:0 group-title="(US) United States",MLB NETWORK | SD
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
+
+#EXTINF:0 group-title="(US) United States",MLB STRIKE ZONE | SD
+http://72.76.39.230:8000/play/a015/index.m3u8
+
+#EXTINF:0 group-title="(US) United States",NBA TV | SD
+http://72.76.39.230:8000/play/a00e/index.m3u8
+
+#EXTINF:0 group-title="(US) United States",PAC-12 MOUNTAIN | SD
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+
+#EXTINF:0 group-title="(US) United States",SPORTS | SD
+http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+
+#EXTINF:0 group-title="(US) United States",SPORTSNET | SD
+http://72.76.39.230:8000/play/a00y/index.m3u8
 
