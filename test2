@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1,Star Media Top Gear
+#EXTINF:-1, Star Media Top Gear
 http://188.93.238.184:8000/live/dc/dc/37969.ts
-#EXTINF:-1,Capital News
+#EXTINF:-1, Capital News
 http://188.93.238.184:8000/live/dc/dc/21755.ts
 #EXTINF:-1, BBC Two HD
 http://188.93.238.184:8000/live/dc/dc/31971.ts
-#EXTINF:-1,BBC One North West
+#EXTINF:-1, BBC One North West
 http://188.93.238.184:8000/live/dc/dc/37861.ts
-#EXTINF:-1,ITV HD
+#EXTINF:-1, ITV HD
 http://188.93.238.184:8000/live/dc/dc/26573.ts
-#EXTINF:-1,BBC Two (Backup)
+#EXTINF:-1, BBC Two (Backup)
 http://188.93.238.184:8000/live/dc/dc/27023.ts
-#EXTINF:-1,ITV Granada HD
+#EXTINF:-1, ITV Granada HD
 http://188.93.238.184:8000/live/dc/dc/36958.ts
-#EXTINF:-1,ITV Central HD
+#EXTINF:-1, ITV Central HD
 http://188.93.238.184:8000/live/dc/dc/35123.ts
-#EXTINF:-1,Channel 4 (Backup)
+#EXTINF:-1, Channel 4 (Backup)
 http://188.93.238.184:8000/live/dc/dc/37413.ts
-#EXTINF:-1,Channel 4 HD
+#EXTINF:-1, Channel 4 HD
 http://188.93.238.184:8000/live/dc/dc/33270.ts
-#EXTINF:-1,[email protected] Channel 5 (Backup)
+#EXTINF:-1, Channel 5 (Backup)
 http://188.93.238.184:8000/live/dc/dc/29192.ts
-#EXTINF:-1,[email protected] Channel 5 HD
+#EXTINF:-1, Channel 5 HD
 http://188.93.238.184:8000/live/dc/dc/31973.ts
-#EXTINF:-1,[email protected] Sky 1 (Backup)
+#EXTINF:-1, Sky 1 (Backup)
 http://188.93.238.184:8000/live/dc/dc/27675.ts
 #EXTINF:-1,[email protected] Sky One HD
 http://188.93.238.184:8000/live/dc/dc/11349.ts
