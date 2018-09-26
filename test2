@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="(UK) United Kingdom",*** AutoIPTV ***
-https://autoiptv.net
-#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net
-https://autoiptv.net
-#EXTINF:0 group-title="(UK) United Kingdom",*** Playlists ***
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net/playlists
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(UK) United Kingdom",AAJ TAK | SD
-http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",AL HIWAR | SD
-http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_w1138816254_b1264000.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",AND FLIX | SD
 http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",AND FLIX (1+) | SD
