@@ -1,756 +1,597 @@
 #EXTM3U
-#EXTINF:0 group-title="(UK) United Kingdom",AND FLIX | SD
-http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",AND FLIX (1+) | SD
-http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ASIA TV UPDATED | SD
-http://50.7.198.170:8081/PB/BRITASIA/playlist.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",BOX HITS | SD
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CANALE 5 MEDIASET | SD
-http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/Stream(04)/index.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CATCH 2 | SD
-http://161.0.157.8/PLTV/88888888/224/3221226874/03.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CBS ACTION | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3186.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CLUB TV | SD
-http://ott-cdn.ucom.am/s37/index.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY CHANNEL | SD
-http://185.53.163.220:2015/live/280690/280690/29784.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY CHANNEL HISTORY | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3187.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY CHANNELS | SD
-http://185.53.163.220:2015/live/280690/280690/32175.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY HOME&HEALTH | SD
-http://185.53.163.220:2015/live/280690/280690/29782.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY INVESTIGATION | SD
-http://185.53.163.220:2015/live/280690/280690/29781.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY SCIENCE | HD
-http://185.53.163.220:2015/live/280690/280690/29780.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY TURBO | SD
-http://185.53.163.220:2015/live/280690/280690/29779.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY TURBO (1+) | SD
-http://185.53.163.220:2015/live/280690/280690/32173.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DRAMA | SD
-http://185.53.163.220:2015/live/280690/280690/7651.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",FOOD NETWORK | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3174.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",FRANCE 24 | SD
-http://161.0.157.9/PLTV/88888888/224/3221226821/index.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",GLOBAL | SD
-http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/1460.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",GOLD | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3189.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",HEART | SD
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",HISTORY CHANNEL | SD
-http://185.53.163.220:2015/live/280690/280690/29783.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",HORROR CHANNEL | SD
-http://185.53.163.220:2015/live/280690/280690/32168.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ITV 2 | SD
-http://185.53.163.220:2015/live/280690/280690/7712.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ITV1 | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3190.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ITV2 | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3191.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ITV3 | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3192.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ITV4 | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3193.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",KANSHI TV | SD
-http://live.kanshitv.co.uk/mobile/kanshitvkey_high/index.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",LIVE | SD
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",MANCHESTER TV | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3195.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",MORE 4 | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3196.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",NAT GEO | HD
-http://185.53.163.220:2015/live/280690/280690/32167.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",NAT GEO | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3197.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",NAT GEO WILD | SD
-http://185.53.163.220:2015/live/280690/280690/32166.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",NOA 4 NORDERSTEDT | SD
-http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",PICK | SD
-http://185.53.163.220:2015/live/280690/280690/11469.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",PUNJAB TV | SD
-http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",QVC BEAUTY | SD
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",QVC STYLE | SD
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RETE 4 MEDIASET | SD
-https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/index.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RETE 4 MEDIASET (1+) | SD
-http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/Stream(04)/index.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RT DOCUMENTARY | SD
-https://secure-streams.akamaized.net/rt-doc/index.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RTE 1 | HD
-http://185.53.163.220:2015/live/280690/280690/17391.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RTE 2 | HD
-http://185.53.163.220:2015/live/280690/280690/17392.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RTE 2 | SD
-http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SAMA TV | SD
-http://sama-tv.net:1935/live/samatv/playlist.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SETANTA IRELAND | SD
-http://185.53.163.220:2015/live/280690/280690/32181.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SETENTA | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3175.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY ACTION | SD
-http://185.53.163.220:2015/live/280690/280690/32165.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY ATLANTIC | HD
-http://185.53.163.220:2015/live/280690/280690/22732.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY COMEDY | SD
-http://185.53.163.220:2015/live/280690/280690/32163.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY DRAMA | HD
-http://185.53.163.220:2015/live/280690/280690/32161.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY LIVING | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3201.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY ONE | SD
-http://185.53.163.220:2015/live/280690/280690/22743.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY PREMIER PLUS | SD
-http://185.53.163.220:2015/live/280690/280690/32151.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY THRILLER | HD
-http://185.53.163.220:2015/live/280690/280690/32152.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",TELEZURI | SD
-https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_hoislpiz/sd/10000/t/AFb4DZ0W2ts1a8fV5xo1VQ/index-s32.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",TEN 14 | SD
-http://nana10-hdl-uk.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",TLC | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3219.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",TMC | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3220.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",TRAVEL CHANNEL | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3221.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ZEE 24 GHANTA | SD
-http://z5ams.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ZEE BANGLA | SD
-http://z5ams.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ZEE BANGLA (1+) | SD
-http://z5ams.akamaized.net/zeebanglasd/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ZEE BIHAR JHARKHAND | SD
-http://z5ams.akamaized.net/biharjharkh/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ZEE KANNADA | SD
-http://z5ams.akamaized.net/zkannada/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ZEE RAJASTHAN | SD
-http://z5ams.akamaized.net/rajasthan/tracks-v1a1/index.m3u8
-#EXTM3U
-
-
-#EXTINF:0 group-title="(US) United States",*** AutoIPTV ***
-https://autoiptv.net
-#EXTINF:0 group-title="(US) United States",https://autoiptv.net
-https://autoiptv.net
-#EXTINF:0 group-title="(US) United States",*** Playlists ***
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(US) United States",https://autoiptv.net/playlists
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(US) United States",12 STRONG 2018 | SD
-https://bobmovies.net/hl/12.Strong.2018hd.m3u8
-#EXTINF:0 group-title="(US) United States",2 FAST 2 FURIOUS 2003 | SD
-https://bobmovies.net/hl/2.Fast.2.Furious.2003.m3u8
-#EXTINF:0 group-title="(US) United States",2036 ORIGIN UNKNOWN 2018 | SD
-https://bobmovies.net/hl/OriginUnknown.2018.m3u8
-#EXTINF:0 group-title="(US) United States",24-7 RETRO TV | SD
-http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",30A TV | SD
-http://30a-tv.com/my999.m3u8
-#EXTINF:0 group-title="(US) United States",A NETWORK | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7684.m3u8
-#EXTINF:0 group-title="(US) United States",A QUIET PLACE 2018 | SD
-https://bobmovies.net/hl/A.Quiet.Place.2018.1080.m3u8
-#EXTINF:0 group-title="(US) United States",ACRE TV | SD
-http://54.152.189.82/live/smil:AcreTVABR.smil/chunklist_w1077221950_b4128000_sleng.m3u8
-#EXTINF:0 group-title="(US) United States",ALADDIN 1992 | SD
-https://bobmovies.net/hl/Aladdin.1992.m3u8
-#EXTINF:0 group-title="(US) United States",ALBANIAN TV OF | SD
-http://stream.shqiptv.com:7080/altvusa/index.m3u8
-#EXTINF:0 group-title="(US) United States",ALL EYEZ ON ME 2017 | SD
-https://bobmovies.net/hl/All_Eyez_on_Me_2017_n.m3u8
-#EXTINF:0 group-title="(US) United States",ANIMAL PLANET | SD
-http://80.80.160.168/live/1/live.m3u8
-#EXTINF:0 group-title="(US) United States",ANIMAL PLANET (1+) | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7753.m3u8
-#EXTINF:0 group-title="(US) United States",ANIMAL PLANET (2+) | SD
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
-#EXTINF:0 group-title="(US) United States",AVENGERS | SD
-https://bobmovies.net/hl/Avengers_2_Age_of_Ultron_2015.m3u8
-#EXTINF:0 group-title="(US) United States",AXS TV | SD
-http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
-#EXTINF:0 group-title="(US) United States",BAD SANTA 2 2016 | SD
-https://bobmovies.net/hl/Bad_Santa_2_2016.m3u8
-#EXTINF:0 group-title="(US) United States",BAD SANTA 2003 | SD
-https://bobmovies.net/hl/Bad.Santa.2003.m3u8
-#EXTINF:0 group-title="(US) United States",BALTO 1995 | SD
-https://bobmovies.net/hl/Balto.1995.m3u8
-#EXTINF:0 group-title="(US) United States",BATMAN & ROBIN 1997 | SD
-https://bobmovies.net/hl/Batman.and.Robin.1997.m3u8
-#EXTINF:0 group-title="(US) United States",BATMAN 1989 | SD
-https://bobmovies.net/hl/Batman.1989.m3u8
-#EXTINF:0 group-title="(US) United States",BATMAN BEGINS 2005 | SD
-https://bobmovies.net/hl/Batman.Begins.2005.m3u8
-#EXTINF:0 group-title="(US) United States",BATMAN NINJA 2018 | SD
-https://bobmovies.net/hl/Batman.Ninja.2018.m3u8
-#EXTINF:0 group-title="(US) United States",BATMAN RETURNS 1992 | SD
-https://bobmovies.net/hl/Batman.Returns.1992_720p.m3u8
-#EXTINF:0 group-title="(US) United States",BEAUTY AND THE BEAST 1991 | SD
-https://bobmovies.net/hl/Beauty.and.the.Beast.1991.m3u8
-#EXTINF:0 group-title="(US) United States",BETTER HEALTH | SD
-http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",BIG HERO 6 2014 | SD
-https://bobmovies.net/hl/Big.Hero.6.2014.m3u8
-#EXTINF:0 group-title="(US) United States",BLACK PANTHER 2018 | SD
-https://bobmovies.net/hl/Black.Panther.2018.1080.m3u8
-#EXTINF:0 group-title="(US) United States",BRAVEHEART 1995 | SD
-https://bobmovies.net/hl/Braveheart_1995.m3u8
-#EXTINF:0 group-title="(US) United States",BUTCH CASSIDY AND THE SUNDANCE KID 1969 | SD
-https://bobmovies.net/hl/Butch_Cassidy_Sundance_Kid_1969.m3u8
-#EXTINF:0 group-title="(US) United States",BUZZR | SD
-https://buzzr-zixi.global.ssl.fastly.net/BUZZR_HLS.m3u8
-#EXTINF:0 group-title="(US) United States",BUZZR (1+) | SD
-https://buzzr-zixi.global.ssl.fastly.net/BUZZR_HLS/BUZZR_SRC_primary-BUZZR_PLUTO_2400-zyNt8Qt1T7.m3u8
-#EXTINF:0 group-title="(US) United States",CAROLINA TV | SD
-http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",CARS 2 2011 | SD
-https://bobmovies.net/hl/Cars.2.2011.m3u8
-#EXTINF:0 group-title="(US) United States",CARS 2006 | SD
-https://bobmovies.net/hl/Cars.2006.1080p.m3u8
-#EXTINF:0 group-title="(US) United States",CARS 3 2017 | SD
-https://bobmovies.net/hl/Cars_3_2017.m3u8
-#EXTINF:0 group-title="(US) United States",CASINO 1995 | SD
-https://bobmovies.net/hl/Casino_1995.m3u8
-#EXTINF:0 group-title="(US) United States",CATCH ME IF YOU CAN 2002 | SD
-https://bobmovies.net/hl/Catch_Me_If_You_Can_2002.m3u8
-#EXTINF:0 group-title="(US) United States",CBS | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7747.m3u8
-#EXTINF:0 group-title="(US) United States",CLASSIC ARTS SHOWCASE | SD
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-#EXTINF:0 group-title="(US) United States",CLASSIC TV 4U | SD
-https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",COCO 2017 | SD
-https://bobmovies.net/hl/Coco.2017.DVDScr_720p.m3u8
-#EXTINF:0 group-title="(US) United States",COMEDY CENTRAL | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7739.m3u8
-#EXTINF:0 group-title="(US) United States",COMET TV | SD
-http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-#EXTINF:0 group-title="(US) United States",COOKING CHANNEL | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7738.m3u8
-#EXTINF:0 group-title="(US) United States",COOKING CHANNEL (1+) | SD
-http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:0 group-title="(US) United States",DARKEST HOUR 2017 | SD
-https://bobmovies.net/hl/Darkest.Hour.2017.WEB-DL.m3u8
-#EXTINF:0 group-title="(US) United States",DAWN OF THE DEAD 2004 | SD
-https://bobmovies.net/hl/Dawn.of.the.Dead.2004.m3u8
-#EXTINF:0 group-title="(US) United States",DAY OF THE DEAD 1985 | SD
-https://bobmovies.net/hl/Day.of.the.Dead.1985.m3u8
-#EXTINF:0 group-title="(US) United States",DAYTONA BEACH TV | SD
-http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
-#EXTINF:0 group-title="(US) United States",DEADPOOL 2016 | SD
-https://bobmovies.net/hl/Deadpool_2016.m3u8
-#EXTINF:0 group-title="(US) United States",DEATH WISH 2018 | SD
-https://bobmovies.net/hl/DeathWish.2018.m3u8
-#EXTINF:0 group-title="(US) United States",DESCENDANTS 2 2017 | SD
-https://bobmovies.net/hl/Descendants_2_2017_HDRip.m3u8
-#EXTINF:0 group-title="(US) United States",DESPICABLE ME 3 2017 | SD
-https://bobmovies.net/hl/Despicable_Me_3_2017_1080p.m3u8
-#EXTINF:0 group-title="(US) United States",DESTINATION | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7737.m3u8
-#EXTINF:0 group-title="(US) United States",DISCOVERY CHANNEL | SD
-http://80.80.160.168/live/8/live.m3u8
-#EXTINF:0 group-title="(US) United States",DISCOVERY CHANNEL (1+) | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7736.m3u8
-#EXTINF:0 group-title="(US) United States",DISCOVERY SCIENCE | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7735.m3u8
-#EXTINF:0 group-title="(US) United States",DISCOVERY VELOCITY | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7734.m3u8
-#EXTINF:0 group-title="(US) United States",DISTRICT KNOWLEDGE NETWORK | SD
-http://video.oct.dc.gov/out/u/96_4.m3u8
-#EXTINF:0 group-title="(US) United States",DJANGO UNCHAINED 2012 | SD
-https://bobmovies.net/hl/Django_2012.m3u8
-#EXTINF:0 group-title="(US) United States",DOWNSIZING 2017 | SD
-https://bobmovies.net/hl/Downsizing.2017.m3u8
-#EXTINF:0 group-title="(US) United States",ERAGON 2006 | SD
-https://bobmovies.net/hl/Eragon.2006.m3u8
-#EXTINF:0 group-title="(US) United States",FASHION TV | SD
-http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
-#EXTINF:0 group-title="(US) United States",FINDING DORY 2016 | SD
-https://bobmovies.net/hl/Finding_Dory_2016.m3u8
-#EXTINF:0 group-title="(US) United States",FINDING NEMO 2003 | SD
-https://bobmovies.net/hl/Finding.Nemo.2003.m3u8
-#EXTINF:0 group-title="(US) United States",FLATLINERS 2017 | SD
-https://bobmovies.net/hl/Flatliners.2017.m3u8
-#EXTINF:0 group-title="(US) United States",FOOD NETWORK | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7726.m3u8
-#EXTINF:0 group-title="(US) United States",FOX | SD
-http://playhddigital.me:8081/live/andiptv/p97r1fW9lX/562.m3u8
-#EXTINF:0 group-title="(US) United States",FOX 29 | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7725.m3u8
-#EXTINF:0 group-title="(US) United States",FOX COMEDY ASIA | SD
-http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-#EXTINF:0 group-title="(US) United States",FREEFORM | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7721.m3u8
-#EXTINF:0 group-title="(US) United States",FULL METAL JACKET 1987 | SD
-https://bobmovies.net/hl/Full_Metal_Jacket_1987.m3u8
-#EXTINF:0 group-title="(US) United States",FUN MOM DINNER 2017 | SD
-https://bobmovies.net/hl/Fun_Mom_Dinner_2017.m3u8
-#EXTINF:0 group-title="(US) United States",FURIOUS 7 2015 | SD
-https://bobmovies.net/hl/Furious_Seven_2015.m3u8
-#EXTINF:0 group-title="(US) United States",GARLAND TV | SD
-http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
-#EXTINF:0 group-title="(US) United States",GEB | SD
-http://184.173.203.50:1935/live/smil:geb/chunklist.m3u8
-#EXTINF:0 group-title="(US) United States",GEOSTORM 2017 | SD
-https://bobmovies.net/hl/Geostorm.2017HDRip.m3u8
-#EXTINF:0 group-title="(US) United States",GOLDENEYE 1995 | SD
-https://bobmovies.net/hl/James.Bond.GoldenEye.1995.m3u8
-#EXTINF:0 group-title="(US) United States",GOOD LIFE 45 | SD
-http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",HALL MARK | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7719.m3u8
-#EXTINF:0 group-title="(US) United States",HALLOWEEN | SD
-https://bobmovies.net/hl/Halloween.6.The.Curse.of.Michael.Myers.1995.m3u8
-#EXTINF:0 group-title="(US) United States",HBO | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7718.m3u8
-#EXTINF:0 group-title="(US) United States",HBO 2 DUAL | SD
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:0 group-title="(US) United States",HELLRAISER | SD
-https://bobmovies.net/hl/Hellraiser.Judgment.2018.m3u8
-#EXTINF:0 group-title="(US) United States",HERCULES 1997 | SD
-https://bobmovies.net/hl/Hercules.1997.m3u8
-#EXTINF:0 group-title="(US) United States",HICKOK 2017 | SD
-https://bobmovies.net/hl/Hickok_2017.m3u8
-#EXTINF:0 group-title="(US) United States",HIDDEN FIGURES 2016 | SD
-https://bobmovies.net/hl/Hidden_Figures_2016.m3u8
-#EXTINF:0 group-title="(US) United States",HISCHANNEL | SD
-http://www1.hischannel.com/Box-Tv-Live/BoxTvLive.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:0 group-title="(US) United States",HOCUS POCUS 1993 | SD
-https://bobmovies.net/hl/Hocus.Pocus.1993.m3u8
-#EXTINF:0 group-title="(US) United States",HOUSE OF REPRESENTATIVES | SD
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
-#EXTINF:0 group-title="(US) United States",HOUSE OF YAHWEH JE | SD
-http://198.57.164.156:1935/live/SermonLoop/chunklist_w1535326969.m3u8
-#EXTINF:0 group-title="(US) United States",I CAN ONLY IMAGINE 2018 | SD
-https://bobmovies.net/hl/ICanOnlyImagine.2018.1080p.m3u8
-#EXTINF:0 group-title="(US) United States",ICE AGE | SD
-https://bobmovies.net/hl/Ice.Age.The.Meltdown.2006.m3u8
-#EXTINF:0 group-title="(US) United States",ICE AGE (1+) | SD
-https://bobmovies.net/hl/Ice.Age.Dawn.Of.The.Dinosaurs.2009.m3u8
-#EXTINF:0 group-title="(US) United States",ICE AGE 1 | SD
-https://bobmovies.net/hl/Ice.Age.Continental.Drift.2012.m3u8
-#EXTINF:0 group-title="(US) United States",ICE AGE 2002 | SD
-https://bobmovies.net/hl/Ice.Age.2002.m3u8
-#EXTINF:0 group-title="(US) United States",INDEPENDENCE DAY | SD
-https://bobmovies.net/hl/Independence_Day_Resurgence_2016.m3u8
-#EXTINF:0 group-title="(US) United States",INDIANA JONES AND THE LAST CRUSADE 1989 | SD
-https://bobmovies.net/hl/Indiana_Jones_and_the_Last_Crusade_1989.m3u8
-#EXTINF:0 group-title="(US) United States",INTERSTELLAR 2014 | SD
-https://bobmovies.net/hl/Interstellar_2014.m3u8
-#EXTINF:0 group-title="(US) United States",INVESTIGATION DISCOVERY | SD
-http://80.80.160.168/live/5/live.m3u8
-#EXTINF:0 group-title="(US) United States",INVESTIGATION DISCOVERY (1+) | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7713.m3u8
-#EXTINF:0 group-title="(US) United States",IRANEFARDA TV | SD
-http://66.160.192.249:8080/iranefarda/high/112416/TVBOXHD.COM/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="(US) United States",IT 2017 | SD
-https://bobmovies.net/hl/IT.2017.EBRip.m3u8
-#EXTINF:0 group-title="(US) United States",JASON BOURNE 2016 | SD
-https://bobmovies.net/hl/Jason_Bourne_2016.m3u8
-#EXTINF:0 group-title="(US) United States",JBS JE | SD
-http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
-#EXTINF:0 group-title="(US) United States",JEEPERS CREEPERS 2001 | SD
-https://bobmovies.net/hl/Jeepers.Creepers.2001.m3u8
-#EXTINF:0 group-title="(US) United States",JEEPERS CREEPERS 3 2017 | SD
-https://bobmovies.net/hl/Jeepers_Creepers_3.2017.HDRip.m3u8
-#EXTINF:0 group-title="(US) United States",JIGSAW 2017 | SD
-https://bobmovies.net/hl/Jigsaw.2017.WEB-DL.m3u8
-#EXTINF:0 group-title="(US) United States",JUMANJI | SD
-https://bobmovies.net/hl/Jumanji_2018_HDTS.m3u8
-#EXTINF:0 group-title="(US) United States",KINDERGARTEN COP 1990 | SD
-https://bobmovies.net/hl/Kindergarten.Cop.1990.m3u8
-#EXTINF:0 group-title="(US) United States",KUNG FU PANDA 2 2011 | SD
-https://bobmovies.net/hl/Kung.Fu.Panda.2.2011.m3u8
-#EXTINF:0 group-title="(US) United States",KUNG FU PANDA 2008 | SD
-https://bobmovies.net/hl/Kung.Fu.Panda.2008.m3u8
-#EXTINF:0 group-title="(US) United States",KUNG FU PANDA 3 2016 | SD
-https://bobmovies.net/hl/Kung_Fu_Panda_3_2016.m3u8
-#EXTINF:0 group-title="(US) United States",LAKE FRONT TV | SD
-http://streams.helnix.com/autoHLS/3ebf762a9e22375d/3ebf762a9e22375d.m3u8
-#EXTINF:0 group-title="(US) United States",LAST ACTION HERO 1993 | SD
-https://bobmovies.net/hl/Last.Action.Hero.1993.m3u8
-#EXTINF:0 group-title="(US) United States",LEFT BEHIND | SD
-https://bobmovies.net/hl/VanishedLeftBehindNextGeneration.2016_720p.m3u8
-#EXTINF:0 group-title="(US) United States",LIFEVISION TV | SD
-http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",LOOPER 2012 | SD
-https://bobmovies.net/hl/Looper.2012.m3u8
-#EXTINF:0 group-title="(US) United States",METRO CABLE NETWORK | SD
-http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
-#EXTINF:0 group-title="(US) United States",METV | SD
-http://atlas.its.virginia.edu:8088/hls/m3u8/METV.m3u8
-#EXTINF:0 group-title="(US) United States",MIAMI TV | SD
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",MISSION | SD
-https://bobmovies.net/hl/Mission_Impossible_Rogue_Nation_2015.m3u8
-#EXTINF:0 group-title="(US) United States",MULAN 1998 | SD
-https://bobmovies.net/hl/Mulan.1998.m3u8
-#EXTINF:0 group-title="(US) United States",MURDER ON THE ORIENT EXPRESS 2017 | SD
-https://bobmovies.net/hl/Murder.on.the.Orient.Express.2017_HD.m3u8
-#EXTINF:0 group-title="(US) United States",MY9 | SD
-http://161.0.157.9/PLTV/88888888/224/3221226727/03.m3u8
-#EXTINF:0 group-title="(US) United States",NAKED 2017 | SD
-https://bobmovies.net/hl/Naked_2017_WEBRip.m3u8
-#EXTINF:0 group-title="(US) United States",NATIONAL GEOGRAPHIC | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7709.m3u8
-#EXTINF:0 group-title="(US) United States",NATUREVISION TV | SD
-https://feed00.pluto.tv/feed03/ngrp:nature.vision.stream_all/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",NBC | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7708.m3u8
-#EXTINF:0 group-title="(US) United States",NBC (1+) | SD
-http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
-#EXTINF:0 group-title="(US) United States",NIGHT OF THE LIVING DEAD 1990 | SD
-https://bobmovies.net/hl/Night.Of.The.Living.Dead.1990.m3u8
-#EXTINF:0 group-title="(US) United States",NPOWERED TV | SD
-https://nimble.dashmedia.tv/onestudio/npowered/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",NRA TV | SD
-https://stream1.nra.tv/nratv/ngrp:nratvall/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",NRB NETWORK | SD
-http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",OPRAH WINFREY NETWORK | SD
-http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/2596k/index.m3u8
-#EXTINF:0 group-title="(US) United States",OWN | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7704.m3u8
-#EXTINF:0 group-title="(US) United States",OXYGEN | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7703.m3u8
-#EXTINF:0 group-title="(US) United States",PACIFIC RIM | SD
-https://bobmovies.net/hl/Pacific.Rim.Uprising.2018.m3u8
-#EXTINF:0 group-title="(US) United States",PBS | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7702.m3u8
-#EXTINF:0 group-title="(US) United States",PIRATES OF THE CARIBBEAN | SD
-https://bobmovies.net/hl/Pirates_of_the_Caribbean_2017.m3u8
-#EXTINF:0 group-title="(US) United States",PLANET GREEN | SD
-http://80.80.160.168/live/4/live.m3u8
-#EXTINF:0 group-title="(US) United States",POCAHONTAS 1995 | SD
-https://bobmovies.net/hl/Pocahontas.1995.m3u8
-#EXTINF:0 group-title="(US) United States",POWER RANGERS 2017 | SD
-https://bobmovies.net/hl/Power_Rangers_2017_1080p.m3u8
-#EXTINF:0 group-title="(US) United States",QVC | SD
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
-#EXTINF:0 group-title="(US) United States",QVC (1+) | SD
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/manifest.m3u8
-#EXTINF:0 group-title="(US) United States",QVC 2 | SD
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/1af4a53fda904f6c90a4389c8fe92dc0/manifest.m3u8
-#EXTINF:0 group-title="(US) United States",REDE RECORD | SD
-http://playhddigital.me:8081/live/andiptv/p97r1fW9lX/380.m3u8
-#EXTINF:0 group-title="(US) United States",ROBOCOP 1987 | SD
-https://bobmovies.net/hl/RoboCop.1987.m3u8
-#EXTINF:0 group-title="(US) United States",RT RUSSIA | SD
-https://secure-streams.akamaized.net/rt-usa/index.m3u8
-#EXTINF:0 group-title="(US) United States",RYETV | SD
-http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",SAFETV4U2 | SD
-http://18.191.91.130:1935/live/safetv/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",SALT AND LIGHT TV CA CANADA | SD
-http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
-#EXTINF:0 group-title="(US) United States",SCIENCE CHANNEL | SD
-http://80.80.160.168/live/9/live.m3u8
-#EXTINF:0 group-title="(US) United States",SEMINOLE TV | SD
-http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
-#EXTINF:0 group-title="(US) United States",SHOWTIME | SD
-http://80.80.160.168/live/7/live.m3u8
-#EXTINF:0 group-title="(US) United States",SHOWTIME (1+) | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7701.m3u8
-#EXTINF:0 group-title="(US) United States",SHOWTIME EXTREME | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7700.m3u8
-#EXTINF:0 group-title="(US) United States",SHOWTIME SHOWCASE | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7699.m3u8
-#EXTINF:0 group-title="(US) United States",SINOVISION | SD
-http://ec.sinovision.net/video/ts/lv.m3u8
-#EXTINF:0 group-title="(US) United States",SMURFS | SD
-https://bobmovies.net/hl/Smurfs_The_Lost_Village_2017.m3u8
-#EXTINF:0 group-title="(US) United States",SOUTH PARK | SD
-https://bobmovies.net/hl/South.Park.Bigger.Longer.and.Uncut.1999.m3u8
-#EXTINF:0 group-title="(US) United States",SOUTHEASTERN CHANNEL | SD
-http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
-#EXTINF:0 group-title="(US) United States",SPIDER-MAN | SD
-https://bobmovies.net/hl/Spider_Man_Homecoming_2017.m3u8
-#EXTINF:0 group-title="(US) United States",SPIDER-MAN 2 2004 | SD
-https://bobmovies.net/hl/Spider.Man.2.2004.m3u8
-#EXTINF:0 group-title="(US) United States",SPIDER-MAN 2002 | SD
-https://bobmovies.net/hl/Spider.Man.2002.m3u8
-#EXTINF:0 group-title="(US) United States",SPIKE | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7698.m3u8
-#EXTINF:0 group-title="(US) United States",SPYDAR TV | SD
-https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",STARZ COMEDY | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7696.m3u8
-#EXTINF:0 group-title="(US) United States",SUICIDE SQUAD 2016 | SD
-https://bobmovies.net/hl/Suicide_Squad_2016.m3u8
-#EXTINF:0 group-title="(US) United States",SYFY | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7695.m3u8
-#EXTINF:0 group-title="(US) United States",TBS | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7694.m3u8
-#EXTINF:0 group-title="(US) United States",TED 2012 | SD
-https://bobmovies.net/hl/Ted.2012_720p.m3u8
-#EXTINF:0 group-title="(US) United States",TELEUNO TV | SD
-http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",TELEVISION ESNE | SD
-http://198.154.228.82:1935/esne-live/smil:esnetv.smil/chunklist_w431608397_b1298000_sleng.m3u8
-#EXTINF:0 group-title="(US) United States",TEMPE 11 | SD
-http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
-#EXTINF:0 group-title="(US) United States",TERMINATOR GENISYS 2015 | SD
-https://bobmovies.net/hl/Terminator_Genisys_2015.m3u8
-#EXTINF:0 group-title="(US) United States",THE ABYSS 1989 | SD
-https://bobmovies.net/hl/The.Abyss.1989.m3u8
-#EXTINF:0 group-title="(US) United States",THE AVENGERS 2012 | SD
-https://bobmovies.net/hl/The.Avengers.2012.m3u8
-#EXTINF:0 group-title="(US) United States",THE CIRCLE 2017 | SD
-https://bobmovies.net/hl/The_Circle_2017_1080p.m3u8
-#EXTINF:0 group-title="(US) United States",THE CLOVERFIELD PARADOX 2018 | SD
-https://bobmovies.net/hl/the.cloverfield.paradox.2018.m3u8
-#EXTINF:0 group-title="(US) United States",THE DARK KNIGHT 2008 | SD
-https://bobmovies.net/hl/Batman.The.Dark.Knight.2008.m3u8
-#EXTINF:0 group-title="(US) United States",THE DARK TOWER 2017 | SD
-https://bobmovies.net/hl/The_Dark_Tower_2017_hdd.m3u8
-#EXTINF:0 group-title="(US) United States",THE DEATH OF SUPERMAN 2018 | SD
-https://bobmovies.net/hl/The.Death.Of.Superman.2018_720p.m3u8
-#EXTINF:0 group-title="(US) United States",THE FATE OF THE FURIOUS 2017 | SD
-https://bobmovies.net/hl/The_Fate_of_the_Furious_2017_1080p.m3u8
-#EXTINF:0 group-title="(US) United States",THE GREATEST SHOWMAN 2017 | SD
-https://bobmovies.net/hl/The.Greatest.Showman.2017.KORSUB.HDRipT.m3u8
-#EXTINF:0 group-title="(US) United States",THE HELP 2011 | SD
-https://bobmovies.net/hl/The_Help_2011.m3u8
-#EXTINF:0 group-title="(US) United States",THE LION KING 2 | SD
-https://bobmovies.net/hl/The.Lion.King.2.Simbas.Pride.1998.m3u8
-#EXTINF:0 group-title="(US) United States",THE LITTLE MERMAID 1989 | SD
-https://bobmovies.net/hl/The.Little.Mermaid.1989.m3u8
-#EXTINF:0 group-title="(US) United States",THE MAGNIFICENT SEVEN 2016 | SD
-https://bobmovies.net/hl/The_Magnificent_Seven_2016_new.m3u8
-#EXTINF:0 group-title="(US) United States",THE NEIGHBOR 2018 | SD
-https://bobmovies.net/hl/The.Neighbor.2017.m3u8
-#EXTINF:0 group-title="(US) United States",THE NUT JOB 2 | SD
-https://bobmovies.net/hl/The.Nut.Job.2.Nutty.by.Nature.2017.m3u8
-#EXTINF:0 group-title="(US) United States",THE REVENANT 2015 | SD
-https://bobmovies.net/hl/The_Revenant_2015.m3u8
-#EXTINF:0 group-title="(US) United States",THE SECRET LIFE OF WALTER MITTY 2013 | SD
-https://bobmovies.net/hl/The.Secret.Life.of.Walter.Mitty.2013new.m3u8
-#EXTINF:0 group-title="(US) United States",THE SHAPE OF WATER 2017 | SD
-https://bobmovies.net/hl/The.Shape.of.Water.2017.m3u8
-#EXTINF:0 group-title="(US) United States",THOR | SD
-https://bobmovies.net/hl/Thor.Ragnarok.2017.web.m3u8
-#EXTINF:0 group-title="(US) United States",TLC | HD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7693.m3u8
-#EXTINF:0 group-title="(US) United States",TLC | SD
-http://80.80.160.168/live/2/live.m3u8
-#EXTINF:0 group-title="(US) United States",TNT | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7692.m3u8
-#EXTINF:0 group-title="(US) United States",TOONAMI AFTERMATH EST | SD
-http://198.98.58.76:1935/live/est/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",TOONAMI AFTERMATH PST | SD
-http://209.141.34.104:1935/live/pst/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",TOY STORY 2 1999 | SD
-https://bobmovies.net/hl/Toy.Story.2.1999.m3u8
-#EXTINF:0 group-title="(US) United States",TOY STORY 3 2010 | SD
-https://bobmovies.net/hl/Toy_story_3_2010.m3u8
-#EXTINF:0 group-title="(US) United States",TRANSFORMERS | SD
-https://bobmovies.net/hl/Transformers.Revenge.Of.The.Fallen.2009.m3u8
-#EXTINF:0 group-title="(US) United States",TRAVEL CHANNEL | SD
-http://80.80.160.168/live/3/live.m3u8
-#EXTINF:0 group-title="(US) United States",TRAVEL CHANNEL (1+) | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7691.m3u8
-#EXTINF:0 group-title="(US) United States",TSN 1 | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7690.m3u8
-#EXTINF:0 group-title="(US) United States",TSN 2 | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7689.m3u8
-#EXTINF:0 group-title="(US) United States",TSN 3 | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7688.m3u8
-#EXTINF:0 group-title="(US) United States",TSN 4 | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7687.m3u8
-#EXTINF:0 group-title="(US) United States",TSN 5 | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7686.m3u8
-#EXTINF:0 group-title="(US) United States",TV LAND | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7685.m3u8
-#EXTINF:0 group-title="(US) United States",TVW | SD
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
-#EXTINF:0 group-title="(US) United States",TVW-2 | SD
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
-#EXTINF:0 group-title="(US) United States",UNDERWORLD | SD
-https://bobmovies.net/hl/Underworld_Blood_Wars_2016.m3u8
-#EXTINF:0 group-title="(US) United States",UNFORGIVEN 1992 | SD
-https://bobmovies.net/hl/Unforgiven_1992.m3u8
-#EXTINF:0 group-title="(US) United States",UNTHINKABLE 2010 | SD
-https://bobmovies.net/hl/Unthinkable.2010_720p.m3u8
-#EXTINF:0 group-title="(US) United States",VALERIAN AND THE CITY OF A THOUSAND PLANETS 2017 | SD
-https://bobmovies.net/hl/ValerianandtheCityofaThousandPlanets2017_HD.m3u8
-#EXTINF:0 group-title="(US) United States",VASANTHAM TV | SD
-http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",VICTORY TV NETWORK | SD
-http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",WAR FOR THE PLANET OF THE APES 2017 | SD
-https://bobmovies.net/hl/War.For.The.Planet.Of.The.Apes.2017nn.m3u8
-#EXTINF:0 group-title="(US) United States",WESTERN 4U | SD
-https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",WGGS-TV | SD
-https://d202lge9i6ts6.cloudfront.net/origin1ingest1/c7956aac88/chunklist.m3u8
-#EXTINF:0 group-title="(US) United States",WHEN WE FIRST MET 2018 | SD
-https://bobmovies.net/hl/When.We.First.Met.2018.m3u8
-#EXTINF:0 group-title="(US) United States",WHOH TV | SD
-http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",WISH UPON 2017 | SD
-http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
-#EXTINF:0 group-title="(US) United States",WRECK-IT RALPH 2012 | SD
-https://bobmovies.net/hl/Wreck.it.Ralph.2012_720p.m3u8
-#EXTINF:0 group-title="(US) United States",WWE | HD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7683.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",*** AutoIPTV ***
-https://autoiptv.net
-#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net
-https://autoiptv.net
-#EXTINF:0 group-title="(UK) United Kingdom",*** Playlists ***
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net/playlists
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(UK) United Kingdom",BOOMERANG | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3173.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISNEY CHANNEL | SD
-http://185.53.163.220:2015/live/280690/280690/22744.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",NICKTOONS | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3198.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",TINY POP | SD
-http://185.53.163.220:2015/live/280690/280690/7693.m3u8
-#EXTINF:0 group-title="(US) United States",*** Playlists ***
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(US) United States",https://autoiptv.net/playlists
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(US) United States",CARTOON NETWORK | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7748.m3u8
-#EXTINF:0 group-title="(US) United States",CARTOON NETWORK (1+) | SD
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:0 group-title="(US) United States",DISNEY CHANNEL | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7733.m3u8
-#EXTINF:0 group-title="(US) United States",HBO FAMILY | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7717.m3u8
-#EXTINF:0 group-title="(US) United States",KIDS | SD
-http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
-#EXTINF:0 group-title="(US) United States",NICKTOONS | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7705.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",AT RACES | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3176.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",BOX NATION | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3181.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3183.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD
-http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/1466.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3184.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD
-http://185.53.163.220:2015/live/280690/280690/26366.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | SD
-http://185.53.163.220:2015/live/280690/280690/26365.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT EUROPE | HD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3185.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ELEVEN SPORTS 1 | SD
-http://61.58.60.230:9000/live/75.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ELEVEN SPORTS 2 | SD
-http://61.58.60.230:9000/live/102.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ESPN | HD
-http://185.53.163.220:2015/live/280690/280690/17394.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",LIVERPOOL FC TV | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3194.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORTS | HD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3199.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RACING | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3200.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT 1 | HD
-http://185.53.163.220:2015/live/280690/280690/17384.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT 5 | HD
-http://185.53.163.220:2015/live/280690/280690/17388.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT ACTION | SD
-http://185.53.163.220:2015/live/280690/280690/32198.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT CRICKET | SD
-http://185.53.163.220:2015/live/280690/280690/32197.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT GOLF | SD
-http://185.53.163.220:2015/live/280690/280690/32196.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORT NEWS | HD
-http://185.53.163.220:2015/live/280690/280690/17390.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 1 | HD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3212.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 2 | HD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3213.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 3 | HD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3214.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 3 (1+) | HD
-http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/1456.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 4 | HD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3215.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS 4 (1+) | HD
-http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/1455.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD
-http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/1458.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD
-http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/1459.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD
-http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/1457.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3217.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/3218.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD
-http://212.8.253.56:25461/live/salihakdogan/7zJNLVnNTk/1454.m3u8
-#EXTINF:0 group-title="(US) United States",AFN PRIME ATLANTIC | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7757.m3u8
-#EXTINF:0 group-title="(US) United States",AFN PRIME PACIFIC | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7756.m3u8
-#EXTINF:0 group-title="(US) United States",AFN SPORTS | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7755.m3u8
-#EXTINF:0 group-title="(US) United States",AFN SPORTS 2 | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7754.m3u8
-#EXTINF:0 group-title="(US) United States",AUTOMOTO TV | SD
-http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",BEIN SPORTS | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7752.m3u8
-#EXTINF:0 group-title="(US) United States",CBS SPORTS NETWORK | HD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7746.m3u8
-#EXTINF:0 group-title="(US) United States",ESPN | SD
-http://80.80.160.168/live/6/live.m3u8
-#EXTINF:0 group-title="(US) United States",ESPN (1+) | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7727.m3u8
-#EXTINF:0 group-title="(US) United States",ESPN 2 | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7732.m3u8
-#EXTINF:0 group-title="(US) United States",ESPN 2 (1+) | SD
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:0 group-title="(US) United States",ESPN 3 | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7731.m3u8
-#EXTINF:0 group-title="(US) United States",ESPN DEPORTES | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7730.m3u8
-#EXTINF:0 group-title="(US) United States",ESPN NEWS | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7729.m3u8
-#EXTINF:0 group-title="(US) United States",ESPN U | HD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7728.m3u8
-#EXTINF:0 group-title="(US) United States",FOX SOCCER | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7724.m3u8
-#EXTINF:0 group-title="(US) United States",FOX SPORTS 1 | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7723.m3u8
-#EXTINF:0 group-title="(US) United States",FOX SPORTS 2 | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7722.m3u8
-#EXTINF:0 group-title="(US) United States",FOX SPORTS RACING | SD
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:0 group-title="(US) United States",JUSTICE LEAGUE 2017 | SD
-https://bobmovies.net/hl/Justice.League.2017_hd.m3u8
-#EXTINF:0 group-title="(US) United States",JUSTICE LEAGUE DARK 2017 | SD
-https://bobmovies.net/hl/Justice_League_Dark_2017_720p.m3u8
-#EXTINF:0 group-title="(US) United States",MLB NETWORK | SD
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:0 group-title="(US) United States",MLB NETWORK (1+) | SD
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
-#EXTINF:0 group-title="(US) United States",NFL NETWORK | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7707.m3u8
-#EXTINF:0 group-title="(US) United States",NHL NETWORK | HD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7706.m3u8
-#EXTINF:0 group-title="(US) United States",SPORT 1 | SD
-http://painel.soeu.kim:8080/live/ilidio/ilidio/7525.m3u8
+#EXTINF:-1,Uk- 4 Music
+http://194.88.107.95:6204/live/Abas/Abas/8595.ts
+#EXTINF:-1,Uk- 5 USA
+http://194.88.107.95:6204/live/Abas/Abas/8594.ts
+#EXTINF:-1,Uk- Animal Planet HD
+http://194.88.107.95:6204/live/Abas/Abas/8593.ts
+#EXTINF:-1,Uk- Arts 1 HD
+http://194.88.107.95:6204/live/Abas/Abas/8592.ts
+#EXTINF:-1,Uk- Atlantic
+http://194.88.107.95:6204/live/Abas/Abas/8591.ts
+#EXTINF:-1,Uk- Baby
+http://194.88.107.95:6204/live/Abas/Abas/8590.ts
+#EXTINF:-1,Uk- BBC Four HD
+http://194.88.107.95:6204/live/Abas/Abas/8588.ts
+#EXTINF:-1,Uk- BBC One HD
+http://194.88.107.95:6204/live/Abas/Abas/8587.ts
+#EXTINF:-1,Uk- BBC Three HD
+http://194.88.107.95:6204/live/Abas/Abas/8586.ts
+#EXTINF:-1,Uk- BBC Two HD
+http://194.88.107.95:6204/live/Abas/Abas/8585.ts
+#EXTINF:-1,Uk- Bloomberg HD
+http://194.88.107.95:6204/live/Abas/Abas/8584.ts
+#EXTINF:-1,Uk- BoxNation
+http://194.88.107.95:6204/live/Abas/Abas/8583.ts
+#EXTINF:-1,Uk- Uk- BT Sport ESPN HD
+http://194.88.107.95:6204/live/Abas/Abas/8577.ts
+#EXTINF:-1,Uk- Cbs Action
+http://194.88.107.95:6204/live/Abas/Abas/8575.ts
+#EXTINF:-1,Uk- Cbs Drama
+http://194.88.107.95:6204/live/Abas/Abas/8574.ts
+#EXTINF:-1,Uk- CBS Reality
+http://194.88.107.95:6204/live/Abas/Abas/8573.ts
+#EXTINF:-1,Uk- Chelsea TV HD
+http://194.88.107.95:6204/live/Abas/Abas/8572.ts
+#EXTINF:-1,Uk- Ci
+http://194.88.107.95:6204/live/Abas/Abas/8571.ts
+#EXTINF:-1,Uk- Comedy Central
+http://194.88.107.95:6204/live/Abas/Abas/8569.ts
+#EXTINF:-1,Uk- Discovery
+http://194.88.107.95:6204/live/Abas/Abas/8568.ts
+#EXTINF:-1,Uk- Discovery History
+http://194.88.107.95:6204/live/Abas/Abas/8567.ts
+#EXTINF:-1,Uk- Discovery Science
+http://194.88.107.95:6204/live/Abas/Abas/8566.ts
+#EXTINF:-1,Uk- Discovery Shed
+http://194.88.107.95:6204/live/Abas/Abas/8565.ts
+#EXTINF:-1,Uk- Discovery Turbo
+http://194.88.107.95:6204/live/Abas/Abas/8564.ts
+#EXTINF:-1,Uk- Disney Chaneel HD
+http://194.88.107.95:6204/live/Abas/Abas/8563.ts
+#EXTINF:-1,Uk- Disney Junior HD
+http://194.88.107.95:6204/live/Abas/Abas/8562.ts
+#EXTINF:-1,Uk- Disney XD HD
+http://194.88.107.95:6204/live/Abas/Abas/8561.ts
+#EXTINF:-1,Uk- Eurosport 1 HD
+http://194.88.107.95:6204/live/Abas/Abas/8560.ts
+#EXTINF:-1,Uk- Eurosport 2 HD
+http://194.88.107.95:6204/live/Abas/Abas/8559.ts
+#EXTINF:-1,Uk- Food Network
+http://194.88.107.95:6204/live/Abas/Abas/8558.ts
+#EXTINF:-1,Uk- Gold
+http://194.88.107.95:6204/live/Abas/Abas/8557.ts
+#EXTINF:-1,Uk- Good Food HD
+http://194.88.107.95:6204/live/Abas/Abas/8556.ts
+#EXTINF:-1,Uk- History HD
+http://194.88.107.95:6204/live/Abas/Abas/8555.ts
+#EXTINF:-1,Uk- Home & Health
+http://194.88.107.95:6204/live/Abas/Abas/8554.ts
+#EXTINF:-1,Uk- Horse & Country
+http://194.88.107.95:6204/live/Abas/Abas/8553.ts
+#EXTINF:-1,Uk- ITV 1
+http://194.88.107.95:6204/live/Abas/Abas/8552.ts
+#EXTINF:-1,Uk- ITV 2
+http://194.88.107.95:6204/live/Abas/Abas/8551.ts
+#EXTINF:-1,Uk- ITV 3
+http://194.88.107.95:6204/live/Abas/Abas/8550.ts
+#EXTINF:-1,Uk- ITV 4
+http://194.88.107.95:6204/live/Abas/Abas/8549.ts
+#EXTINF:-1,UK: E4 UK
+http://193.200.164.215:1795/live/kutlu/kutlu/31594.ts
+#EXTINF:-1,UK: 3E
+http://193.200.164.215:1795/live/kutlu/kutlu/31595.ts
+#EXTINF:-1,UK: ALIBI
+http://193.200.164.215:1795/live/kutlu/kutlu/31596.ts
+#EXTINF:-1,UK: ANIMAL PLANET
+http://193.200.164.215:1795/live/kutlu/kutlu/31597.ts
+#EXTINF:-1,UK: BABY TV
+http://193.200.164.215:1795/live/kutlu/kutlu/31593.ts
+#EXTINF:-1,UK: BBC 1 HD
+http://193.200.164.215:1795/live/kutlu/kutlu/31578.ts
+#EXTINF:-1,UK: BBC NEWS HD
+http://193.200.164.215:1795/live/kutlu/kutlu/31577.ts
+#EXTINF:-1,UK: BBC1
+http://193.200.164.215:1795/live/kutlu/kutlu/31599.ts
+#EXTINF:-1,UK: BBC3
+http://193.200.164.215:1795/live/kutlu/kutlu/31598.ts
+#EXTINF:-1,UK: BOX NATION HD
+http://193.200.164.215:1795/live/kutlu/kutlu/31600.ts
+#EXTINF:-1,UK: CBS DRAMA
+http://193.200.164.215:1795/live/kutlu/kutlu/31604.ts
+#EXTINF:-1,UK: CHANNEL 4
+http://193.200.164.215:1795/live/kutlu/kutlu/31607.ts
+#EXTINF:-1,UK: CHANNEL 5
+http://193.200.164.215:1795/live/kutlu/kutlu/31606.ts
+#EXTINF:-1,UK: CNN HD
+http://193.200.164.215:1795/live/kutlu/kutlu/31608.ts
+#EXTINF:-1,UK: COMEDY CENTRAL
+http://193.200.164.215:1795/live/kutlu/kutlu/31609.ts
+#EXTINF:-1,UK: DAVE UK
+http://193.200.164.215:1795/live/kutlu/kutlu/31610.ts
+#EXTINF:-1,UK: DISCOVERY
+http://193.200.164.215:1795/live/kutlu/kutlu/31611.ts
+#EXTINF:-1,UK: DISCOVERY CHANNEL
+http://193.200.164.215:1795/live/kutlu/kutlu/31612.ts
+#EXTINF:-1,UK: DISCOVERY HISTORY
+http://193.200.164.215:1795/live/kutlu/kutlu/31613.ts
+#EXTINF:-1,UK: DISCOVERY SCIENCE
+http://193.200.164.215:1795/live/kutlu/kutlu/31614.ts
+#EXTINF:-1,UK: DISCOVERY SCIENCE UK
+http://193.200.164.215:1795/live/kutlu/kutlu/31615.ts
+#EXTINF:-1,UK: DISCOVERY TURBO
+http://193.200.164.215:1795/live/kutlu/kutlu/31616.ts
+#EXTINF:-1,UK: DISNEY
+http://193.200.164.215:1795/live/kutlu/kutlu/31576.ts
+#EXTINF:-1,UK: DISNEY CHANNEL
+http://193.200.164.215:1795/live/kutlu/kutlu/31617.ts
+#EXTINF:-1,UK: DISNEY JUNIOR
+http://193.200.164.215:1795/live/kutlu/kutlu/31618.ts
+#EXTINF:-1,UK: DISNEY MOVIES
+http://193.200.164.215:1795/live/kutlu/kutlu/31619.ts
+#EXTINF:-1,UK: DISNEY XD
+http://193.200.164.215:1795/live/kutlu/kutlu/31620.ts
+#EXTINF:-1,UK: E!
+http://193.200.164.215:1795/live/kutlu/kutlu/31621.ts
+#EXTINF:-1,UK: ESPN HD
+http://193.200.164.215:1795/live/kutlu/kutlu/31622.ts
+#EXTINF:-1,UK: ESPN UK
+http://193.200.164.215:1795/live/kutlu/kutlu/31623.ts
+#EXTINF:-1,UK: EUROSPORT 1
+http://193.200.164.215:1795/live/kutlu/kutlu/31625.ts
+#EXTINF:-1,UK: EUROSPORT 2 UK
+http://193.200.164.215:1795/live/kutlu/kutlu/31624.ts
+#EXTINF:-1,UK: FIVE
+http://193.200.164.215:1795/live/kutlu/kutlu/31626.ts
+#EXTINF:-1,UK: FOX SPORTS 2 HD
+http://193.200.164.215:1795/live/kutlu/kutlu/31627.ts
+#EXTINF:-1,UK: GOLD UK
+http://193.200.164.215:1795/live/kutlu/kutlu/31628.ts
+#EXTINF:-1,UK: HISTORY CHANNEL
+http://193.200.164.215:1795/live/kutlu/kutlu/31630.ts
+#EXTINF:-1,UK: HISTORY CHANNEL 2
+http://193.200.164.215:1795/live/kutlu/kutlu/31631.ts
+#EXTINF:-1,UK: HORROR CHANNEL
+http://193.200.164.215:1795/live/kutlu/kutlu/31632.ts
+#EXTINF:-1,UK: ITV 1 HD
+http://193.200.164.215:1795/live/kutlu/kutlu/31638.ts
+#EXTINF:-1,UK: ITV 2
+http://193.200.164.215:1795/live/kutlu/kutlu/31575.ts
+#EXTINF:-1,UK: ITV 3 HD
+http://193.200.164.215:1795/live/kutlu/kutlu/31635.ts
+#EXTINF:-1,UK: ITV 4
+http://193.200.164.215:1795/live/kutlu/kutlu/31574.ts
+#EXTINF:-1,UK: ITV BE
+http://193.200.164.215:1795/live/kutlu/kutlu/31633.ts
+#EXTINF:-1,UK: ITV2
+http://193.200.164.215:1795/live/kutlu/kutlu/31637.ts
+#EXTINF:-1,UK: ITV3
+http://193.200.164.215:1795/live/kutlu/kutlu/31636.ts
+#EXTINF:-1,UK: ITV4
+http://193.200.164.215:1795/live/kutlu/kutlu/31634.ts
+#EXTINF:-1,UK: MORE 4
+http://193.200.164.215:1795/live/kutlu/kutlu/31639.ts
+#EXTINF:-1,UK: MOVIES FAMILY HD
+http://193.200.164.215:1795/live/kutlu/kutlu/31588.ts
+#EXTINF:-1,UK: MTV
+http://193.200.164.215:1795/live/kutlu/kutlu/31640.ts
+#EXTINF:-1,UK: MUTV
+http://193.200.164.215:1795/live/kutlu/kutlu/31641.ts
+#EXTINF:-1,UK: NAT GEO WILD
+http://193.200.164.215:1795/live/kutlu/kutlu/31642.ts
+#EXTINF:-1,UK: NATIONAL GEOGRAPHIC
+http://193.200.164.215:1795/live/kutlu/kutlu/31643.ts
+#EXTINF:-1,UK: NATIONAL GEOGRAPHIC WILD
+http://193.200.164.215:1795/live/kutlu/kutlu/31644.ts
+#EXTINF:-1,UK: NATIONAL GEOGRAPHICH
+http://193.200.164.215:1795/live/kutlu/kutlu/31645.ts
+#EXTINF:-1,UK: NBA HD
+http://193.200.164.215:1795/live/kutlu/kutlu/31646.ts
+#EXTINF:-1,UK: NICK
+http://193.200.164.215:1795/live/kutlu/kutlu/31573.ts
+#EXTINF:-1,UK: NICK JR
+http://193.200.164.215:1795/live/kutlu/kutlu/31647.ts
+#EXTINF:-1,UK: NICK JUNIOR
+http://193.200.164.215:1795/live/kutlu/kutlu/31589.ts
+#EXTINF:-1,UK: NICK TOONS
+http://193.200.164.215:1795/live/kutlu/kutlu/31648.ts
+#EXTINF:-1,UK: NICKELODEON
+http://193.200.164.215:1795/live/kutlu/kutlu/31649.ts
+#EXTINF:-1,UK: NICKTOONS
+http://193.200.164.215:1795/live/kutlu/kutlu/31650.ts
+#EXTINF:-1,UK: OSN FOOD NETWORK
+http://193.200.164.215:1795/live/kutlu/kutlu/31572.ts
+#EXTINF:-1,UK: PREMIERE SPORT
+http://193.200.164.215:1795/live/kutlu/kutlu/31590.ts
+#EXTINF:-1,UK: QUEST
+http://193.200.164.215:1795/live/kutlu/kutlu/31571.ts
+#EXTINF:-1,UK: RACING UK
+http://193.200.164.215:1795/live/kutlu/kutlu/31651.ts
+#EXTINF:-1,UK: RTE 1
+http://193.200.164.215:1795/live/kutlu/kutlu/31570.ts
+#EXTINF:-1,UK: RTE ONE UK
+http://193.200.164.215:1795/live/kutlu/kutlu/31652.ts
+#EXTINF:-1,UK: RTE TWO UK
+http://193.200.164.215:1795/live/kutlu/kutlu/31653.ts
+#EXTINF:-1,UK: SETANTA SPORT IRLAND 1
+http://193.200.164.215:1795/live/kutlu/kutlu/31654.ts
+#EXTINF:-1,UK: CNN HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63665.ts
+#EXTINF:-1,UK: BBC World
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63720.ts
+#EXTINF:-1,UK: CBSN News HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63684.ts
+#EXTINF:-1,UK: Euronews
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63625.ts
+#EXTINF:-1,UK: Al Jazeera News HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63737.ts
+#EXTINF:-1,UK: BBC World News HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63719.ts
+#EXTINF:-1,UK: Fox News
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63610.ts
+#EXTINF:-1,UK: FRANCE 24
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63609.ts
+#EXTINF:-1,UK: CBS Action HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63687.ts
+#EXTINF:-1,UK: BBC 1 FHD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63729.ts
+#EXTINF:-1,UK: BBC 2 HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63728.ts
+#EXTINF:-1,UK: BBC 3
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63727.ts
+#EXTINF:-1,UK: BBC 4 HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63726.ts
+#EXTINF:-1,UK: CBBC Three HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63689.ts
+#EXTINF:-1,UK: ITV 1
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63584.ts
+#EXTINF:-1,UK: ITV BE
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63583.ts
+#EXTINF:-1,UK: ITV FHD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63580.ts
+#EXTINF:-1,UK: ITV1 FHD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63579.ts
+#EXTINF:-1,UK: ITV2 1
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63578.ts
+#EXTINF:-1,UK: ITV2 HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63577.ts
+#EXTINF:-1,UK: ITV3 HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63576.ts
+#EXTINF:-1,UK: ITV4 1
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63575.ts
+#EXTINF:-1,UK: ITV4 HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63574.ts
+#EXTINF:-1,UK: ITVBe 1
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63573.ts
+#EXTINF:-1,UK: Rte One HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/66527.ts
+#EXTINF:-1,UK: Rte Two HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/66528.ts
+#EXTINF:-1,UK: KISS
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63572.ts
+#EXTINF:-1,UK: MTV Base HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63552.ts
+#EXTINF:-1,UK: MTV Dance
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63550.ts
+#EXTINF:-1,UK: 4MUSIC HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63741.ts
+#EXTINF:-1,UK: MTV HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63549.ts
+#EXTINF:-1,UK: MTV Music
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63547.ts
+#EXTINF:-1,UK: 24/7 MAX & PADDY
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63744.ts
+#EXTINF:-1,UK: 24/7 SEINFELD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63743.ts
+#EXTINF:-1,UK: 3E HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63742.ts
+#EXTINF:-1,UK: 4 Seven HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63751.ts
+#EXTINF:-1,UK: 5 Spike HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63749.ts
+#EXTINF:-1,UK: 5 STAR 1
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63748.ts
+#EXTINF:-1,UK: 5 Star HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63747.ts
+#EXTINF:-1,UK: 5 USA 1 HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63746.ts
+#EXTINF:-1,UK: 5 USA HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63745.ts
+#EXTINF:-1,UK: 5Spike 1 HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63740.ts
+#EXTINF:-1,UK: ABC News HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63739.ts
+#EXTINF:-1,UK: AIT Intl
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63738.ts
+#EXTINF:-1,UK: Alibi HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63736.ts
+#EXTINF:-1,UK: CBS Drama HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63686.ts
+#EXTINF:-1,UK: 5 SELECT HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63750.ts
+#EXTINF:-1,UK: AMC HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63735.ts
+#EXTINF:-1,UK: Animal Planet HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63734.ts
+#EXTINF:-1,UK: Arise News HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63733.ts
+#EXTINF:-1,UK: At The Races HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63732.ts
+#EXTINF:-1,UK: AXN FHD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63731.ts
+#EXTINF:-1,UK: Baby TV HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63730.ts
+#EXTINF:-1,UK: BET HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63718.ts
+#EXTINF:-1,UK: Bike Channel
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63717.ts
+#EXTINF:-1,UK: Bike HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63716.ts
+#EXTINF:-1,UK: Blaze HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63715.ts
+#EXTINF:-1,UK: Bloomberg Europe TV HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63714.ts
+#EXTINF:-1,UK: Bloomberg HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63713.ts
+#EXTINF:-1,UK: Boomerang
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63712.ts
+#EXTINF:-1,UK: Boomerang 1
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63711.ts
+#EXTINF:-1,UK: BOOMRANG
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63710.ts
+#EXTINF:-1,UK: Bravo HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63699.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63698.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63697.ts
+#EXTINF:-1,UK: BT SPORT 3 HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63696.ts
+#EXTINF:-1,UK: BT SPORT ESPN HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63695.ts
+#EXTINF:-1,UK: CAPITAL TV HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63694.ts
+#EXTINF:-1,UK: CAPITAL TV MUSIC HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63693.ts
+#EXTINF:-1,UK: Cartoon Network HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63691.ts
+#EXTINF:-1,UK: Cartoonito
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63690.ts
+#EXTINF:-1,UK: CBS Reality HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63685.ts
+#EXTINF:-1,UK: Challenge 1 HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63682.ts
+#EXTINF:-1,UK: Challenge HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63681.ts
+#EXTINF:-1,UK: Channel 4 1 HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63680.ts
+#EXTINF:-1,UK: Channel 5 1
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63679.ts
+#EXTINF:-1,UK: Channel AKA HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63678.ts
+#EXTINF:-1,UK: CHANNEL2 HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63677.ts
+#EXTINF:-1,UK: Channel4 FHD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63676.ts
+#EXTINF:-1,UK: Channel5 FHD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63675.ts
+#EXTINF:-1,UK: Channels Television HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63674.ts
+#EXTINF:-1,UK: Chart show Hits HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63673.ts
+#EXTINF:-1,UK: Chart Show TV HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63672.ts
+#EXTINF:-1,UK: Chelsea TV
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63671.ts
+#EXTINF:-1,UK: Chilled 90s HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63670.ts
+#EXTINF:-1,UK: CITV HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63667.ts
+#EXTINF:-1,UK: COLORS
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63664.ts
+#EXTINF:-1,UK: Discovery Channel HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63651.ts
+#EXTINF:-1,UK: Discovery History HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63650.ts
+#EXTINF:-1,UK: Discovery ID HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63649.ts
+#EXTINF:-1,UK: Discovery Science HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63648.ts
+#EXTINF:-1,UK: Discovery Shed
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63646.ts
+#EXTINF:-1,UK: Discovery Turbo HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63645.ts
+#EXTINF:-1,UK: Disney Channel 1
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63644.ts
+#EXTINF:-1,UK: Disney Channel HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63643.ts
+#EXTINF:-1,UK: Disney Junior HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63642.ts
+#EXTINF:-1,UK: Disney Movies
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63641.ts
+#EXTINF:-1,UK: Disney XD HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63640.ts
+#EXTINF:-1,UK: Docubox HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63638.ts
+#EXTINF:-1,UK: Drama
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63637.ts
+#EXTINF:-1,UK: DW
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63636.ts
+#EXTINF:-1,UK: E! Entertainment HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63635.ts
+#EXTINF:-1,UK: E4 1
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63634.ts
+#EXTINF:-1,UK: E4 HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63633.ts
+#EXTINF:-1,UK: Eden HD
+http://190.2.142.103:8000/live/IPRT9u7a9m/o8u0szDYHJ/63631.ts
+#EXTINF:-1,UK | BBC ONE
+http://185.53.163.220:2015/live/280690/280690/7708.ts
+#EXTINF:-1,UK | BBC TWO
+http://185.53.163.220:2015/live/280690/280690/7707.ts
+#EXTINF:-1,UK | BBC NEWS
+http://185.53.163.220:2015/live/280690/280690/7704.ts
+#EXTINF:-1,UK | BBC ALBA
+http://185.53.163.220:2015/live/280690/280690/7706.ts
+#EXTINF:-1,UK | ITV 1
+http://185.53.163.220:2015/live/280690/280690/7713.ts
+#EXTINF:-1,UK | ITV 2
+http://185.53.163.220:2015/live/280690/280690/7712.ts
+#EXTINF:-1,UK | ITV 3
+http://185.53.163.220:2015/live/280690/280690/7711.ts
+#EXTINF:-1,UK | ITV 4
+http://185.53.163.220:2015/live/280690/280690/7710.ts
+#EXTINF:-1,UK | ITV BE
+http://185.53.163.220:2015/live/280690/280690/7709.ts
+#EXTINF:-1,UK | SKY NEWS UK
+http://185.53.163.220:2015/live/280690/280690/11468.ts
+#EXTINF:-1,UK | PICK UK
+http://185.53.163.220:2015/live/280690/280690/11469.ts
+#EXTINF:-1,UK | U-TV
+http://185.53.163.220:2015/live/280690/280690/7702.ts
+#EXTINF:-1,UK | CHANNEL 5
+http://185.53.163.220:2015/live/280690/280690/7697.ts
+#EXTINF:-1,UK | CHANNEL 4
+http://185.53.163.220:2015/live/280690/280690/7698.ts
+#EXTINF:-1,UK | 5 STAR
+http://185.53.163.220:2015/live/280690/280690/11467.ts
+#EXTINF:-1,UK | 5 USA
+http://185.53.163.220:2015/live/280690/280690/11466.ts
+#EXTINF:-1,UK | MORE 4
+http://185.53.163.220:2015/live/280690/280690/11465.ts
+#EXTINF:-1,UK | CBBC
+http://185.53.163.220:2015/live/280690/280690/7705.ts
+#EXTINF:-1,UK | YESTERDAY
+http://185.53.163.220:2015/live/280690/280690/7656.ts
+#EXTINF:-1,UK | WATCH UK
+http://185.53.163.220:2015/live/280690/280690/7653.ts
+#EXTINF:-1,UK | VIVA UK
+http://185.53.163.220:2015/live/280690/280690/7609.ts
+#EXTINF:-1,UK | TINY POP
+http://185.53.163.220:2015/live/280690/280690/7693.ts
+#EXTINF:-1,UK | STV NORTH
+http://185.53.163.220:2015/live/280690/280690/7703.ts
+#EXTINF:-1,UK | RT UK
+http://185.53.163.220:2015/live/280690/280690/7685.ts
+#EXTINF:-1,UK | STARZ UK
+http://185.53.163.220:2015/live/280690/280690/7692.ts
+#EXTINF:-1,UK | REALLY
+http://185.53.163.220:2015/live/280690/280690/7650.ts
+#EXTINF:-1,UK | POP UK
+http://185.53.163.220:2015/live/280690/280690/7691.ts
+#EXTINF:-1,UK | 4 MUSIC
+http://185.53.163.220:2015/live/280690/280690/11849.ts
+#EXTINF:-1,UK | MOVIES 4 MEN
+http://185.53.163.220:2015/live/280690/280690/7684.ts
+#EXTINF:-1,UK | KIX UK
+http://185.53.163.220:2015/live/280690/280690/7690.ts
+#EXTINF:-1,UK | HOME
+http://185.53.163.220:2015/live/280690/280690/7659.ts
+#EXTINF:-1,UK | FOOD NETWORK
+http://185.53.163.220:2015/live/280690/280690/7654.ts
+#EXTINF:-1,UK | GOLD UK
+http://185.53.163.220:2015/live/280690/280690/7657.ts
+#EXTINF:-1,UK | DISNEY CHANNEL
+http://185.53.163.220:2015/live/280690/280690/22744.ts
+#EXTINF:-1,UK | DISNEY JUNIOR
+http://185.53.163.220:2015/live/280690/280690/22745.ts
+#EXTINF:-1,UK:5 USA
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17363.ts
+#EXTINF:-1,UK:ALIBI
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17362.ts
+#EXTINF:-1,UK:ANIMAL PLANET
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17361.ts
+#EXTINF:-1,UK:BBC 1 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17371.ts
+#EXTINF:-1,UK:BBC 2 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17370.ts
+#EXTINF:-1,UK:BBC 3 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17369.ts
+#EXTINF:-1,UK:BBC 4 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17368.ts
+#EXTINF:-1,UK:BBC News
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17360.ts
+#EXTINF:-1,UK:BLOOMBERG
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17359.ts
+#EXTINF:-1,UK:CARTOON NETWORK HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17313.ts
+#EXTINF:-1,UK:CBBC
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17358.ts
+#EXTINF:-1,UK:CBS ACTION HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17322.ts
+#EXTINF:-1,UK:CBS DRAMA HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17323.ts
+#EXTINF:-1,UK:CBS REALITY HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17324.ts
+#EXTINF:-1,UK:CHANNEL 4
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17357.ts
+#EXTINF:-1,UK:CHANNEL 5
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17356.ts
+#EXTINF:-1,UK:COMEDY CENTRAL
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17355.ts
+#EXTINF:-1,UK:CRIME & INVERSTIGATION
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17354.ts
+#EXTINF:-1,UK:DAVE
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17353.ts
+#EXTINF:-1,UK:DISCOVERY
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17352.ts
+#EXTINF:-1,UK:DISCOVERY HISTORY
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17351.ts
+#EXTINF:-1,UK:DISCOVERY SCIENCE
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17350.ts
+#EXTINF:-1,UK:DISCOVERY TURBO
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17349.ts
+#EXTINF:-1,UK:DISNEY XD HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17315.ts
+#EXTINF:-1,UK:E!
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17348.ts
+#EXTINF:-1,UK:E4
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17347.ts
+#EXTINF:-1,UK:EURONEWS
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17346.ts
+#EXTINF:-1,UK:FOOD NETWORK
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17344.ts
+#EXTINF:-1,UK:FOX NEWS
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17343.ts
+#EXTINF:-1,UK:HISTORY HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17316.ts
+#EXTINF:-1,UK:HOME&HEALTH
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17342.ts
+#EXTINF:-1,UK:INVESTIGATION DISCOVERY
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17341.ts
+#EXTINF:-1,UK:ITV 1 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17367.ts
+#EXTINF:-1,UK:ITV 2 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17366.ts
+#EXTINF:-1,UK:ITV 3 HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17365.ts
+#EXTINF:-1,UK:ITV 4
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17340.ts
+#EXTINF:-1,UK:ITV BE HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17364.ts
+#EXTINF:-1,UK:LONDON LIVE
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17339.ts
+#EXTINF:-1,UK:MORE 4
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17338.ts
+#EXTINF:-1,UK:NAT GEO WILD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17336.ts
+#EXTINF:-1,UK:NAT GEOGRAPHIC
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17335.ts
+#EXTINF:-1,UK:NICKELODEON HD
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17314.ts
+#EXTINF:-1,UK:QUEST
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17334.ts
+#EXTINF:-1,UK:RTE ONE
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17333.ts
+#EXTINF:-1,UK:RTE TWO
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17332.ts
+#EXTINF:-1,UK:TLC
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17328.ts
+#EXTINF:-1,UK:TRAVEL CHANNEL
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17327.ts
+#EXTINF:-1,UK:UNIVERSAL
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17326.ts
+#EXTINF:-1,UK:UTV
+http://portal.germanyservers.de:8000/live/HwTGCxR2Fv/tnTnu2RSYC/17325.ts
 
 
